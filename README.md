@@ -81,15 +81,19 @@ Your individual repository should contain:
 Create small commits with messages that explain what changed. Push regularly so
 GitHub contains a recoverable history of your work.
 
-## Asset Boundary
+## Content and Data Boundary
 
-Until Directors Notes gives explicit permission, do not copy its photographs,
-film stills, videos, logos or article text.
+Do not copy Directors Notes photographs, film stills, videos, logos, article
+text or archive records into your repository or deployed prototype.
 
-Use fictional sample content, your own writing or artwork, abstract
-placeholders, HTML and CSS visual treatments, or openly licensed assets with
-the required attribution. Record the source and licence of anything created by
-someone else.
+The course will provide a wholly fictional film dataset in progressive stages.
+You may adapt, commit and publish that teaching data. You may also use your own
+writing or artwork, abstract placeholders, HTML and CSS visual treatments, or
+openly licensed assets with the required attribution. Record the source and
+licence of anything created by someone else.
+
+The original Directors Notes project pack is private client reference material
+and will not be distributed through this repository.
 
 ## Working With AI
 
