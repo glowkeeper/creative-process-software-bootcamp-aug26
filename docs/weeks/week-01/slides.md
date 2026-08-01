@@ -12,6 +12,8 @@ Becoming a Developer Through a Real Client Brief
 
 Dr Steve Huckle
 
+steve@huckle.studio
+
 <!--
 Welcome learners and introduce the teaching team.
 
