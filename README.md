@@ -59,7 +59,6 @@ week by week as they are delivered.
 
 ## Week 1 Materials
 
-- [Introduction slides](docs/weeks/intro/slides.md)
 - [AI Charter slides](docs/weeks/ai-charter/slides.md)
 - [Week 1 slides](docs/weeks/week-01/slides.md)
 - [Directors Notes project briefs](docs/weeks/week-01/project-briefs.md)

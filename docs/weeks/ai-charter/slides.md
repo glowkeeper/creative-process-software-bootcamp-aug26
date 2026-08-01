@@ -6,176 +6,235 @@ footer: Software Development Bootcamp
 
 # Working with AI
 
-## Learning with AI, not learning *instead* of AI
+## Learning with AI, not learning instead of AI
+
+<!--
+Introduce this as a shared course agreement, not a warning or test.
+-->
 
 ---
 
-# Why We're Encouraging AI
+# AI can support your learning
 
-Professional software developers increasingly use AI tools every day.
+Use it to:
 
-Used well, AI can help you:
+- Explain unfamiliar ideas
+- Help interpret an error
+- Ask questions about code
+- Compare possible approaches
+- Review your reasoning
+- Practise explaining what you built
 
-- Understand new concepts
-- Debug problems
-- Explore different solutions
-- Improve your code
-- Work more efficiently
-
-Learning to use AI well is now an important software development skill.
-
----
-
-# What AI Should Not Do
-
-Your project should demonstrate **your understanding**, not the AI's.
-
-If AI writes code that you cannot explain, then you haven't learned the skill the exercise is designed to teach.
-
-## Never submit code you couldn't confidently explain to another student.
+<!--
+AI is optional. All course outcomes remain achievable without a paid AI tool.
+-->
 
 ---
 
-# Treat AI Like a Mentor
+# Your prototype should show your understanding
 
-Imagine you have an experienced developer sitting beside you.
+If you use code you cannot explain, you lose the learning the exercise was
+designed to create.
 
-Instead of asking:
+## Never present code as your work if you cannot explain what it does.
 
-> **"Build my application."**
-
-Ask questions like:
-
-- Explain how React state works.
-- Why isn't this event handler working?
-- Can you suggest three ways of implementing this?
-- **What would you improve about my code, and why?**
-- Can you explain this error message?
-
-The goal is to understand, not simply to produce code.
+<!--
+Keep the emphasis on ownership and learning rather than detecting or punishing AI use.
+-->
 
 ---
 
-# Build First, Ask Second
+# Treat AI like a mentor
 
-Always try to solve the problem yourself before asking AI.
+Instead of:
 
-Even spending five or ten minutes thinking about the problem will help you ask much better questions.
+> Build my whole application.
 
-A useful pattern is:
+Try:
 
-1. Think about the problem.
-2. Try something.
-3. Get stuck.
-4. Ask AI.
-5. Understand the answer.
-6. Apply it to your own project.
+- Help me break this feature into smaller steps.
+- Explain this error without giving me the full solution yet.
+- Ask me questions about where the problem might be.
+- Compare two simple approaches and their trade-offs.
 
----
-
-# Ask AI to Teach
-
-Some of the best prompts don't ask for code at all.
-
-Try asking AI to:
-
-- Explain a concept in simple terms.
-- Walk through code line by line.
-- Draw an analogy.
-- Show a small example before the full solution.
-- Quiz you to check your understanding.
-
-Learning lasts much longer than copied code.
+<!--
+The useful behaviour is dialogue that keeps the learner making decisions.
+-->
 
 ---
 
-# Keep Control of Your Project
+# Think, try, ask, understand
 
-AI doesn't know your project as well as you do.
+```text
+Understand the goal
+        ↓
+Try a small step
+        ↓
+Ask for appropriate help
+        ↓
+Check the answer
+        ↓
+Apply and test it yourself
+```
 
-Before accepting a suggestion, ask yourself:
+<!--
+Do not insist that a learner struggle for a fixed period before asking. Asking early can be appropriate, especially for accessibility or confidence.
+-->
 
-- Does this fit my design?
+---
+
+# Ask AI to teach
+
+Useful prompts do not always ask for code:
+
+- Explain this in plain language.
+- Walk through this code one line at a time.
+- Give me a smaller example first.
+- Ask me to predict what will happen.
+- Quiz me to check my understanding.
+- Help me explain this decision to another learner.
+
+<!--
+Encourage active recall and prediction rather than passive acceptance.
+-->
+
+---
+
+# Keep control of the project
+
+Before accepting a suggestion, ask:
+
+- Does it still answer my Directors Notes brief?
+- Does it fit my Starting Point?
+- Is it more complicated than I need?
 - Do I understand every change?
-- Is this more complicated than it needs to be?
-- Will I remember how this works next week?
+- Can I test it?
+- Can I maintain it next week?
 
-## You are the software engineer. AI is the assistant.
-
----
-
-# Learn From Debugging
-
-One of the biggest learning opportunities is fixing bugs.
-
-Instead of asking:
-
-> **"Fix this."**
-
-Try asking:
-
-> **"Help me understand why this isn't working."**
-
-You'll usually learn much more.
+<!--
+Connect AI use directly to the project's client and scope decisions.
+-->
 
 ---
 
-# Before You Copy Code
+# Protect the client and yourself
 
-Never paste code into your project without reading it.
+Do not paste into an AI service:
 
-Check that you:
+- Passwords, tokens or private keys
+- Personal or confidential information
+- Private client material
+- Content you do not have permission to share
 
-- Understand it.
-- Can explain it.
-- Know why it's needed.
-- Have tested it.
+## Publicly visible does not automatically mean reusable.
 
-## Working code isn't necessarily good code.
-
----
-
-# Better Prompts Get Better Answers
-
-Instead of saying:
-
-> **"My app is broken."**
-
-Try something like:
-
-> *"When I click the Add button nothing happens. Here's my React component. I expected the task to appear in the list. The browser console shows no errors. Can you help me work out what's happening without giving me the full solution immediately?"*
-
-The more context you provide, the better AI can help.
+<!--
+AI input may be processed outside the project. Learners should follow the asset and confidentiality boundaries of the course.
+-->
 
 ---
 
-# AI Is Not Always Right
+# AI cannot grant asset permission
 
-AI can:
+An AI-generated answer does not give you permission to reuse Directors Notes
+images, film stills, videos, logos or article text.
 
-- Misunderstand your question.
-- Invent APIs.
-- Suggest outdated techniques.
-- Introduce subtle bugs.
-- Overcomplicate simple problems.
+Check the original source, licence and course guidance.
 
-Treat every answer as advice, not as fact.
+<!--
+This reinforces the current Directors Notes asset boundary.
+-->
 
 ---
 
-# Throughout This Bootcamp...
+# Learn from debugging
 
-I'll often ask you to explain your code, describe how it works, or justify the decisions you've made.
+Instead of:
 
-This isn't to catch anyone out.
+> Fix this.
 
-It's to help ensure that you're developing the understanding and confidence that employers are looking for.
+Try:
 
-Use AI.
+> I expected this button to update the page, but nothing changes. Help me inspect
+> the problem one step at a time.
 
-Learn from AI.
+<!--
+Debugging is part of development, not evidence that the learner has failed.
+-->
 
-But always make sure **you** are the developer.
+---
+
+# Check generated code before using it
+
+Can you:
+
+- Read it?
+- Explain it?
+- Say why it is needed?
+- Test it?
+- Change it?
+- Remove it if it is wrong?
+
+## Working code is not automatically appropriate code.
+
+<!--
+Encourage a small test before integrating a large suggestion.
+-->
+
+---
+
+# Give useful context
+
+Instead of:
+
+> My app is broken.
+
+Try:
+
+> When I select a film, the total runtime does not change. I expected it to
+> increase by that film's runtime. Here is the smallest relevant code and what I
+> have already checked. Help me diagnose it before suggesting a replacement.
+
+<!--
+This example uses the shared reference context without giving away a learner brief solution.
+-->
+
+---
+
+# AI can be confidently wrong
+
+It may:
+
+- Misunderstand the brief
+- Invent facts or APIs
+- Suggest outdated techniques
+- Introduce subtle bugs
+- Ignore accessibility
+- Add unnecessary complexity
+
+Treat every answer as a suggestion to verify.
+
+<!--
+Verification may include course material, official documentation, tests, the browser console and discussion with a person.
+-->
+
+---
+
+# Explaining your work is part of the work
+
+Throughout the bootcamp, you will be asked to:
+
+- Describe how your code works
+- Explain a design decision
+- Demonstrate what you tested
+- Identify help you received
+- Say what you would change next
+
+This is how understanding becomes visible.
+
+<!--
+The goal is reflective practice, not catching learners out.
+-->
 
 ---
 
@@ -185,18 +244,23 @@ But always make sure **you** are the developer.
 
 During this bootcamp I will:
 
-✓ Use AI to help me learn.
+- Use AI to help me learn
+- Keep ownership of my decisions
+- Protect private and unlicensed material
+- Read, test and understand the code I use
+- Verify important claims and suggestions
+- Be able to explain my own work
 
-✓ Try to solve problems before asking for help.
-
-✓ Read and understand every line of code I use.
-
-✓ Be able to explain my own work.
-
-✓ Ask better questions each week.
+<!--
+Invite learners to discuss or question any part before treating it as a shared agreement.
+-->
 
 ---
 
 # My goal isn't to build software with AI.
 
 # My goal is to become a software developer who knows how to use AI well.
+
+<!--
+Return to this statement throughout the course, especially during Week 8 reflection.
+-->

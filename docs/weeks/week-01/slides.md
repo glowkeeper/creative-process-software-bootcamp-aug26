@@ -20,6 +20,79 @@ Today begins with a real organisation and a real opportunity, but the outcome is
 
 ---
 
+# Over eight weeks, you will build one prototype
+
+- Respond to a Directors Notes brief
+- Learn modern web-development foundations
+- Make and explain your own decisions
+- Present your work to MarBelle in Week 8
+
+<!--
+Set the destination before discussing the detail of Week 1.
+
+The prototype can be incomplete. Understanding and visible development are more important than feature count.
+-->
+
+---
+
+# How we will learn
+
+```text
+I do    I demonstrate
+
+We do   We investigate and build together
+
+You do  You apply the idea to your prototype
+```
+
+<!--
+The balance changes over the course. Early weeks contain more shared guidance; later weeks contain more Developer Studio.
+-->
+
+---
+
+# Two applications have different jobs
+
+```text
+Short Film Programme Builder
+Shared reference for learning techniques
+
+Your Directors Notes prototype
+Your individual response to a client brief
+```
+
+<!--
+The reference application is not the learner planning tool and not an answer to one of the client briefs.
+-->
+
+---
+
+# Weeks 1-4 build the foundations
+
+1. Plan and organise
+2. Build a visible interface
+3. Add behaviour
+4. Begin organising with React components
+
+<!--
+Keep this roadmap high level. The Week 4 React migration is deliberately staged rather than completed in one session.
+-->
+
+---
+
+# Weeks 5-8 build independence
+
+5. Review and restore important behaviour
+6. Remember appropriate information
+7. Test, improve and prepare to share
+8. Present your prototype
+
+<!--
+Emphasise that guidance reduces and learner decisions increase.
+-->
+
+---
+
 <!-- _class: mentimeter-slide -->
 
 # How confident do you feel about beginning a software project?
