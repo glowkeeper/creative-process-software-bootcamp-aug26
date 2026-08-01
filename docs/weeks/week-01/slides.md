@@ -389,14 +389,15 @@ Deferring work is a development decision, not failure.
 
 # Prototype with safe content
 
-Until permission is explicit, do not copy Directors Notes:
+Do not copy Directors Notes:
 
 - Photographs or film stills
 - Videos or logos
 - Article or interview text
+- Client archive data
 
 <!--
-This is the current asset boundary. Update the source material if MarBelle later grants specific permission.
+The original client project pack remains private tutor reference material.
 -->
 
 ---
@@ -405,10 +406,9 @@ This is the current asset boundary. Update the source material if MarBelle later
 
 Use:
 
-- Fictional sample content
+- The course's fictional film dataset
 - Your own writing or artwork
-- Abstract placeholders
-- HTML and CSS visual treatments
+- Abstract placeholders or HTML and CSS treatments
 - Openly licensed, attributed assets
 
 <!--

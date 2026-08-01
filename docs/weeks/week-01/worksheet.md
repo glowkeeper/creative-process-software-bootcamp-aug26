@@ -125,8 +125,9 @@ ___________________________________________________________________
 
 # Activity 4: Plan Safe Prototype Content
 
-Until Directors Notes gives explicit permission, do not copy its photographs,
-film stills, videos, logos or article text.
+Do not copy Directors Notes photographs, film stills, videos, logos, article
+text or client archive data into your repository. The course will provide a
+fictional film dataset that you may adapt and publish.
 
 Which content approach will you begin with?
 
@@ -134,6 +135,7 @@ Which content approach will you begin with?
 - [ ] My own writing or artwork
 - [ ] Abstract image placeholders
 - [ ] An HTML and CSS visual treatment
+- [ ] The course's fictional film dataset
 - [ ] Openly licensed or clearly attributed assets
 - [ ] Another safe approach:
 
@@ -283,7 +285,7 @@ Before committing, check that you have:
 - [ ] Created or connected a Project board
 - [ ] Added a small backlog
 - [ ] Written the initial README
-- [ ] Avoided unapproved Directors Notes assets
+- [ ] Avoided Directors Notes assets and client archive data
 
 Stage, commit and push the README.
 

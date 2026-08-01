@@ -25,8 +25,9 @@ bootcamp.
 https://directorsnotes.com/
 
 Use the live site to understand the publication and its visitors. Do not copy
-its photographs, film stills, videos, logos or article text unless Directors
-Notes gives explicit permission.
+its photographs, film stills, videos, logos, article text or archive data into
+your project. The course will provide fictional film data that is safe to adapt
+and publish.
 
 ## Project Planning
 

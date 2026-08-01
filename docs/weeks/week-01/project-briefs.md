@@ -34,9 +34,9 @@ In Week 8 you will present the prototype to MarBelle. Your ideas, interactions
 or visual approach may inspire future Directors Notes development, but there is
 no expectation that your work will be adopted or published.
 
-## Asset Boundary
+## Content and Data Boundary
 
-Until Directors Notes grants explicit permission, do not copy or download its:
+Do not copy or download Directors Notes:
 
 - Photographs or film stills
 - Videos
@@ -44,9 +44,15 @@ Until Directors Notes grants explicit permission, do not copy or download its:
 - Article or interview text
 - Other copyrighted visual assets
 
-Use fictional film information, your own words and artwork, openly licensed or
-clearly attributed assets, abstract placeholders, or designs created with HTML
-and CSS. Record the source and licence for any third-party material you use.
+The course will provide a small fictional film archive designed for these
+projects. You may commit, adapt and publish that teaching dataset. You may also
+use your own words and artwork, openly licensed or clearly attributed assets,
+abstract placeholders, or designs created with HTML and CSS. Record the source
+and licence for any third-party material you use.
+
+The original Directors Notes project pack is private client reference material.
+It is not a learner dataset and must not be copied into a repository or public
+prototype.
 
 This boundary is an opportunity to invent a visual language rather than copy
 the existing website.
