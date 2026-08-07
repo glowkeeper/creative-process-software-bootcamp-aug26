@@ -65,6 +65,18 @@ week by week as they are delivered.
 - [Week 1 worksheet](docs/weeks/week-01/worksheet.md)
 - [Week 1 resources](docs/weeks/week-01/resources.md)
 
+## Week 2 Materials
+
+- [Week 2 slides](docs/weeks/week-02/slides.md)
+- [Week 2 worksheet](docs/weeks/week-02/worksheet.md)
+- [Week 2 resources](docs/weeks/week-02/resources.md)
+- [Week 2 Starter](src/week-02/starter/README.md)
+- [Stage 1 fictional film archive](datasets/fictional-film-archive/stage-1-simple-collection/films.json)
+
+Begin the guided build from Starter. Complete and Showcase will be published
+after the live demonstration so that Starter remains a genuine follow-along
+exercise rather than a copy of the answer.
+
 ## Your Individual Repository
 
 This cohort repository contains shared course material. Your prototype belongs

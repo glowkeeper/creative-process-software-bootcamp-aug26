@@ -1,0 +1,62 @@
+[
+  {
+    "id": "film-01",
+    "title": "The Quiet Cartographer",
+    "year": 2023,
+    "runtimeSeconds": 684,
+    "form": "Documentary",
+    "genre": "Essay Film",
+    "country": "Ireland",
+    "synopsis": "A mapmaker records disappearing paths along a changing coastline."
+  },
+  {
+    "id": "film-02",
+    "title": "Borrowed Weather",
+    "year": 2024,
+    "runtimeSeconds": 512,
+    "form": "Drama",
+    "genre": "Coming of Age",
+    "country": "United Kingdom",
+    "synopsis": "Two sisters invent a weather forecast to delay a difficult goodbye."
+  },
+  {
+    "id": "film-03",
+    "title": "Soft Machines",
+    "year": 2022,
+    "runtimeSeconds": 438,
+    "form": "Animation",
+    "genre": "Science Fiction",
+    "country": "Estonia",
+    "synopsis": "Tiny machines continue their routines after the factory falls silent."
+  },
+  {
+    "id": "film-04",
+    "title": "A Song for the Underpass",
+    "year": 2025,
+    "runtimeSeconds": 601,
+    "form": "Documentary",
+    "genre": "Music Film",
+    "country": "United Kingdom",
+    "synopsis": "Musicians transform an overlooked pedestrian tunnel for one evening."
+  },
+  {
+    "id": "film-05",
+    "title": "Tuesday's Orbit",
+    "year": 2024,
+    "runtimeSeconds": 475,
+    "form": "Drama",
+    "genre": "Comedy",
+    "country": "United Kingdom",
+    "synopsis": "A missed bin collection convinces two neighbours that time has stopped."
+  },
+  {
+    "id": "film-06",
+    "title": "Salt Library",
+    "year": 2021,
+    "runtimeSeconds": null,
+    "form": "Experimental",
+    "genre": "Dance Film",
+    "country": "Portugal",
+    "synopsis": "A dancer reconstructs a family story from gestures and tide marks."
+  }
+]
