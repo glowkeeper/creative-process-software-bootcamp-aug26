@@ -22,14 +22,15 @@ these resources when you need a reminder or want to investigate further.
 
 Use the browser's Inspect command to:
 
-- find the HTML element producing something you can see
-- see which CSS rules apply
-- switch declarations on and off
-- inspect margin, border and padding in the box model
-- test the layout at narrow widths
+- inspect an element on the page
+- see the HTML that created it
+- see which CSS rules apply to it
+- switch CSS declarations on and off
+- experiment with a colour or spacing value
+- resize the browser window and observe how the layout changes
 
-Changes made in DevTools are experiments. Make the final change in your source
-file, save it and refresh.
+Changes made in Developer Tools are temporary. Edit your CSS file to keep them,
+then save it and refresh the browser.
 
 ## Course Material
 
