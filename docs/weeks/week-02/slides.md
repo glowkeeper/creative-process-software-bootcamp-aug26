@@ -51,17 +51,35 @@ The reference application demonstrates techniques. It is not a project-managemen
 
 <!-- _class: mentimeter-slide -->
 
-# What did Week 1 give us?
+# What did you decide or create in Week 1?
 
 ## Mentimeter Activity
 
 <!--
 MENTIMETER
 Type: Word cloud
-Prompt: What did Week 1 give us?
+Prompt: What did you decide or create in Week 1?
 
-Look for: client context, brief, Starting Point, repository, README, project board, first issues.
-Then ask: what can a visitor use yet?
+Use the answers to distinguish decisions from things learners created. The next
+slide makes that distinction visible.
+-->
+
+---
+
+# Week 1 established your project's direction
+
+```text
+You decided                    You created
+brief and intended visitor     repository and README
+Starting Point                 Project board and first issues
+```
+
+## Today, turn that direction into a visible interface
+
+<!--
+Invite learners to place a few Mentimeter answers in the two groups. Then ask:
+what can a visitor currently see or use in the application itself? The answer
+creates the need for today's Big Idea.
 -->
 
 ---
@@ -475,7 +493,7 @@ The grid already adapts. This media query fixes the remaining heading layout at 
 
 ---
 
-# Part 9 · Point to what you now understand
+# Part 9 · Review what we built
 
 - meaningful HTML structure
 - element, class and ID selectors
@@ -580,14 +598,14 @@ Reconnect to the AI Charter. Learners remain responsible for every line in their
 
 <!-- _class: mentimeter-slide -->
 
-# What can somebody understand now that they could not see last week?
+# What can a visitor understand from your interface?
 
 ## Mentimeter Activity
 
 <!--
 MENTIMETER
 Type: Open ended
-Prompt: What can somebody understand now that they could not see last week?
+Prompt: What can a visitor understand from your interface?
 
 Invite a few learners to connect an answer to a visible interface decision.
 -->
@@ -609,12 +627,45 @@ Click Add to programme. It does nothing. That gap creates the need for JavaScrip
 
 ---
 
-# Keep building what you understand
+# Week 2 complete
 
-> My goal isn't to build software with AI.
->
-> My goal is to become a software developer who knows how to use AI well.
+## You turned a planned Starting Point into a visible interface
+
+- HTML gave the content structure and meaning
+- CSS gave it hierarchy, layout and presentation
+- Your visitor can now understand what the interface is for
 
 <!--
-Close by returning ownership to learners. Complete is a reference; their Directors Notes prototype is their work.
+Return to the Big Idea: learners created something people can see and use. End
+on the progress they made today before the brief presenter close.
 -->
+
+---
+
+# Thank you
+
+Dr Steve Huckle
+
+steve@huckle.studio
+
+<!--
+Brief presenter close.
+-->
+
+<!-- EXPORT-IGNORE-START -->
+
+---
+
+# Mentimeter AI Import
+
+<!--
+
+Create these Week 2 questions:
+
+1. Word cloud: What did you decide or create in Week 1?
+
+2. Open ended: What can a visitor understand from your interface?
+
+-->
+
+<!-- EXPORT-IGNORE-END -->
