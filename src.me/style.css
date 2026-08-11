@@ -1,0 +1,19 @@
+/* We will build the visual system together. */
+.filmography {
+    display:flex;
+    gap: 20px;
+    list-style: none;
+    padding: 0;
+}
+
+.filmography li {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
+
+.filmography img {
+  width: 200px;
+  height: 130px;
+  object-fit: cover;
+}
