@@ -73,9 +73,18 @@ week by week as they are delivered.
 - [Week 2 Starter](src/week-02/starter/README.md)
 - [Stage 1 fictional film archive](datasets/fictional-film-archive/stage-1-simple-collection/films.json)
 
-Begin the guided build from Starter. Complete and Showcase will be published
-after the live demonstration so that Starter remains a genuine follow-along
-exercise rather than a copy of the answer.
+Week 2 Starter was used for the guided build. Complete and Showcase are now
+available as reference and extension material.
+
+## Week 3 Materials
+
+- [Week 3 slides](docs/weeks/week-03/slides.md)
+- [Week 3 worksheet](docs/weeks/week-03/worksheet.md)
+- [Week 3 resources](docs/weeks/week-03/resources.md)
+- [Week 3 Starter](src/week-03/starter/README.md)
+
+Begin from Week 3 Starter during the guided build. Complete and Showcase are
+published after the demonstration as reference and extension material.
 
 ## Your Individual Repository
 
