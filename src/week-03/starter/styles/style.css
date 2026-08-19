@@ -132,11 +132,6 @@ footer {
   color: var(--muted);
 }
 
-.film-card--selected {
-  border-color: var(--accent);
-  box-shadow: 0 0 0 0.2rem rgba(179, 58, 47, 0.18);
-}
-
 @media (max-width: 650px) {
   .section-heading {
     align-items: flex-start;
