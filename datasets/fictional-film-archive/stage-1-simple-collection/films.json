@@ -7,7 +7,9 @@
     "form": "Documentary",
     "genre": "Essay Film",
     "country": "Ireland",
-    "synopsis": "A mapmaker records disappearing paths along a changing coastline."
+    "synopsis": "A mapmaker records disappearing paths along a changing coastline.",
+    "poster": "images/film-01.svg",
+    "posterAlt": "Poster artwork for The Quiet Cartographer"
   },
   {
     "id": "film-02",
@@ -17,7 +19,9 @@
     "form": "Drama",
     "genre": "Coming of Age",
     "country": "United Kingdom",
-    "synopsis": "Two sisters invent a weather forecast to delay a difficult goodbye."
+    "synopsis": "Two sisters invent a weather forecast to delay a difficult goodbye.",
+    "poster": "images/film-02.svg",
+    "posterAlt": "Poster artwork for Borrowed Weather"
   },
   {
     "id": "film-03",
@@ -27,7 +31,9 @@
     "form": "Animation",
     "genre": "Science Fiction",
     "country": "Estonia",
-    "synopsis": "Tiny machines continue their routines after the factory falls silent."
+    "synopsis": "Tiny machines continue their routines after the factory falls silent.",
+    "poster": "images/film-03.svg",
+    "posterAlt": "Poster artwork for Soft Machines"
   },
   {
     "id": "film-04",
@@ -37,7 +43,9 @@
     "form": "Documentary",
     "genre": "Music Film",
     "country": "United Kingdom",
-    "synopsis": "Musicians transform an overlooked pedestrian tunnel for one evening."
+    "synopsis": "Musicians transform an overlooked pedestrian tunnel for one evening.",
+    "poster": "images/film-04.svg",
+    "posterAlt": "Poster artwork for A Song for the Underpass"
   },
   {
     "id": "film-05",
@@ -47,7 +55,9 @@
     "form": "Drama",
     "genre": "Comedy",
     "country": "United Kingdom",
-    "synopsis": "A missed bin collection convinces two neighbours that time has stopped."
+    "synopsis": "A missed bin collection convinces two neighbours that time has stopped.",
+    "poster": "images/film-05.svg",
+    "posterAlt": "Poster artwork for Tuesday's Orbit"
   },
   {
     "id": "film-06",
@@ -57,6 +67,8 @@
     "form": "Experimental",
     "genre": "Dance Film",
     "country": "Portugal",
-    "synopsis": "A dancer reconstructs a family story from gestures and tide marks."
+    "synopsis": "A dancer reconstructs a family story from gestures and tide marks.",
+    "poster": "images/film-06.svg",
+    "posterAlt": "Poster artwork for Salt Library"
   }
 ]

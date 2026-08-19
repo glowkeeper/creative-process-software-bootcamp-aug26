@@ -86,6 +86,28 @@ available as reference and extension material.
 Begin from Week 3 Starter during the guided build. Complete and Showcase are
 published after the demonstration as reference and extension material.
 
+## Week 4 Materials
+
+- [Week 4 slides](docs/weeks/week-04/slides.md)
+- [Week 4 worksheet](docs/weeks/week-04/worksheet.md)
+- [Week 4 resources](docs/weeks/week-04/resources.md)
+- [Week 4 Starter](src/week-04/starter/README.md)
+
+Week 4 introduces React. The Starter is a working React project, so it must be
+installed before it will run:
+
+```bash
+cd src/week-04/starter
+npm ci
+npm run dev
+```
+
+Run `npm ci` at the start of the session. The first install downloads a large
+number of files and takes several minutes on shared wifi.
+
+Complete and Showcase are published after the demonstration as reference and
+extension material.
+
 ## Your Individual Repository
 
 This cohort repository contains shared course material. Your prototype belongs
@@ -107,9 +129,11 @@ GitHub contains a recoverable history of your work.
 Do not copy Directors Notes photographs, film stills, videos, logos, article
 text or archive records into your repository or deployed prototype.
 
-The course will provide a wholly fictional film dataset in progressive stages.
-You may adapt, commit and publish that teaching data. You may also use your own
-writing or artwork, abstract placeholders, HTML and CSS visual treatments, or
+The course will provide a wholly fictional film dataset in progressive stages,
+including abstract poster artwork in `datasets/fictional-film-archive/images/`.
+You may adapt, commit and publish that teaching data and artwork. You may also
+use your own writing or artwork, abstract placeholders, HTML and CSS visual
+treatments, or
 openly licensed assets with the required attribution. Record the source and
 licence of anything created by someone else.
 
