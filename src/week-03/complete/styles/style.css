@@ -115,10 +115,6 @@ footer {
   box-shadow: 0 0 0 0.2rem rgba(179, 58, 47, 0.18);
 }
 
-.film-card--selected button {
-  background-color: var(--text);
-}
-
 .film-card h3 {
   margin: 0.5rem 0;
   font-size: 1.5rem;
@@ -152,6 +148,13 @@ footer {
 .film-card button:focus-visible {
   outline: 3px solid var(--text);
   outline-offset: 3px;
+}
+
+/* These rules sit after the button rules above on purpose. They have the same
+   specificity as `.film-card button`, so the later rule is the one that wins. */
+.film-card--selected button,
+.film-card--selected button:hover {
+  background-color: var(--text);
 }
 
 footer {
