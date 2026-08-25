@@ -1,0 +1,281 @@
+:root {
+  --background: #f1eee8;
+  --surface: #fffdf8;
+  --text: #20201d;
+  --muted: #66635d;
+  --border: #d8d2c8;
+  --accent: #b33a2f;
+  --accent-dark: #84271f;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  color: var(--text);
+  background-color: var(--background);
+}
+
+.site-header,
+main,
+footer {
+  width: min(1100px, calc(100% - 2rem));
+  margin: 0 auto;
+}
+
+.site-header {
+  padding: 3rem 0 2rem;
+}
+
+.site-header h1 {
+  max-width: 760px;
+  margin: 0;
+  font-size: clamp(2.4rem, 7vw, 5.5rem);
+  line-height: 0.95;
+}
+
+.site-header > p:last-child {
+  max-width: 620px;
+  color: var(--muted);
+}
+
+.eyebrow {
+  margin: 0 0 0.5rem;
+  color: var(--accent-dark);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.section-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  gap: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.section-heading h2,
+.section-heading p {
+  margin-top: 0;
+}
+
+.section-heading h2 {
+  margin-bottom: 0;
+}
+
+.section-heading > p {
+  color: var(--muted);
+}
+
+.programme-panel,
+.archive-tools,
+.guest-film {
+  margin-bottom: 2rem;
+  padding: 1.25rem;
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+  background-color: var(--surface);
+}
+
+.programme-panel {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 1rem 2rem;
+  border-left: 0.4rem solid var(--accent);
+}
+
+.programme-panel h2,
+.programme-panel p,
+.archive-tools h2,
+.archive-tools p,
+.guest-film h2 {
+  margin-top: 0;
+}
+
+.programme-stats {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.programme-stats strong {
+  display: block;
+  font-size: 2rem;
+}
+
+.programme-list {
+  grid-column: 1 / -1;
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.programme-feedback--ready {
+  color: #28643e;
+  font-weight: 700;
+}
+
+.programme-feedback--long {
+  color: var(--accent-dark);
+  font-weight: 700;
+}
+
+.archive-tools {
+  display: flex;
+  align-items: end;
+  gap: 1rem;
+}
+
+.archive-tools > div {
+  margin-right: auto;
+}
+
+label {
+  display: block;
+  margin-bottom: 0.3rem;
+  font-weight: 700;
+}
+
+input,
+select {
+  min-height: 2.75rem;
+  padding: 0.55rem;
+  border: 1px solid var(--border);
+  border-radius: 0.25rem;
+  background: #ffffff;
+  font: inherit;
+}
+
+.film-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  padding: 1.5rem 0 3rem;
+}
+
+.film-card {
+  display: flex;
+  flex-direction: column;
+  min-height: 300px;
+  padding: 1.25rem;
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+  background-color: var(--surface);
+}
+
+.film-card--selected {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 0.2rem rgba(179, 58, 47, 0.18);
+}
+
+.film-card[hidden] {
+  display: none;
+}
+
+.film-card h3 {
+  margin: 0.5rem 0;
+  font-size: 1.5rem;
+  line-height: 1.1;
+}
+
+.film-meta {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.8rem;
+  text-transform: uppercase;
+}
+
+.film-card button {
+  align-self: flex-start;
+  margin-top: auto;
+  padding: 0.65rem 0.9rem;
+  border: 0;
+  border-radius: 0.25rem;
+  color: #ffffff;
+  background-color: var(--accent);
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.film-card button:hover {
+  background-color: var(--accent-dark);
+}
+
+.film-card button:focus-visible {
+  outline: 3px solid var(--text);
+  outline-offset: 3px;
+}
+
+/* These rules sit after the button rules above on purpose. They have the same
+   specificity as `.film-card button`, so the later rule is the one that wins. */
+.film-card--selected button,
+.film-card--selected button:hover {
+  background-color: var(--text);
+}
+
+.guest-film form {
+  display: grid;
+  grid-template-columns: 2fr 1fr auto;
+  align-items: end;
+  gap: 1rem;
+}
+
+.guest-film input {
+  width: 100%;
+}
+
+.guest-film button {
+  min-height: 2.75rem;
+  padding: 0.55rem 0.9rem;
+  border: 0;
+  border-radius: 0.25rem;
+  color: #ffffff;
+  background-color: var(--accent);
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.guest-film button:hover {
+  background-color: var(--accent-dark);
+}
+
+.guest-film button:focus-visible {
+  outline: 3px solid var(--text);
+  outline-offset: 3px;
+}
+
+#form-message {
+  min-height: 1.5rem;
+  margin-bottom: 0;
+}
+
+footer {
+  padding: 1rem 0 2rem;
+  border-top: 1px solid var(--border);
+  color: var(--muted);
+}
+
+@media (max-width: 650px) {
+  .section-heading,
+  .archive-tools {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .programme-panel,
+  .guest-film form {
+    grid-template-columns: 1fr;
+  }
+
+  .programme-stats,
+  .programme-list {
+    grid-column: 1;
+  }
+}

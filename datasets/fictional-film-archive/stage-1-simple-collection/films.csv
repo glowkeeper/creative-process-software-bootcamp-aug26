@@ -1,7 +1,7 @@
-id,title,year,runtimeSeconds,form,genre,country,synopsis
-film-01,The Quiet Cartographer,2023,684,Documentary,Essay Film,Ireland,A mapmaker records disappearing paths along a changing coastline.
-film-02,Borrowed Weather,2024,512,Drama,Coming of Age,United Kingdom,Two sisters invent a weather forecast to delay a difficult goodbye.
-film-03,Soft Machines,2022,438,Animation,Science Fiction,Estonia,Tiny machines continue their routines after the factory falls silent.
-film-04,A Song for the Underpass,2025,601,Documentary,Music Film,United Kingdom,Musicians transform an overlooked pedestrian tunnel for one evening.
-film-05,Tuesday's Orbit,2024,475,Drama,Comedy,United Kingdom,A missed bin collection convinces two neighbours that time has stopped.
-film-06,Salt Library,2021,,Experimental,Dance Film,Portugal,A dancer reconstructs a family story from gestures and tide marks.
+id,title,year,runtimeSeconds,form,genre,country,synopsis,poster,posterAlt
+film-01,The Quiet Cartographer,2023,684,Documentary,Essay Film,Ireland,A mapmaker records disappearing paths along a changing coastline.,images/film-01.svg,Poster artwork for The Quiet Cartographer
+film-02,Borrowed Weather,2024,512,Drama,Coming of Age,United Kingdom,Two sisters invent a weather forecast to delay a difficult goodbye.,images/film-02.svg,Poster artwork for Borrowed Weather
+film-03,Soft Machines,2022,438,Animation,Science Fiction,Estonia,Tiny machines continue their routines after the factory falls silent.,images/film-03.svg,Poster artwork for Soft Machines
+film-04,A Song for the Underpass,2025,601,Documentary,Music Film,United Kingdom,Musicians transform an overlooked pedestrian tunnel for one evening.,images/film-04.svg,Poster artwork for A Song for the Underpass
+film-05,Tuesday's Orbit,2024,475,Drama,Comedy,United Kingdom,A missed bin collection convinces two neighbours that time has stopped.,images/film-05.svg,Poster artwork for Tuesday's Orbit
+film-06,Salt Library,2021,,Experimental,Dance Film,Portugal,A dancer reconstructs a family story from gestures and tide marks.,images/film-06.svg,Poster artwork for Salt Library
