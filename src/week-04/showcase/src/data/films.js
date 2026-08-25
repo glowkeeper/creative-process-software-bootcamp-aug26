@@ -1,0 +1,177 @@
+// The twelve films from Stage 2 of the fictional film archive.
+//
+// Holding the data separately from the components means a component never has
+// to be edited in order to show a different film.
+
+const films = [
+  {
+    "id": "film-01",
+    "title": "The Quiet Cartographer",
+    "synopsis": "A mapmaker records disappearing paths along a changing coastline.",
+    "form": "Documentary",
+    "country": "Ireland",
+    "year": 2023,
+    "themes": [
+      "Memory",
+      "Place"
+    ],
+    "poster": "/images/film-01.svg",
+    "posterAlt": "Poster artwork for The Quiet Cartographer"
+  },
+  {
+    "id": "film-02",
+    "title": "Borrowed Weather",
+    "synopsis": "Two sisters invent a weather forecast to delay a difficult goodbye.",
+    "form": "Drama",
+    "country": "United Kingdom",
+    "year": 2024,
+    "themes": [
+      "Family",
+      "Belonging"
+    ],
+    "poster": "/images/film-02.svg",
+    "posterAlt": "Poster artwork for Borrowed Weather"
+  },
+  {
+    "id": "film-03",
+    "title": "Soft Machines",
+    "synopsis": "Tiny machines continue their routines after the factory falls silent.",
+    "form": "Animation",
+    "country": "Estonia",
+    "year": 2022,
+    "themes": [
+      "Work",
+      "Technology"
+    ],
+    "poster": "/images/film-03.svg",
+    "posterAlt": "Poster artwork for Soft Machines"
+  },
+  {
+    "id": "film-04",
+    "title": "A Song for the Underpass",
+    "synopsis": "Musicians transform an overlooked pedestrian tunnel for one evening.",
+    "form": "Documentary",
+    "country": "United Kingdom",
+    "year": 2025,
+    "themes": [
+      "Community",
+      "Place"
+    ],
+    "poster": "/images/film-04.svg",
+    "posterAlt": "Poster artwork for A Song for the Underpass"
+  },
+  {
+    "id": "film-05",
+    "title": "Tuesday's Orbit",
+    "synopsis": "A missed bin collection convinces two neighbours that time has stopped.",
+    "form": "Drama",
+    "country": "United Kingdom",
+    "year": 2024,
+    "themes": [
+      "Friendship",
+      "Routine"
+    ],
+    "poster": "/images/film-05.svg",
+    "posterAlt": "Poster artwork for Tuesday's Orbit"
+  },
+  {
+    "id": "film-06",
+    "title": "Salt Library",
+    "synopsis": "A dancer reconstructs a family story from gestures and tide marks.",
+    "form": "Experimental",
+    "country": "Portugal",
+    "year": 2021,
+    "themes": [
+      "Body",
+      "Memory"
+    ],
+    "poster": "/images/film-06.svg",
+    "posterAlt": "Poster artwork for Salt Library"
+  },
+  {
+    "id": "film-07",
+    "title": "The Last Seed Catalogue",
+    "synopsis": "A gardener receives an impossible order from a town that no longer exists.",
+    "form": "Drama",
+    "country": "United Kingdom",
+    "year": 2025,
+    "themes": [
+      "Climate",
+      "Care"
+    ],
+    "poster": "/images/film-07.svg",
+    "posterAlt": "Poster artwork for The Last Seed Catalogue"
+  },
+  {
+    "id": "film-08",
+    "title": "Night Bus Etiquette",
+    "synopsis": "Passengers negotiate an unwritten rule after the last bus changes route.",
+    "form": "Drama",
+    "country": "United Kingdom",
+    "year": 2023,
+    "themes": [
+      "Strangers",
+      "City"
+    ],
+    "poster": "/images/film-08.svg",
+    "posterAlt": "Poster artwork for Night Bus Etiquette"
+  },
+  {
+    "id": "film-09",
+    "title": "Paper Moons for Beginners",
+    "synopsis": "A pupil's astronomy homework opens a doorway into a paper universe.",
+    "form": "Animation",
+    "country": "Spain",
+    "year": 2020,
+    "themes": [
+      "Imagination",
+      "Learning"
+    ],
+    "poster": "/images/film-09.svg",
+    "posterAlt": "Poster artwork for Paper Moons for Beginners"
+  },
+  {
+    "id": "film-10",
+    "title": "Listening for Concrete",
+    "synopsis": "Residents describe a housing estate through the sounds they notice.",
+    "form": "Documentary",
+    "country": "Germany",
+    "year": 2022,
+    "themes": [
+      "City",
+      "Sound"
+    ],
+    "poster": "/images/film-10.svg",
+    "posterAlt": "Poster artwork for Listening for Concrete"
+  },
+  {
+    "id": "film-11",
+    "title": "Second-Hand Stars",
+    "synopsis": "Two repair-shop workers exchange messages inside broken radios.",
+    "form": "Drama",
+    "country": "France",
+    "year": 2024,
+    "themes": [
+      "Love",
+      "Objects"
+    ],
+    "poster": "/images/film-11.svg",
+    "posterAlt": "Poster artwork for Second-Hand Stars"
+  },
+  {
+    "id": "film-12",
+    "title": "Instructions for Becoming Fog",
+    "synopsis": "A narrator tests several unreliable methods for disappearing into weather.",
+    "form": "Experimental",
+    "country": "Iceland",
+    "year": 2025,
+    "themes": [
+      "Identity",
+      "Landscape"
+    ],
+    "poster": null,
+    "posterAlt": null
+  }
+];
+
+export default films;
