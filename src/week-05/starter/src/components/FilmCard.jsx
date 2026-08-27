@@ -1,0 +1,44 @@
+import { useState } from "react";
+
+// Each card remembers whether it is selected. Every card has its own answer,
+// and no other part of the page can see it.
+
+function FilmCard({ title, synopsis, form, country, year, runtimeMinutes,
+                    themes, poster, posterAlt }) {
+  const [isSelected, setIsSelected] = useState(false);
+
+  const cardClass = isSelected
+    ? "film-card film-card--selected"
+    : "film-card";
+
+  return (
+    <article className={cardClass}>
+      {/* One film in the archive has no artwork, so the card has to cope. */}
+      {poster ? (
+        <img className="film-card__poster" src={poster} alt={posterAlt} />
+      ) : (
+        <div className="film-card__poster film-card__poster--missing">
+          No artwork
+        </div>
+      )}
+
+      <p className="film-meta">
+        {form} · {country} · {year} · {runtimeMinutes} min
+      </p>
+      <h3>{title}</h3>
+      <p>{synopsis}</p>
+
+      <ul className="theme-list">
+        {themes.map((theme) => (
+          <li key={theme}>{theme}</li>
+        ))}
+      </ul>
+
+      <button type="button" onClick={() => setIsSelected(!isSelected)}>
+        {isSelected ? "Remove from programme" : "Add to programme"}
+      </button>
+    </article>
+  );
+}
+
+export default FilmCard;
