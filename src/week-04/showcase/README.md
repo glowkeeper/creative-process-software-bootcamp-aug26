@@ -10,7 +10,7 @@ It also demonstrates:
 
 - destructured props in the parameter list, instead of reading `props.title`
 - the twelve-film Stage 2 collection
-- poster artwork, with a fallback for the two films that have none
+- poster artwork, with a fallback for the one film that has none
 - a `key` on each item in a mapped list
 - theme tags produced by a second, smaller `map()`
 

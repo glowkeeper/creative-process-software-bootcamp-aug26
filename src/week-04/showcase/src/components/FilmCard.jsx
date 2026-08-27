@@ -12,7 +12,7 @@ function FilmCard({ title, synopsis, form, country, year, themes, poster, poster
 
   return (
     <article className={cardClass}>
-      {/* Two films in the archive have no artwork, so the card has to cope. */}
+      {/* One film in the archive has no artwork, so the card has to cope. */}
       {poster ? (
         <img className="film-card__poster" src={poster} alt={posterAlt} />
       ) : (
