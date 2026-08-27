@@ -527,11 +527,15 @@ learner who cannot install the extension is not disadvantaged.
 
 # Developer Studio
 
-## Three and a half hours on your own application
+## The rest of the day is yours
 
 <!--
-The longest studio of the course so far. No further demonstrations. Circulate
-and ask questions rather than fixing code.
+Whatever the morning has done to the clock, this is the longest studio of the
+course so far. No further demonstrations. Circulate and ask questions rather
+than fixing code.
+
+Announce the finish time rather than a duration, so the slide never contradicts
+the room.
 -->
 
 ---
