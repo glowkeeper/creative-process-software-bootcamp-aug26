@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-labelledby="film-08-title">
+  <title id="film-08-title">Abstract poster artwork for the fictional short film Night Bus Etiquette</title>
+  <defs>
+    <linearGradient id="film-08-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1e1214"/>
+      <stop offset="100%" stop-color="#0d0708"/>
+    </linearGradient>
+    <linearGradient id="film-08-veil" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d0708" stop-opacity="0"/>
+      <stop offset="55%" stop-color="#0d0708" stop-opacity="0.82"/>
+      <stop offset="100%" stop-color="#0d0708" stop-opacity="0.97"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="600" height="900" fill="url(#film-08-bg)"/>
+
+  <g>
+    <path d="M 300 40 L 9 620 L 77 620 Z" fill="#c9503f" opacity="0.32"/>
+    <path d="M 300 40 L 47 620 L 115 620 Z" fill="#9e4239" opacity="0.16"/>
+    <path d="M 300 40 L 85 620 L 153 620 Z" fill="#9e4239" opacity="0.16"/>
+    <path d="M 300 40 L 123 620 L 191 620 Z" fill="#c9503f" opacity="0.32"/>
+    <path d="M 300 40 L 161 620 L 229 620 Z" fill="#9e4239" opacity="0.16"/>
+    <path d="M 300 40 L 199 620 L 267 620 Z" fill="#9e4239" opacity="0.16"/>
+    <path d="M 300 40 L 237 620 L 305 620 Z" fill="#c9503f" opacity="0.32"/>
+    <path d="M 300 40 L 275 620 L 343 620 Z" fill="#9e4239" opacity="0.16"/>
+    <path d="M 300 40 L 313 620 L 381 620 Z" fill="#9e4239" opacity="0.16"/>
+    <path d="M 300 40 L 351 620 L 419 620 Z" fill="#c9503f" opacity="0.32"/>
+    <path d="M 300 40 L 389 620 L 457 620 Z" fill="#9e4239" opacity="0.16"/>
+    <path d="M 300 40 L 427 620 L 495 620 Z" fill="#9e4239" opacity="0.16"/>
+    <path d="M 300 40 L 465 620 L 533 620 Z" fill="#c9503f" opacity="0.32"/>
+    <path d="M 300 40 L 503 620 L 571 620 Z" fill="#9e4239" opacity="0.16"/>
+    <path d="M 300 40 L 541 620 L 609 620 Z" fill="#9e4239" opacity="0.16"/>
+    <circle cx="300" cy="40" r="18" fill="#c9503f" opacity="0.95"/>
+  </g>
+
+  <rect x="0" y="440" width="600" height="460" fill="url(#film-08-veil)"/>
+  <rect x="56" y="606" width="70" height="4" fill="#c9503f"/>
+
+  <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#faf7f1" letter-spacing="-0.5"><tspan x="56" y="688">Night Bus</tspan><tspan x="56" y="754">Etiquette</tspan></text>
+
+  <text x="56" y="812" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#c9503f" letter-spacing="2.4">2023 &#183; DRAMA</text>
+
+  <text x="56" y="848" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#a8a29a" letter-spacing="1.1">UNITED KINGDOM</text>
+</svg>
