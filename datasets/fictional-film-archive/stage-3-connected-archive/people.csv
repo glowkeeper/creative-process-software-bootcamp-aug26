@@ -1,0 +1,121 @@
+id,name,slug,primaryRole,biography,country
+person-001,Amina Adebayo,amina-adebayo,Director,Amina Adebayo is a fictional filmmaker whose work explores memory and place.,United Kingdom
+person-002,Arlo Doyle,arlo-doyle,Producer,Arlo Doyle is a fictional filmmaker whose work explores performance and identity.,Brazil
+person-003,Bea Ghosh,bea-ghosh,Cinematographer,Bea Ghosh is a fictional filmmaker whose work explores community histories.,Spain
+person-004,Cass Jensen,cass-jensen,Editor,Cass Jensen is a fictional filmmaker whose work explores ecology and landscape.,Ireland
+person-005,Dev Chen,dev-chen,Sound Designer,Dev Chen is a fictional filmmaker whose work explores movement and music.,Japan
+person-006,Elian Flores,elian-flores,Animator,Elian Flores is a fictional filmmaker whose work explores technology and labour.,Netherlands
+person-007,Farah Ito,farah-ito,Writer,Farah Ito is a fictional filmmaker whose work explores family and belonging.,France
+person-008,Gia Bell,gia-bell,Production Designer,Gia Bell is a fictional filmmaker whose work explores architecture and public space.,Nigeria
+person-009,Hugo El-Amin,hugo-el-amin,Director,Hugo El-Amin is a fictional filmmaker whose work explores memory and place.,Canada
+person-010,Imani Haddad,imani-haddad,Producer,Imani Haddad is a fictional filmmaker whose work explores performance and identity.,Germany
+person-011,Jonah Adebayo,jonah-adebayo,Cinematographer,,United Kingdom
+person-012,Kira Doyle,kira-doyle,Editor,Kira Doyle is a fictional filmmaker whose work explores ecology and landscape.,Brazil
+person-013,Amina Haddad,amina-haddad,Sound Designer,Amina Haddad is a fictional filmmaker whose work explores movement and music.,Spain
+person-014,Arlo Adebayo,arlo-adebayo,Animator,Arlo Adebayo is a fictional filmmaker whose work explores technology and labour.,Ireland
+person-015,Bea Doyle,bea-doyle,Writer,Bea Doyle is a fictional filmmaker whose work explores family and belonging.,Japan
+person-016,Cass Ghosh,cass-ghosh,Production Designer,Cass Ghosh is a fictional filmmaker whose work explores architecture and public space.,Netherlands
+person-017,Dev Jensen,dev-jensen,Director,Dev Jensen is a fictional filmmaker whose work explores memory and place.,France
+person-018,Elian Chen,elian-chen,Producer,Elian Chen is a fictional filmmaker whose work explores performance and identity.,Nigeria
+person-019,Farah Flores,farah-flores,Cinematographer,Farah Flores is a fictional filmmaker whose work explores community histories.,Canada
+person-020,Gia Ito,gia-ito,Editor,Gia Ito is a fictional filmmaker whose work explores ecology and landscape.,Germany
+person-021,Hugo Bell,hugo-bell,Sound Designer,Hugo Bell is a fictional filmmaker whose work explores movement and music.,United Kingdom
+person-022,Imani El-Amin,imani-el-amin,Animator,,Brazil
+person-023,Jonah Haddad,jonah-haddad,Writer,Jonah Haddad is a fictional filmmaker whose work explores family and belonging.,Spain
+person-024,Kira Adebayo,kira-adebayo,Production Designer,Kira Adebayo is a fictional filmmaker whose work explores architecture and public space.,Ireland
+person-025,Amina El-Amin,amina-el-amin,Director,Amina El-Amin is a fictional filmmaker whose work explores memory and place.,Japan
+person-026,Arlo Haddad,arlo-haddad,Producer,Arlo Haddad is a fictional filmmaker whose work explores performance and identity.,Netherlands
+person-027,Bea Adebayo,bea-adebayo,Cinematographer,Bea Adebayo is a fictional filmmaker whose work explores community histories.,France
+person-028,Cass Doyle,cass-doyle,Editor,Cass Doyle is a fictional filmmaker whose work explores ecology and landscape.,Nigeria
+person-029,Dev Ghosh,dev-ghosh,Sound Designer,Dev Ghosh is a fictional filmmaker whose work explores movement and music.,Canada
+person-030,Elian Jensen,elian-jensen,Animator,Elian Jensen is a fictional filmmaker whose work explores technology and labour.,Germany
+person-031,Farah Chen,farah-chen,Writer,Farah Chen is a fictional filmmaker whose work explores family and belonging.,United Kingdom
+person-032,Gia Flores,gia-flores,Production Designer,Gia Flores is a fictional filmmaker whose work explores architecture and public space.,Brazil
+person-033,Hugo Ito,hugo-ito,Director,,Spain
+person-034,Imani Bell,imani-bell,Producer,Imani Bell is a fictional filmmaker whose work explores performance and identity.,Ireland
+person-035,Jonah El-Amin,jonah-el-amin,Cinematographer,Jonah El-Amin is a fictional filmmaker whose work explores community histories.,Japan
+person-036,Kira Haddad,kira-haddad,Editor,Kira Haddad is a fictional filmmaker whose work explores ecology and landscape.,Netherlands
+person-037,Amina Bell,amina-bell,Sound Designer,Amina Bell is a fictional filmmaker whose work explores movement and music.,France
+person-038,Arlo El-Amin,arlo-el-amin,Animator,Arlo El-Amin is a fictional filmmaker whose work explores technology and labour.,Nigeria
+person-039,Bea Haddad,bea-haddad,Writer,Bea Haddad is a fictional filmmaker whose work explores family and belonging.,Canada
+person-040,Cass Adebayo,cass-adebayo,Production Designer,Cass Adebayo is a fictional filmmaker whose work explores architecture and public space.,Germany
+person-041,Dev Doyle,dev-doyle,Director,Dev Doyle is a fictional filmmaker whose work explores memory and place.,United Kingdom
+person-042,Elian Ghosh,elian-ghosh,Producer,Elian Ghosh is a fictional filmmaker whose work explores performance and identity.,Brazil
+person-043,Farah Jensen,farah-jensen,Cinematographer,Farah Jensen is a fictional filmmaker whose work explores community histories.,Spain
+person-044,Gia Chen,gia-chen,Editor,,Ireland
+person-045,Hugo Flores,hugo-flores,Sound Designer,Hugo Flores is a fictional filmmaker whose work explores movement and music.,Japan
+person-046,Imani Ito,imani-ito,Animator,Imani Ito is a fictional filmmaker whose work explores technology and labour.,Netherlands
+person-047,Jonah Bell,jonah-bell,Writer,Jonah Bell is a fictional filmmaker whose work explores family and belonging.,France
+person-048,Kira El-Amin,kira-el-amin,Production Designer,Kira El-Amin is a fictional filmmaker whose work explores architecture and public space.,Nigeria
+person-049,Amina Ito,amina-ito,Director,Amina Ito is a fictional filmmaker whose work explores memory and place.,Canada
+person-050,Arlo Bell,arlo-bell,Producer,Arlo Bell is a fictional filmmaker whose work explores performance and identity.,Germany
+person-051,Bea El-Amin,bea-el-amin,Cinematographer,Bea El-Amin is a fictional filmmaker whose work explores community histories.,United Kingdom
+person-052,Cass Haddad,cass-haddad,Editor,Cass Haddad is a fictional filmmaker whose work explores ecology and landscape.,Brazil
+person-053,Dev Adebayo,dev-adebayo,Sound Designer,Dev Adebayo is a fictional filmmaker whose work explores movement and music.,Spain
+person-054,Elian Doyle,elian-doyle,Animator,Elian Doyle is a fictional filmmaker whose work explores technology and labour.,Ireland
+person-055,Farah Ghosh,farah-ghosh,Writer,,Japan
+person-056,Gia Jensen,gia-jensen,Production Designer,Gia Jensen is a fictional filmmaker whose work explores architecture and public space.,Netherlands
+person-057,Hugo Chen,hugo-chen,Director,Hugo Chen is a fictional filmmaker whose work explores memory and place.,France
+person-058,Imani Flores,imani-flores,Producer,Imani Flores is a fictional filmmaker whose work explores performance and identity.,Nigeria
+person-059,Jonah Ito,jonah-ito,Cinematographer,Jonah Ito is a fictional filmmaker whose work explores community histories.,Canada
+person-060,Kira Bell,kira-bell,Editor,Kira Bell is a fictional filmmaker whose work explores ecology and landscape.,Germany
+person-061,Amina Flores,amina-flores,Sound Designer,Amina Flores is a fictional filmmaker whose work explores movement and music.,United Kingdom
+person-062,Arlo Ito,arlo-ito,Animator,Arlo Ito is a fictional filmmaker whose work explores technology and labour.,Brazil
+person-063,Bea Bell,bea-bell,Writer,Bea Bell is a fictional filmmaker whose work explores family and belonging.,Spain
+person-064,Cass El-Amin,cass-el-amin,Production Designer,Cass El-Amin is a fictional filmmaker whose work explores architecture and public space.,Ireland
+person-065,Dev Haddad,dev-haddad,Director,Dev Haddad is a fictional filmmaker whose work explores memory and place.,Japan
+person-066,Elian Adebayo,elian-adebayo,Producer,,Netherlands
+person-067,Farah Doyle,farah-doyle,Cinematographer,Farah Doyle is a fictional filmmaker whose work explores community histories.,France
+person-068,Gia Ghosh,gia-ghosh,Editor,Gia Ghosh is a fictional filmmaker whose work explores ecology and landscape.,Nigeria
+person-069,Hugo Jensen,hugo-jensen,Sound Designer,Hugo Jensen is a fictional filmmaker whose work explores movement and music.,Canada
+person-070,Imani Chen,imani-chen,Animator,Imani Chen is a fictional filmmaker whose work explores technology and labour.,Germany
+person-071,Jonah Flores,jonah-flores,Writer,Jonah Flores is a fictional filmmaker whose work explores family and belonging.,United Kingdom
+person-072,Kira Ito,kira-ito,Production Designer,Kira Ito is a fictional filmmaker whose work explores architecture and public space.,Brazil
+person-073,Amina Chen,amina-chen,Director,Amina Chen is a fictional filmmaker whose work explores memory and place.,Spain
+person-074,Arlo Flores,arlo-flores,Producer,Arlo Flores is a fictional filmmaker whose work explores performance and identity.,Ireland
+person-075,Bea Ito,bea-ito,Cinematographer,Bea Ito is a fictional filmmaker whose work explores community histories.,Japan
+person-076,Cass Bell,cass-bell,Editor,Cass Bell is a fictional filmmaker whose work explores ecology and landscape.,Netherlands
+person-077,Dev El-Amin,dev-el-amin,Sound Designer,,France
+person-078,Elian Haddad,elian-haddad,Animator,Elian Haddad is a fictional filmmaker whose work explores technology and labour.,Nigeria
+person-079,Farah Adebayo,farah-adebayo,Writer,Farah Adebayo is a fictional filmmaker whose work explores family and belonging.,Canada
+person-080,Gia Doyle,gia-doyle,Production Designer,Gia Doyle is a fictional filmmaker whose work explores architecture and public space.,Germany
+person-081,Hugo Ghosh,hugo-ghosh,Director,Hugo Ghosh is a fictional filmmaker whose work explores memory and place.,United Kingdom
+person-082,Imani Jensen,imani-jensen,Producer,Imani Jensen is a fictional filmmaker whose work explores performance and identity.,Brazil
+person-083,Jonah Chen,jonah-chen,Cinematographer,Jonah Chen is a fictional filmmaker whose work explores community histories.,Spain
+person-084,Kira Flores,kira-flores,Editor,Kira Flores is a fictional filmmaker whose work explores ecology and landscape.,Ireland
+person-085,Amina Jensen,amina-jensen,Sound Designer,Amina Jensen is a fictional filmmaker whose work explores movement and music.,Japan
+person-086,Arlo Chen,arlo-chen,Animator,Arlo Chen is a fictional filmmaker whose work explores technology and labour.,Netherlands
+person-087,Bea Flores,bea-flores,Writer,Bea Flores is a fictional filmmaker whose work explores family and belonging.,France
+person-088,Cass Ito,cass-ito,Production Designer,,Nigeria
+person-089,Dev Bell,dev-bell,Director,Dev Bell is a fictional filmmaker whose work explores memory and place.,Canada
+person-090,Elian El-Amin,elian-el-amin,Producer,Elian El-Amin is a fictional filmmaker whose work explores performance and identity.,Germany
+person-091,Farah Haddad,farah-haddad,Cinematographer,Farah Haddad is a fictional filmmaker whose work explores community histories.,United Kingdom
+person-092,Gia Adebayo,gia-adebayo,Editor,Gia Adebayo is a fictional filmmaker whose work explores ecology and landscape.,Brazil
+person-093,Hugo Doyle,hugo-doyle,Sound Designer,Hugo Doyle is a fictional filmmaker whose work explores movement and music.,Spain
+person-094,Imani Ghosh,imani-ghosh,Animator,Imani Ghosh is a fictional filmmaker whose work explores technology and labour.,Ireland
+person-095,Jonah Jensen,jonah-jensen,Writer,Jonah Jensen is a fictional filmmaker whose work explores family and belonging.,Japan
+person-096,Kira Chen,kira-chen,Production Designer,Kira Chen is a fictional filmmaker whose work explores architecture and public space.,Netherlands
+person-097,Amina Ghosh,amina-ghosh,Director,Amina Ghosh is a fictional filmmaker whose work explores memory and place.,France
+person-098,Arlo Jensen,arlo-jensen,Producer,Arlo Jensen is a fictional filmmaker whose work explores performance and identity.,Nigeria
+person-099,Bea Chen,bea-chen,Cinematographer,,Canada
+person-100,Cass Flores,cass-flores,Editor,Cass Flores is a fictional filmmaker whose work explores ecology and landscape.,Germany
+person-101,Dev Ito,dev-ito,Sound Designer,Dev Ito is a fictional filmmaker whose work explores movement and music.,United Kingdom
+person-102,Elian Bell,elian-bell,Animator,Elian Bell is a fictional filmmaker whose work explores technology and labour.,Brazil
+person-103,Farah El-Amin,farah-el-amin,Writer,Farah El-Amin is a fictional filmmaker whose work explores family and belonging.,Spain
+person-104,Gia Haddad,gia-haddad,Production Designer,Gia Haddad is a fictional filmmaker whose work explores architecture and public space.,Ireland
+person-105,Hugo Adebayo,hugo-adebayo,Director,Hugo Adebayo is a fictional filmmaker whose work explores memory and place.,Japan
+person-106,Imani Doyle,imani-doyle,Producer,Imani Doyle is a fictional filmmaker whose work explores performance and identity.,Netherlands
+person-107,Jonah Ghosh,jonah-ghosh,Cinematographer,Jonah Ghosh is a fictional filmmaker whose work explores community histories.,France
+person-108,Kira Jensen,kira-jensen,Editor,Kira Jensen is a fictional filmmaker whose work explores ecology and landscape.,Nigeria
+person-109,Amina Doyle,amina-doyle,Sound Designer,Amina Doyle is a fictional filmmaker whose work explores movement and music.,Canada
+person-110,Arlo Ghosh,arlo-ghosh,Animator,,Germany
+person-111,Bea Jensen,bea-jensen,Writer,Bea Jensen is a fictional filmmaker whose work explores family and belonging.,United Kingdom
+person-112,Cass Chen,cass-chen,Production Designer,Cass Chen is a fictional filmmaker whose work explores architecture and public space.,Brazil
+person-113,Dev Flores,dev-flores,Director,Dev Flores is a fictional filmmaker whose work explores memory and place.,Spain
+person-114,Elian Ito,elian-ito,Producer,Elian Ito is a fictional filmmaker whose work explores performance and identity.,Ireland
+person-115,Farah Bell,farah-bell,Cinematographer,Farah Bell is a fictional filmmaker whose work explores community histories.,Japan
+person-116,Gia El-Amin,gia-el-amin,Editor,Gia El-Amin is a fictional filmmaker whose work explores ecology and landscape.,Netherlands
+person-117,Hugo Haddad,hugo-haddad,Sound Designer,Hugo Haddad is a fictional filmmaker whose work explores movement and music.,France
+person-118,Imani Adebayo,imani-adebayo,Animator,Imani Adebayo is a fictional filmmaker whose work explores technology and labour.,Nigeria
+person-119,Jonah Doyle,jonah-doyle,Writer,Jonah Doyle is a fictional filmmaker whose work explores family and belonging.,Canada
+person-120,Kira Ghosh,kira-ghosh,Production Designer,Kira Ghosh is a fictional filmmaker whose work explores architecture and public space.,Germany

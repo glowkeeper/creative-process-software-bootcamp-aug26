@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-labelledby="film-19-title">
+  <title id="film-19-title">Abstract poster artwork for the fictional short film The Department of Lost Thursdays</title>
+  <defs>
+    <linearGradient id="film-19-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1e1214"/>
+      <stop offset="100%" stop-color="#0d0708"/>
+    </linearGradient>
+    <linearGradient id="film-19-veil" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d0708" stop-opacity="0"/>
+      <stop offset="55%" stop-color="#0d0708" stop-opacity="0.82"/>
+      <stop offset="100%" stop-color="#0d0708" stop-opacity="0.97"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="600" height="900" fill="url(#film-19-bg)"/>
+
+  <g>
+    <circle cx="60" cy="110" r="3" fill="#9e4239" opacity="0.75"/>
+    <rect x="116" y="98" width="24" height="24" fill="#c9503f" opacity="0.9"/>
+    <circle cx="196" cy="110" r="3" fill="#9e4239" opacity="0.75"/>
+    <circle cx="264" cy="110" r="3" fill="#9e4239" opacity="0.75"/>
+    <circle cx="332" cy="110" r="5" fill="#9e4239" opacity="0.75"/>
+    <circle cx="400" cy="110" r="3" fill="#9e4239" opacity="0.75"/>
+    <rect x="456" y="98" width="24" height="24" fill="none" stroke="#c9503f" stroke-width="2" opacity="0.7"/>
+    <circle cx="536" cy="110" r="3" fill="#9e4239" opacity="0.75"/>
+    <circle cx="60" cy="162" r="5" fill="#9e4239" opacity="0.75"/>
+    <circle cx="128" cy="162" r="3" fill="#9e4239" opacity="0.75"/>
+    <rect x="184" y="150" width="24" height="24" fill="none" stroke="#c9503f" stroke-width="2" opacity="0.7"/>
+    <circle cx="264" cy="162" r="3" fill="#9e4239" opacity="0.75"/>
+    <rect x="320" y="150" width="24" height="24" fill="#c9503f" opacity="0.9"/>
+    <circle cx="400" cy="162" r="3" fill="#9e4239" opacity="0.75"/>
+    <circle cx="468" cy="162" r="3" fill="#9e4239" opacity="0.75"/>
+    <circle cx="536" cy="162" r="5" fill="#9e4239" opacity="0.75"/>
+    <rect x="48" y="202" width="24" height="24" fill="#c9503f" opacity="0.9"/>
+    <circle cx="128" cy="214" r="3" fill="#9e4239" opacity="0.75"/>
+    <circle cx="196" cy="214" r="3" fill="#9e4239" opacity="0.75"/>
+    <circle cx="264" cy="214" r="5" fill="#9e4239" opacity="0.75"/>
+    <circle cx="332" cy="214" r="3" fill="#9e4239" opacity="0.75"/>
+    <rect x="388" y="202" width="24" height="24" fill="none" stroke="#c9503f" stroke-width="2" opacity="0.7"/>
+    <circle cx="468" cy="214" r="3" fill="#9e4239" opacity="0.75"/>
+    <rect x="524" y="202" width="24" height="24" fill="#c9503f" opacity="0.9"/>
+    <circle cx="60" cy="266" r="3" fill="#9e4239" opacity="0.75"/>
+    <rect x="116" y="254" width="24" height="24" fill="none" stroke="#c9503f" stroke-width="2" opacity="0.7"/>
+    <circle cx="196" cy="266" r="3" fill="#9e4239" opacity="0.75"/>
+    <rect x="252" y="254" width="24" height="24" fill="#c9503f" opacity="0.9"/>
+    <circle cx="332" cy="266" r="3" fill="#9e4239" opacity="0.75"/>
+    <circle cx="400" cy="266" r="3" fill="#9e4239" opacity="0.75"/>
+    <circle cx="468" cy="266" r="5" fill="#9e4239" opacity="0.75"/>
+    <circle cx="536" cy="266" r="3" fill="#9e4239" opacity="0.75"/>
+    <circle cx="60" cy="318" r="3" fill="#9e4239" opacity="0.75"/>
+    <circle cx="128" cy="318" r="3" fill="#9e4239" opacity="0.75"/>
+    <circle cx="196" cy="318" r="5" fill="#9e4239" opacity="0.75"/>
+    <circle cx="264" cy="318" r="3" fill="#9e4239" opacity="0.75"/>
+    <rect x="320" y="306" width="24" height="24" fill="none" stroke="#c9503f" stroke-width="2" opacity="0.7"/>
+    <circle cx="400" cy="318" r="3" fill="#9e4239" opacity="0.75"/>
+    <rect x="456" y="306" width="24" height="24" fill="#c9503f" opacity="0.9"/>
+    <circle cx="536" cy="318" r="3" fill="#9e4239" opacity="0.75"/>
+    <rect x="48" y="358" width="24" height="24" fill="none" stroke="#c9503f" stroke-width="2" opacity="0.7"/>
+    <circle cx="128" cy="370" r="3" fill="#9e4239" opacity="0.75"/>
+    <rect x="184" y="358" width="24" height="24" fill="#c9503f" opacity="0.9"/>
+    <circle cx="264" cy="370" r="3" fill="#9e4239" opacity="0.75"/>
+    <circle cx="332" cy="370" r="3" fill="#9e4239" opacity="0.75"/>
+    <circle cx="400" cy="370" r="5" fill="#9e4239" opacity="0.75"/>
+    <circle cx="468" cy="370" r="3" fill="#9e4239" opacity="0.75"/>
+    <rect x="524" y="358" width="24" height="24" fill="none" stroke="#c9503f" stroke-width="2" opacity="0.7"/>
+    <circle cx="60" cy="422" r="3" fill="#9e4239" opacity="0.75"/>
+    <circle cx="128" cy="422" r="5" fill="#9e4239" opacity="0.75"/>
+    <circle cx="196" cy="422" r="3" fill="#9e4239" opacity="0.75"/>
+    <rect x="252" y="410" width="24" height="24" fill="none" stroke="#c9503f" stroke-width="2" opacity="0.7"/>
+    <circle cx="332" cy="422" r="3" fill="#9e4239" opacity="0.75"/>
+    <rect x="388" y="410" width="24" height="24" fill="#c9503f" opacity="0.9"/>
+    <circle cx="468" cy="422" r="3" fill="#9e4239" opacity="0.75"/>
+    <circle cx="536" cy="422" r="3" fill="#9e4239" opacity="0.75"/>
+    <circle cx="60" cy="474" r="3" fill="#9e4239" opacity="0.75"/>
+    <rect x="116" y="462" width="24" height="24" fill="#c9503f" opacity="0.9"/>
+    <circle cx="196" cy="474" r="3" fill="#9e4239" opacity="0.75"/>
+    <circle cx="264" cy="474" r="3" fill="#9e4239" opacity="0.75"/>
+    <circle cx="332" cy="474" r="5" fill="#9e4239" opacity="0.75"/>
+    <circle cx="400" cy="474" r="3" fill="#9e4239" opacity="0.75"/>
+    <rect x="456" y="462" width="24" height="24" fill="none" stroke="#c9503f" stroke-width="2" opacity="0.7"/>
+    <circle cx="536" cy="474" r="3" fill="#9e4239" opacity="0.75"/>
+    <circle cx="60" cy="526" r="5" fill="#9e4239" opacity="0.75"/>
+    <circle cx="128" cy="526" r="3" fill="#9e4239" opacity="0.75"/>
+    <rect x="184" y="514" width="24" height="24" fill="none" stroke="#c9503f" stroke-width="2" opacity="0.7"/>
+    <circle cx="264" cy="526" r="3" fill="#9e4239" opacity="0.75"/>
+    <rect x="320" y="514" width="24" height="24" fill="#c9503f" opacity="0.9"/>
+    <circle cx="400" cy="526" r="3" fill="#9e4239" opacity="0.75"/>
+    <circle cx="468" cy="526" r="3" fill="#9e4239" opacity="0.75"/>
+    <circle cx="536" cy="526" r="5" fill="#9e4239" opacity="0.75"/>
+    <rect x="48" y="566" width="24" height="24" fill="#c9503f" opacity="0.9"/>
+    <circle cx="128" cy="578" r="3" fill="#9e4239" opacity="0.75"/>
+    <circle cx="196" cy="578" r="3" fill="#9e4239" opacity="0.75"/>
+    <circle cx="264" cy="578" r="5" fill="#9e4239" opacity="0.75"/>
+    <circle cx="332" cy="578" r="3" fill="#9e4239" opacity="0.75"/>
+    <rect x="388" y="566" width="24" height="24" fill="none" stroke="#c9503f" stroke-width="2" opacity="0.7"/>
+    <circle cx="468" cy="578" r="3" fill="#9e4239" opacity="0.75"/>
+    <rect x="524" y="566" width="24" height="24" fill="#c9503f" opacity="0.9"/>
+    <circle cx="60" cy="630" r="3" fill="#9e4239" opacity="0.75"/>
+    <rect x="116" y="618" width="24" height="24" fill="none" stroke="#c9503f" stroke-width="2" opacity="0.7"/>
+    <circle cx="196" cy="630" r="3" fill="#9e4239" opacity="0.75"/>
+    <rect x="252" y="618" width="24" height="24" fill="#c9503f" opacity="0.9"/>
+    <circle cx="332" cy="630" r="3" fill="#9e4239" opacity="0.75"/>
+    <circle cx="400" cy="630" r="3" fill="#9e4239" opacity="0.75"/>
+    <circle cx="468" cy="630" r="5" fill="#9e4239" opacity="0.75"/>
+    <circle cx="536" cy="630" r="3" fill="#9e4239" opacity="0.75"/>
+  </g>
+
+  <rect x="0" y="440" width="600" height="460" fill="url(#film-19-veil)"/>
+  <rect x="56" y="570" width="70" height="4" fill="#c9503f"/>
+
+  <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#faf7f1" letter-spacing="-0.5"><tspan x="56" y="642">The Department</tspan><tspan x="56" y="698">of Lost</tspan><tspan x="56" y="754">Thursdays</tspan></text>
+
+  <text x="56" y="812" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#c9503f" letter-spacing="2.4">2023 &#183; DRAMA</text>
+
+  <text x="56" y="848" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#a8a29a" letter-spacing="1.1">UNITED KINGDOM</text>
+</svg>

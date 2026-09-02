@@ -1,0 +1,170 @@
+[
+  {
+    "id": "company-001",
+    "name": "Lantern Field Films",
+    "slug": "lantern-field-films",
+    "country": "United Kingdom",
+    "foundedYear": 1998
+  },
+  {
+    "id": "company-002",
+    "name": "Mothlight Works",
+    "slug": "mothlight-works",
+    "country": "Netherlands",
+    "foundedYear": 2001
+  },
+  {
+    "id": "company-003",
+    "name": "Small Hours Studio",
+    "slug": "small-hours-studio",
+    "country": "Canada",
+    "foundedYear": 2004
+  },
+  {
+    "id": "company-004",
+    "name": "North Window Pictures",
+    "slug": "north-window-pictures",
+    "country": "Germany",
+    "foundedYear": 2007
+  },
+  {
+    "id": "company-005",
+    "name": "Common Thread Films",
+    "slug": "common-thread-films",
+    "country": "France",
+    "foundedYear": 2010
+  },
+  {
+    "id": "company-006",
+    "name": "Open Current Works",
+    "slug": "open-current-works",
+    "country": "Ireland",
+    "foundedYear": 2013
+  },
+  {
+    "id": "company-007",
+    "name": "Copper Frame Studio",
+    "slug": "copper-frame-studio",
+    "country": "United Kingdom",
+    "foundedYear": 2016
+  },
+  {
+    "id": "company-008",
+    "name": "Soft Signal Pictures",
+    "slug": "soft-signal-pictures",
+    "country": "Netherlands",
+    "foundedYear": 2019
+  },
+  {
+    "id": "company-009",
+    "name": "Night Orchard Films",
+    "slug": "night-orchard-films",
+    "country": "Canada",
+    "foundedYear": 2022
+  },
+  {
+    "id": "company-010",
+    "name": "Drift Assembly Works",
+    "slug": "drift-assembly-works",
+    "country": "Germany",
+    "foundedYear": 2000
+  },
+  {
+    "id": "company-011",
+    "name": "Blue Room Studio",
+    "slug": "blue-room-studio",
+    "country": "France",
+    "foundedYear": 2003
+  },
+  {
+    "id": "company-012",
+    "name": "Quiet Engine Pictures",
+    "slug": "quiet-engine-pictures",
+    "country": "Ireland",
+    "foundedYear": 2006
+  },
+  {
+    "id": "company-013",
+    "name": "Lantern Field Works",
+    "slug": "lantern-field-works",
+    "country": "United Kingdom",
+    "foundedYear": 2009
+  },
+  {
+    "id": "company-014",
+    "name": "Mothlight Studio",
+    "slug": "mothlight-studio",
+    "country": "Netherlands",
+    "foundedYear": 2012
+  },
+  {
+    "id": "company-015",
+    "name": "Small Hours Pictures",
+    "slug": "small-hours-pictures",
+    "country": "Canada",
+    "foundedYear": 2015
+  },
+  {
+    "id": "company-016",
+    "name": "North Window Films",
+    "slug": "north-window-films",
+    "country": "Germany",
+    "foundedYear": 2018
+  },
+  {
+    "id": "company-017",
+    "name": "Common Thread Works",
+    "slug": "common-thread-works",
+    "country": "France",
+    "foundedYear": 2021
+  },
+  {
+    "id": "company-018",
+    "name": "Open Current Studio",
+    "slug": "open-current-studio",
+    "country": "Ireland",
+    "foundedYear": 1999
+  },
+  {
+    "id": "company-019",
+    "name": "Copper Frame Pictures",
+    "slug": "copper-frame-pictures",
+    "country": "United Kingdom",
+    "foundedYear": 2002
+  },
+  {
+    "id": "company-020",
+    "name": "Soft Signal Films",
+    "slug": "soft-signal-films",
+    "country": "Netherlands",
+    "foundedYear": 2005
+  },
+  {
+    "id": "company-021",
+    "name": "Night Orchard Works",
+    "slug": "night-orchard-works",
+    "country": "Canada",
+    "foundedYear": 2008
+  },
+  {
+    "id": "company-022",
+    "name": "Drift Assembly Studio",
+    "slug": "drift-assembly-studio",
+    "country": "Germany",
+    "foundedYear": 2011
+  },
+  {
+    "id": "company-023",
+    "name": "Blue Room Pictures",
+    "slug": "blue-room-pictures",
+    "country": "France",
+    "foundedYear": 2014
+  },
+  {
+    "id": "company-024",
+    "name": "Quiet Engine Films",
+    "slug": "quiet-engine-films",
+    "country": "Ireland",
+    "foundedYear": 2017
+  }
+]

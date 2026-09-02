@@ -1,0 +1,8682 @@
+[
+  {
+    "filmId": "film-001",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-001",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-001",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-001",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-001",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-001",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-001",
+    "taxonomy": "country",
+    "term": "Ireland"
+  },
+  {
+    "filmId": "film-001",
+    "taxonomy": "storyLocation",
+    "term": "Coast"
+  },
+  {
+    "filmId": "film-002",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-002",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-002",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-002",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-002",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-002",
+    "taxonomy": "country",
+    "term": "United Kingdom"
+  },
+  {
+    "filmId": "film-002",
+    "taxonomy": "storyLocation",
+    "term": "Small Town"
+  },
+  {
+    "filmId": "film-003",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-003",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-003",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-003",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-003",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-003",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-003",
+    "taxonomy": "country",
+    "term": "Estonia"
+  },
+  {
+    "filmId": "film-003",
+    "taxonomy": "storyLocation",
+    "term": "Factory"
+  },
+  {
+    "filmId": "film-004",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-004",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-004",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-004",
+    "taxonomy": "technique",
+    "term": "Field Recording"
+  },
+  {
+    "filmId": "film-004",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-004",
+    "taxonomy": "country",
+    "term": "United Kingdom"
+  },
+  {
+    "filmId": "film-004",
+    "taxonomy": "storyLocation",
+    "term": "City"
+  },
+  {
+    "filmId": "film-005",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-005",
+    "taxonomy": "theme",
+    "term": "Friendship"
+  },
+  {
+    "filmId": "film-005",
+    "taxonomy": "theme",
+    "term": "Routine"
+  },
+  {
+    "filmId": "film-005",
+    "taxonomy": "technique",
+    "term": "Single Location"
+  },
+  {
+    "filmId": "film-005",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-005",
+    "taxonomy": "country",
+    "term": "United Kingdom"
+  },
+  {
+    "filmId": "film-005",
+    "taxonomy": "storyLocation",
+    "term": "Suburb"
+  },
+  {
+    "filmId": "film-006",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-006",
+    "taxonomy": "theme",
+    "term": "Body"
+  },
+  {
+    "filmId": "film-006",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-006",
+    "taxonomy": "technique",
+    "term": "Choreography"
+  },
+  {
+    "filmId": "film-006",
+    "taxonomy": "technique",
+    "term": "Super 8"
+  },
+  {
+    "filmId": "film-006",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-006",
+    "taxonomy": "country",
+    "term": "Portugal"
+  },
+  {
+    "filmId": "film-006",
+    "taxonomy": "storyLocation",
+    "term": "Coast"
+  },
+  {
+    "filmId": "film-007",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-007",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-007",
+    "taxonomy": "theme",
+    "term": "Care"
+  },
+  {
+    "filmId": "film-007",
+    "taxonomy": "technique",
+    "term": "Practical Effects"
+  },
+  {
+    "filmId": "film-007",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-007",
+    "taxonomy": "country",
+    "term": "United Kingdom"
+  },
+  {
+    "filmId": "film-007",
+    "taxonomy": "storyLocation",
+    "term": "Rural"
+  },
+  {
+    "filmId": "film-008",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-008",
+    "taxonomy": "theme",
+    "term": "Strangers"
+  },
+  {
+    "filmId": "film-008",
+    "taxonomy": "theme",
+    "term": "City"
+  },
+  {
+    "filmId": "film-008",
+    "taxonomy": "technique",
+    "term": "Available Light"
+  },
+  {
+    "filmId": "film-008",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-008",
+    "taxonomy": "country",
+    "term": "United Kingdom"
+  },
+  {
+    "filmId": "film-008",
+    "taxonomy": "storyLocation",
+    "term": "City"
+  },
+  {
+    "filmId": "film-009",
+    "taxonomy": "genre",
+    "term": "Fantasy"
+  },
+  {
+    "filmId": "film-009",
+    "taxonomy": "theme",
+    "term": "Imagination"
+  },
+  {
+    "filmId": "film-009",
+    "taxonomy": "theme",
+    "term": "Learning"
+  },
+  {
+    "filmId": "film-009",
+    "taxonomy": "technique",
+    "term": "Paper Animation"
+  },
+  {
+    "filmId": "film-009",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-009",
+    "taxonomy": "country",
+    "term": "Spain"
+  },
+  {
+    "filmId": "film-009",
+    "taxonomy": "storyLocation",
+    "term": "School"
+  },
+  {
+    "filmId": "film-010",
+    "taxonomy": "genre",
+    "term": "Architecture"
+  },
+  {
+    "filmId": "film-010",
+    "taxonomy": "theme",
+    "term": "City"
+  },
+  {
+    "filmId": "film-010",
+    "taxonomy": "theme",
+    "term": "Sound"
+  },
+  {
+    "filmId": "film-010",
+    "taxonomy": "technique",
+    "term": "Field Recording"
+  },
+  {
+    "filmId": "film-010",
+    "taxonomy": "technique",
+    "term": "Time-lapse"
+  },
+  {
+    "filmId": "film-010",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-010",
+    "taxonomy": "country",
+    "term": "Germany"
+  },
+  {
+    "filmId": "film-010",
+    "taxonomy": "storyLocation",
+    "term": "City"
+  },
+  {
+    "filmId": "film-011",
+    "taxonomy": "genre",
+    "term": "Romance"
+  },
+  {
+    "filmId": "film-011",
+    "taxonomy": "theme",
+    "term": "Love"
+  },
+  {
+    "filmId": "film-011",
+    "taxonomy": "theme",
+    "term": "Objects"
+  },
+  {
+    "filmId": "film-011",
+    "taxonomy": "technique",
+    "term": "Macro Photography"
+  },
+  {
+    "filmId": "film-011",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-011",
+    "taxonomy": "country",
+    "term": "France"
+  },
+  {
+    "filmId": "film-011",
+    "taxonomy": "storyLocation",
+    "term": "City"
+  },
+  {
+    "filmId": "film-012",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-012",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-012",
+    "taxonomy": "theme",
+    "term": "Landscape"
+  },
+  {
+    "filmId": "film-012",
+    "taxonomy": "technique",
+    "term": "Double Exposure"
+  },
+  {
+    "filmId": "film-012",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-012",
+    "taxonomy": "country",
+    "term": "Iceland"
+  },
+  {
+    "filmId": "film-012",
+    "taxonomy": "storyLocation",
+    "term": "Mountain"
+  },
+  {
+    "filmId": "film-013",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-013",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-013",
+    "taxonomy": "theme",
+    "term": "Objects"
+  },
+  {
+    "filmId": "film-013",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-013",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-013",
+    "taxonomy": "country",
+    "term": "Belgium"
+  },
+  {
+    "filmId": "film-013",
+    "taxonomy": "storyLocation",
+    "term": "Museum"
+  },
+  {
+    "filmId": "film-014",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-014",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-014",
+    "taxonomy": "theme",
+    "term": "Body"
+  },
+  {
+    "filmId": "film-014",
+    "taxonomy": "technique",
+    "term": "Choreography"
+  },
+  {
+    "filmId": "film-014",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-014",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-014",
+    "taxonomy": "country",
+    "term": "Netherlands"
+  },
+  {
+    "filmId": "film-014",
+    "taxonomy": "storyLocation",
+    "term": "Factory"
+  },
+  {
+    "filmId": "film-015",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-015",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-015",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-015",
+    "taxonomy": "technique",
+    "term": "Archive Audio"
+  },
+  {
+    "filmId": "film-015",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-015",
+    "taxonomy": "country",
+    "term": "United Kingdom"
+  },
+  {
+    "filmId": "film-015",
+    "taxonomy": "storyLocation",
+    "term": "Rural"
+  },
+  {
+    "filmId": "film-016",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-016",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-016",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-016",
+    "taxonomy": "technique",
+    "term": "Projection"
+  },
+  {
+    "filmId": "film-016",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-016",
+    "taxonomy": "country",
+    "term": "Norway"
+  },
+  {
+    "filmId": "film-016",
+    "taxonomy": "storyLocation",
+    "term": "Rural"
+  },
+  {
+    "filmId": "film-017",
+    "taxonomy": "genre",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-017",
+    "taxonomy": "theme",
+    "term": "Light"
+  },
+  {
+    "filmId": "film-017",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-017",
+    "taxonomy": "technique",
+    "term": "Drawn Animation"
+  },
+  {
+    "filmId": "film-017",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-017",
+    "taxonomy": "country",
+    "term": "Finland"
+  },
+  {
+    "filmId": "film-017",
+    "taxonomy": "storyLocation",
+    "term": "Domestic"
+  },
+  {
+    "filmId": "film-018",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-018",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-018",
+    "taxonomy": "theme",
+    "term": "Responsibility"
+  },
+  {
+    "filmId": "film-018",
+    "taxonomy": "technique",
+    "term": "Drone Photography"
+  },
+  {
+    "filmId": "film-018",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-018",
+    "taxonomy": "country",
+    "term": "Wales"
+  },
+  {
+    "filmId": "film-018",
+    "taxonomy": "storyLocation",
+    "term": "Mountain"
+  },
+  {
+    "filmId": "film-019",
+    "taxonomy": "genre",
+    "term": "Fantasy"
+  },
+  {
+    "filmId": "film-019",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-019",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-019",
+    "taxonomy": "technique",
+    "term": "Practical Effects"
+  },
+  {
+    "filmId": "film-019",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-019",
+    "taxonomy": "country",
+    "term": "United Kingdom"
+  },
+  {
+    "filmId": "film-019",
+    "taxonomy": "storyLocation",
+    "term": "Office"
+  },
+  {
+    "filmId": "film-020",
+    "taxonomy": "genre",
+    "term": "Oral History"
+  },
+  {
+    "filmId": "film-020",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-020",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-020",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-020",
+    "taxonomy": "technique",
+    "term": "Field Recording"
+  },
+  {
+    "filmId": "film-020",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-020",
+    "taxonomy": "country",
+    "term": "United Kingdom"
+  },
+  {
+    "filmId": "film-020",
+    "taxonomy": "storyLocation",
+    "term": "City"
+  },
+  {
+    "filmId": "film-021",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-021",
+    "taxonomy": "theme",
+    "term": "Friendship"
+  },
+  {
+    "filmId": "film-021",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-021",
+    "taxonomy": "technique",
+    "term": "Super 8"
+  },
+  {
+    "filmId": "film-021",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-021",
+    "taxonomy": "country",
+    "term": "Ireland"
+  },
+  {
+    "filmId": "film-021",
+    "taxonomy": "storyLocation",
+    "term": "Coast"
+  },
+  {
+    "filmId": "film-022",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-022",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-022",
+    "taxonomy": "theme",
+    "term": "Strangers"
+  },
+  {
+    "filmId": "film-022",
+    "taxonomy": "technique",
+    "term": "Practical Effects"
+  },
+  {
+    "filmId": "film-022",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-022",
+    "taxonomy": "country",
+    "term": "United Kingdom"
+  },
+  {
+    "filmId": "film-022",
+    "taxonomy": "storyLocation",
+    "term": "Domestic"
+  },
+  {
+    "filmId": "film-023",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-023",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-023",
+    "taxonomy": "theme",
+    "term": "Youth"
+  },
+  {
+    "filmId": "film-023",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-023",
+    "taxonomy": "technique",
+    "term": "Projection"
+  },
+  {
+    "filmId": "film-023",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-023",
+    "taxonomy": "country",
+    "term": "Canada"
+  },
+  {
+    "filmId": "film-023",
+    "taxonomy": "storyLocation",
+    "term": "School"
+  },
+  {
+    "filmId": "film-024",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-024",
+    "taxonomy": "theme",
+    "term": "Body"
+  },
+  {
+    "filmId": "film-024",
+    "taxonomy": "theme",
+    "term": "City"
+  },
+  {
+    "filmId": "film-024",
+    "taxonomy": "technique",
+    "term": "Choreography"
+  },
+  {
+    "filmId": "film-024",
+    "taxonomy": "technique",
+    "term": "Split Screen"
+  },
+  {
+    "filmId": "film-024",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-024",
+    "taxonomy": "country",
+    "term": "United Kingdom"
+  },
+  {
+    "filmId": "film-024",
+    "taxonomy": "storyLocation",
+    "term": "City"
+  },
+  {
+    "filmId": "film-025",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-025",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-025",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-025",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-025",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-025",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-025",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-025",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-025",
+    "taxonomy": "country",
+    "term": "United Kingdom"
+  },
+  {
+    "filmId": "film-025",
+    "taxonomy": "storyLocation",
+    "term": "Factory"
+  },
+  {
+    "filmId": "film-026",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-026",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-026",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-026",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-026",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-026",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-026",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-026",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-026",
+    "taxonomy": "country",
+    "term": "Brazil"
+  },
+  {
+    "filmId": "film-026",
+    "taxonomy": "storyLocation",
+    "term": "Island"
+  },
+  {
+    "filmId": "film-027",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-027",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-027",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-027",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-027",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-027",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-027",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-027",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-027",
+    "taxonomy": "country",
+    "term": "France"
+  },
+  {
+    "filmId": "film-027",
+    "taxonomy": "storyLocation",
+    "term": "Mountain"
+  },
+  {
+    "filmId": "film-028",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-028",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-028",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-028",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-028",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-028",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-028",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-028",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-028",
+    "taxonomy": "country",
+    "term": "Nigeria"
+  },
+  {
+    "filmId": "film-028",
+    "taxonomy": "storyLocation",
+    "term": "School"
+  },
+  {
+    "filmId": "film-029",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-029",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-029",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-029",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-029",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-029",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-029",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-029",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-029",
+    "taxonomy": "country",
+    "term": "Spain"
+  },
+  {
+    "filmId": "film-029",
+    "taxonomy": "storyLocation",
+    "term": "River"
+  },
+  {
+    "filmId": "film-030",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-030",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-030",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-030",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-030",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-030",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-030",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-030",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-030",
+    "taxonomy": "country",
+    "term": "Norway"
+  },
+  {
+    "filmId": "film-030",
+    "taxonomy": "storyLocation",
+    "term": "Suburb"
+  },
+  {
+    "filmId": "film-031",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-031",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-031",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-031",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-031",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-031",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-031",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-031",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-031",
+    "taxonomy": "country",
+    "term": "Canada"
+  },
+  {
+    "filmId": "film-031",
+    "taxonomy": "storyLocation",
+    "term": "Coast"
+  },
+  {
+    "filmId": "film-032",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-032",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-032",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-032",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-032",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-032",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-032",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-032",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-032",
+    "taxonomy": "country",
+    "term": "Ireland"
+  },
+  {
+    "filmId": "film-032",
+    "taxonomy": "storyLocation",
+    "term": "City"
+  },
+  {
+    "filmId": "film-033",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-033",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-033",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-033",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-033",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-033",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-033",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-033",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-033",
+    "taxonomy": "country",
+    "term": "Japan"
+  },
+  {
+    "filmId": "film-033",
+    "taxonomy": "storyLocation",
+    "term": "Forest"
+  },
+  {
+    "filmId": "film-034",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-034",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-034",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-034",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-034",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-034",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-034",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-034",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-034",
+    "taxonomy": "country",
+    "term": "Germany"
+  },
+  {
+    "filmId": "film-034",
+    "taxonomy": "storyLocation",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-035",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-035",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-035",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-035",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-035",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-035",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-035",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-035",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-035",
+    "taxonomy": "country",
+    "term": "Portugal"
+  },
+  {
+    "filmId": "film-035",
+    "taxonomy": "storyLocation",
+    "term": "Factory"
+  },
+  {
+    "filmId": "film-036",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-036",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-036",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-036",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-036",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-036",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-036",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-036",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-036",
+    "taxonomy": "country",
+    "term": "Netherlands"
+  },
+  {
+    "filmId": "film-036",
+    "taxonomy": "storyLocation",
+    "term": "Island"
+  },
+  {
+    "filmId": "film-037",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-037",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-037",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-037",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-037",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-037",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-037",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-037",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-037",
+    "taxonomy": "country",
+    "term": "United Kingdom"
+  },
+  {
+    "filmId": "film-037",
+    "taxonomy": "storyLocation",
+    "term": "Mountain"
+  },
+  {
+    "filmId": "film-038",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-038",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-038",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-038",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-038",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-038",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-038",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-038",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-038",
+    "taxonomy": "country",
+    "term": "Brazil"
+  },
+  {
+    "filmId": "film-038",
+    "taxonomy": "storyLocation",
+    "term": "School"
+  },
+  {
+    "filmId": "film-039",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-039",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-039",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-039",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-039",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-039",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-039",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-039",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-039",
+    "taxonomy": "country",
+    "term": "France"
+  },
+  {
+    "filmId": "film-039",
+    "taxonomy": "storyLocation",
+    "term": "River"
+  },
+  {
+    "filmId": "film-040",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-040",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-040",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-040",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-040",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-040",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-040",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-040",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-040",
+    "taxonomy": "country",
+    "term": "Nigeria"
+  },
+  {
+    "filmId": "film-040",
+    "taxonomy": "storyLocation",
+    "term": "Suburb"
+  },
+  {
+    "filmId": "film-041",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-041",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-041",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-041",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-041",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-041",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-041",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-041",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-041",
+    "taxonomy": "country",
+    "term": "Spain"
+  },
+  {
+    "filmId": "film-041",
+    "taxonomy": "storyLocation",
+    "term": "Coast"
+  },
+  {
+    "filmId": "film-042",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-042",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-042",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-042",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-042",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-042",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-042",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-042",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-042",
+    "taxonomy": "country",
+    "term": "Norway"
+  },
+  {
+    "filmId": "film-042",
+    "taxonomy": "storyLocation",
+    "term": "City"
+  },
+  {
+    "filmId": "film-043",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-043",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-043",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-043",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-043",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-043",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-043",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-043",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-043",
+    "taxonomy": "country",
+    "term": "Canada"
+  },
+  {
+    "filmId": "film-043",
+    "taxonomy": "storyLocation",
+    "term": "Forest"
+  },
+  {
+    "filmId": "film-044",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-044",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-044",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-044",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-044",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-044",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-044",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-044",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-044",
+    "taxonomy": "country",
+    "term": "Ireland"
+  },
+  {
+    "filmId": "film-044",
+    "taxonomy": "storyLocation",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-045",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-045",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-045",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-045",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-045",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-045",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-045",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-045",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-045",
+    "taxonomy": "country",
+    "term": "Japan"
+  },
+  {
+    "filmId": "film-045",
+    "taxonomy": "storyLocation",
+    "term": "Factory"
+  },
+  {
+    "filmId": "film-046",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-046",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-046",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-046",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-046",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-046",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-046",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-046",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-046",
+    "taxonomy": "country",
+    "term": "Germany"
+  },
+  {
+    "filmId": "film-046",
+    "taxonomy": "storyLocation",
+    "term": "Island"
+  },
+  {
+    "filmId": "film-047",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-047",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-047",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-047",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-047",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-047",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-047",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-047",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-047",
+    "taxonomy": "country",
+    "term": "Portugal"
+  },
+  {
+    "filmId": "film-047",
+    "taxonomy": "storyLocation",
+    "term": "Mountain"
+  },
+  {
+    "filmId": "film-048",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-048",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-048",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-048",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-048",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-048",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-048",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-048",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-048",
+    "taxonomy": "country",
+    "term": "Netherlands"
+  },
+  {
+    "filmId": "film-048",
+    "taxonomy": "storyLocation",
+    "term": "School"
+  },
+  {
+    "filmId": "film-049",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-049",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-049",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-049",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-049",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-049",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-049",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-049",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-049",
+    "taxonomy": "country",
+    "term": "United Kingdom"
+  },
+  {
+    "filmId": "film-049",
+    "taxonomy": "storyLocation",
+    "term": "River"
+  },
+  {
+    "filmId": "film-050",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-050",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-050",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-050",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-050",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-050",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-050",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-050",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-050",
+    "taxonomy": "country",
+    "term": "Brazil"
+  },
+  {
+    "filmId": "film-050",
+    "taxonomy": "storyLocation",
+    "term": "Suburb"
+  },
+  {
+    "filmId": "film-051",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-051",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-051",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-051",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-051",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-051",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-051",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-051",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-051",
+    "taxonomy": "country",
+    "term": "France"
+  },
+  {
+    "filmId": "film-051",
+    "taxonomy": "storyLocation",
+    "term": "Coast"
+  },
+  {
+    "filmId": "film-052",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-052",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-052",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-052",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-052",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-052",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-052",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-052",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-052",
+    "taxonomy": "country",
+    "term": "Nigeria"
+  },
+  {
+    "filmId": "film-052",
+    "taxonomy": "storyLocation",
+    "term": "City"
+  },
+  {
+    "filmId": "film-053",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-053",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-053",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-053",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-053",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-053",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-053",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-053",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-053",
+    "taxonomy": "country",
+    "term": "Spain"
+  },
+  {
+    "filmId": "film-053",
+    "taxonomy": "storyLocation",
+    "term": "Forest"
+  },
+  {
+    "filmId": "film-054",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-054",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-054",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-054",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-054",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-054",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-054",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-054",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-054",
+    "taxonomy": "country",
+    "term": "Norway"
+  },
+  {
+    "filmId": "film-054",
+    "taxonomy": "storyLocation",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-055",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-055",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-055",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-055",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-055",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-055",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-055",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-055",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-055",
+    "taxonomy": "country",
+    "term": "Canada"
+  },
+  {
+    "filmId": "film-055",
+    "taxonomy": "storyLocation",
+    "term": "Factory"
+  },
+  {
+    "filmId": "film-056",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-056",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-056",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-056",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-056",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-056",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-056",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-056",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-056",
+    "taxonomy": "country",
+    "term": "Ireland"
+  },
+  {
+    "filmId": "film-056",
+    "taxonomy": "storyLocation",
+    "term": "Island"
+  },
+  {
+    "filmId": "film-057",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-057",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-057",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-057",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-057",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-057",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-057",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-057",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-057",
+    "taxonomy": "country",
+    "term": "Japan"
+  },
+  {
+    "filmId": "film-057",
+    "taxonomy": "storyLocation",
+    "term": "Mountain"
+  },
+  {
+    "filmId": "film-058",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-058",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-058",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-058",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-058",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-058",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-058",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-058",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-058",
+    "taxonomy": "country",
+    "term": "Germany"
+  },
+  {
+    "filmId": "film-058",
+    "taxonomy": "storyLocation",
+    "term": "School"
+  },
+  {
+    "filmId": "film-059",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-059",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-059",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-059",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-059",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-059",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-059",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-059",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-059",
+    "taxonomy": "country",
+    "term": "Portugal"
+  },
+  {
+    "filmId": "film-059",
+    "taxonomy": "storyLocation",
+    "term": "River"
+  },
+  {
+    "filmId": "film-060",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-060",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-060",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-060",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-060",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-060",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-060",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-060",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-060",
+    "taxonomy": "country",
+    "term": "Netherlands"
+  },
+  {
+    "filmId": "film-060",
+    "taxonomy": "storyLocation",
+    "term": "Suburb"
+  },
+  {
+    "filmId": "film-061",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-061",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-061",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-061",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-061",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-061",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-061",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-061",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-061",
+    "taxonomy": "country",
+    "term": "United Kingdom"
+  },
+  {
+    "filmId": "film-061",
+    "taxonomy": "storyLocation",
+    "term": "Coast"
+  },
+  {
+    "filmId": "film-062",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-062",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-062",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-062",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-062",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-062",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-062",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-062",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-062",
+    "taxonomy": "country",
+    "term": "Brazil"
+  },
+  {
+    "filmId": "film-062",
+    "taxonomy": "storyLocation",
+    "term": "City"
+  },
+  {
+    "filmId": "film-063",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-063",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-063",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-063",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-063",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-063",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-063",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-063",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-063",
+    "taxonomy": "country",
+    "term": "France"
+  },
+  {
+    "filmId": "film-063",
+    "taxonomy": "storyLocation",
+    "term": "Forest"
+  },
+  {
+    "filmId": "film-064",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-064",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-064",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-064",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-064",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-064",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-064",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-064",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-064",
+    "taxonomy": "country",
+    "term": "Nigeria"
+  },
+  {
+    "filmId": "film-064",
+    "taxonomy": "storyLocation",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-065",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-065",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-065",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-065",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-065",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-065",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-065",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-065",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-065",
+    "taxonomy": "country",
+    "term": "Spain"
+  },
+  {
+    "filmId": "film-065",
+    "taxonomy": "storyLocation",
+    "term": "Factory"
+  },
+  {
+    "filmId": "film-066",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-066",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-066",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-066",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-066",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-066",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-066",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-066",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-066",
+    "taxonomy": "country",
+    "term": "Norway"
+  },
+  {
+    "filmId": "film-066",
+    "taxonomy": "storyLocation",
+    "term": "Island"
+  },
+  {
+    "filmId": "film-067",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-067",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-067",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-067",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-067",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-067",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-067",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-067",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-067",
+    "taxonomy": "country",
+    "term": "Canada"
+  },
+  {
+    "filmId": "film-067",
+    "taxonomy": "storyLocation",
+    "term": "Mountain"
+  },
+  {
+    "filmId": "film-068",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-068",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-068",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-068",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-068",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-068",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-068",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-068",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-068",
+    "taxonomy": "country",
+    "term": "Ireland"
+  },
+  {
+    "filmId": "film-068",
+    "taxonomy": "storyLocation",
+    "term": "School"
+  },
+  {
+    "filmId": "film-069",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-069",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-069",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-069",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-069",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-069",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-069",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-069",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-069",
+    "taxonomy": "country",
+    "term": "Japan"
+  },
+  {
+    "filmId": "film-069",
+    "taxonomy": "storyLocation",
+    "term": "River"
+  },
+  {
+    "filmId": "film-070",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-070",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-070",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-070",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-070",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-070",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-070",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-070",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-070",
+    "taxonomy": "country",
+    "term": "Germany"
+  },
+  {
+    "filmId": "film-070",
+    "taxonomy": "storyLocation",
+    "term": "Suburb"
+  },
+  {
+    "filmId": "film-071",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-071",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-071",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-071",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-071",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-071",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-071",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-071",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-071",
+    "taxonomy": "country",
+    "term": "Portugal"
+  },
+  {
+    "filmId": "film-071",
+    "taxonomy": "storyLocation",
+    "term": "Coast"
+  },
+  {
+    "filmId": "film-072",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-072",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-072",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-072",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-072",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-072",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-072",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-072",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-072",
+    "taxonomy": "country",
+    "term": "Netherlands"
+  },
+  {
+    "filmId": "film-072",
+    "taxonomy": "storyLocation",
+    "term": "City"
+  },
+  {
+    "filmId": "film-073",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-073",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-073",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-073",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-073",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-073",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-073",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-073",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-073",
+    "taxonomy": "country",
+    "term": "United Kingdom"
+  },
+  {
+    "filmId": "film-073",
+    "taxonomy": "storyLocation",
+    "term": "Forest"
+  },
+  {
+    "filmId": "film-074",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-074",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-074",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-074",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-074",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-074",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-074",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-074",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-074",
+    "taxonomy": "country",
+    "term": "Brazil"
+  },
+  {
+    "filmId": "film-074",
+    "taxonomy": "storyLocation",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-075",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-075",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-075",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-075",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-075",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-075",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-075",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-075",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-075",
+    "taxonomy": "country",
+    "term": "France"
+  },
+  {
+    "filmId": "film-075",
+    "taxonomy": "storyLocation",
+    "term": "Factory"
+  },
+  {
+    "filmId": "film-076",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-076",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-076",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-076",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-076",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-076",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-076",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-076",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-076",
+    "taxonomy": "country",
+    "term": "Nigeria"
+  },
+  {
+    "filmId": "film-076",
+    "taxonomy": "storyLocation",
+    "term": "Island"
+  },
+  {
+    "filmId": "film-077",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-077",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-077",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-077",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-077",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-077",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-077",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-077",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-077",
+    "taxonomy": "country",
+    "term": "Spain"
+  },
+  {
+    "filmId": "film-077",
+    "taxonomy": "storyLocation",
+    "term": "Mountain"
+  },
+  {
+    "filmId": "film-078",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-078",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-078",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-078",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-078",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-078",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-078",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-078",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-078",
+    "taxonomy": "country",
+    "term": "Norway"
+  },
+  {
+    "filmId": "film-078",
+    "taxonomy": "storyLocation",
+    "term": "School"
+  },
+  {
+    "filmId": "film-079",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-079",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-079",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-079",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-079",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-079",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-079",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-079",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-079",
+    "taxonomy": "country",
+    "term": "Canada"
+  },
+  {
+    "filmId": "film-079",
+    "taxonomy": "storyLocation",
+    "term": "River"
+  },
+  {
+    "filmId": "film-080",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-080",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-080",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-080",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-080",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-080",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-080",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-080",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-080",
+    "taxonomy": "country",
+    "term": "Ireland"
+  },
+  {
+    "filmId": "film-080",
+    "taxonomy": "storyLocation",
+    "term": "Suburb"
+  },
+  {
+    "filmId": "film-081",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-081",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-081",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-081",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-081",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-081",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-081",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-081",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-081",
+    "taxonomy": "country",
+    "term": "Japan"
+  },
+  {
+    "filmId": "film-081",
+    "taxonomy": "storyLocation",
+    "term": "Coast"
+  },
+  {
+    "filmId": "film-082",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-082",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-082",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-082",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-082",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-082",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-082",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-082",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-082",
+    "taxonomy": "country",
+    "term": "Germany"
+  },
+  {
+    "filmId": "film-082",
+    "taxonomy": "storyLocation",
+    "term": "City"
+  },
+  {
+    "filmId": "film-083",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-083",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-083",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-083",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-083",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-083",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-083",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-083",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-083",
+    "taxonomy": "country",
+    "term": "Portugal"
+  },
+  {
+    "filmId": "film-083",
+    "taxonomy": "storyLocation",
+    "term": "Forest"
+  },
+  {
+    "filmId": "film-084",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-084",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-084",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-084",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-084",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-084",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-084",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-084",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-084",
+    "taxonomy": "country",
+    "term": "Netherlands"
+  },
+  {
+    "filmId": "film-084",
+    "taxonomy": "storyLocation",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-085",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-085",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-085",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-085",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-085",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-085",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-085",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-085",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-085",
+    "taxonomy": "country",
+    "term": "United Kingdom"
+  },
+  {
+    "filmId": "film-085",
+    "taxonomy": "storyLocation",
+    "term": "Factory"
+  },
+  {
+    "filmId": "film-086",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-086",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-086",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-086",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-086",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-086",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-086",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-086",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-086",
+    "taxonomy": "country",
+    "term": "Brazil"
+  },
+  {
+    "filmId": "film-086",
+    "taxonomy": "storyLocation",
+    "term": "Island"
+  },
+  {
+    "filmId": "film-087",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-087",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-087",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-087",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-087",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-087",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-087",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-087",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-087",
+    "taxonomy": "country",
+    "term": "France"
+  },
+  {
+    "filmId": "film-087",
+    "taxonomy": "storyLocation",
+    "term": "Mountain"
+  },
+  {
+    "filmId": "film-088",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-088",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-088",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-088",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-088",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-088",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-088",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-088",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-088",
+    "taxonomy": "country",
+    "term": "Nigeria"
+  },
+  {
+    "filmId": "film-088",
+    "taxonomy": "storyLocation",
+    "term": "School"
+  },
+  {
+    "filmId": "film-089",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-089",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-089",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-089",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-089",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-089",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-089",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-089",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-089",
+    "taxonomy": "country",
+    "term": "Spain"
+  },
+  {
+    "filmId": "film-089",
+    "taxonomy": "storyLocation",
+    "term": "River"
+  },
+  {
+    "filmId": "film-090",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-090",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-090",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-090",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-090",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-090",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-090",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-090",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-090",
+    "taxonomy": "country",
+    "term": "Norway"
+  },
+  {
+    "filmId": "film-090",
+    "taxonomy": "storyLocation",
+    "term": "Suburb"
+  },
+  {
+    "filmId": "film-091",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-091",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-091",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-091",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-091",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-091",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-091",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-091",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-091",
+    "taxonomy": "country",
+    "term": "Canada"
+  },
+  {
+    "filmId": "film-091",
+    "taxonomy": "storyLocation",
+    "term": "Coast"
+  },
+  {
+    "filmId": "film-092",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-092",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-092",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-092",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-092",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-092",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-092",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-092",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-092",
+    "taxonomy": "country",
+    "term": "Ireland"
+  },
+  {
+    "filmId": "film-092",
+    "taxonomy": "storyLocation",
+    "term": "City"
+  },
+  {
+    "filmId": "film-093",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-093",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-093",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-093",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-093",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-093",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-093",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-093",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-093",
+    "taxonomy": "country",
+    "term": "Japan"
+  },
+  {
+    "filmId": "film-093",
+    "taxonomy": "storyLocation",
+    "term": "Forest"
+  },
+  {
+    "filmId": "film-094",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-094",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-094",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-094",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-094",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-094",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-094",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-094",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-094",
+    "taxonomy": "country",
+    "term": "Germany"
+  },
+  {
+    "filmId": "film-094",
+    "taxonomy": "storyLocation",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-095",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-095",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-095",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-095",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-095",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-095",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-095",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-095",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-095",
+    "taxonomy": "country",
+    "term": "Portugal"
+  },
+  {
+    "filmId": "film-095",
+    "taxonomy": "storyLocation",
+    "term": "Factory"
+  },
+  {
+    "filmId": "film-096",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-096",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-096",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-096",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-096",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-096",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-096",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-096",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-096",
+    "taxonomy": "country",
+    "term": "Netherlands"
+  },
+  {
+    "filmId": "film-096",
+    "taxonomy": "storyLocation",
+    "term": "Island"
+  },
+  {
+    "filmId": "film-097",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-097",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-097",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-097",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-097",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-097",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-097",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-097",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-097",
+    "taxonomy": "country",
+    "term": "United Kingdom"
+  },
+  {
+    "filmId": "film-097",
+    "taxonomy": "storyLocation",
+    "term": "Mountain"
+  },
+  {
+    "filmId": "film-098",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-098",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-098",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-098",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-098",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-098",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-098",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-098",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-098",
+    "taxonomy": "country",
+    "term": "Brazil"
+  },
+  {
+    "filmId": "film-098",
+    "taxonomy": "storyLocation",
+    "term": "School"
+  },
+  {
+    "filmId": "film-099",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-099",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-099",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-099",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-099",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-099",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-099",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-099",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-099",
+    "taxonomy": "country",
+    "term": "France"
+  },
+  {
+    "filmId": "film-099",
+    "taxonomy": "storyLocation",
+    "term": "River"
+  },
+  {
+    "filmId": "film-100",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-100",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-100",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-100",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-100",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-100",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-100",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-100",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-100",
+    "taxonomy": "country",
+    "term": "Nigeria"
+  },
+  {
+    "filmId": "film-100",
+    "taxonomy": "storyLocation",
+    "term": "Suburb"
+  },
+  {
+    "filmId": "film-101",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-101",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-101",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-101",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-101",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-101",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-101",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-101",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-101",
+    "taxonomy": "country",
+    "term": "Spain"
+  },
+  {
+    "filmId": "film-101",
+    "taxonomy": "storyLocation",
+    "term": "Coast"
+  },
+  {
+    "filmId": "film-102",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-102",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-102",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-102",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-102",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-102",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-102",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-102",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-102",
+    "taxonomy": "country",
+    "term": "Norway"
+  },
+  {
+    "filmId": "film-102",
+    "taxonomy": "storyLocation",
+    "term": "City"
+  },
+  {
+    "filmId": "film-103",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-103",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-103",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-103",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-103",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-103",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-103",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-103",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-103",
+    "taxonomy": "country",
+    "term": "Canada"
+  },
+  {
+    "filmId": "film-103",
+    "taxonomy": "storyLocation",
+    "term": "Forest"
+  },
+  {
+    "filmId": "film-104",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-104",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-104",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-104",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-104",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-104",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-104",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-104",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-104",
+    "taxonomy": "country",
+    "term": "Ireland"
+  },
+  {
+    "filmId": "film-104",
+    "taxonomy": "storyLocation",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-105",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-105",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-105",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-105",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-105",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-105",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-105",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-105",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-105",
+    "taxonomy": "country",
+    "term": "Japan"
+  },
+  {
+    "filmId": "film-105",
+    "taxonomy": "storyLocation",
+    "term": "Factory"
+  },
+  {
+    "filmId": "film-106",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-106",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-106",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-106",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-106",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-106",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-106",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-106",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-106",
+    "taxonomy": "country",
+    "term": "Germany"
+  },
+  {
+    "filmId": "film-106",
+    "taxonomy": "storyLocation",
+    "term": "Island"
+  },
+  {
+    "filmId": "film-107",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-107",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-107",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-107",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-107",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-107",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-107",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-107",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-107",
+    "taxonomy": "country",
+    "term": "Portugal"
+  },
+  {
+    "filmId": "film-107",
+    "taxonomy": "storyLocation",
+    "term": "Mountain"
+  },
+  {
+    "filmId": "film-108",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-108",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-108",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-108",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-108",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-108",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-108",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-108",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-108",
+    "taxonomy": "country",
+    "term": "Netherlands"
+  },
+  {
+    "filmId": "film-108",
+    "taxonomy": "storyLocation",
+    "term": "School"
+  },
+  {
+    "filmId": "film-109",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-109",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-109",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-109",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-109",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-109",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-109",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-109",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-109",
+    "taxonomy": "country",
+    "term": "United Kingdom"
+  },
+  {
+    "filmId": "film-109",
+    "taxonomy": "storyLocation",
+    "term": "River"
+  },
+  {
+    "filmId": "film-110",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-110",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-110",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-110",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-110",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-110",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-110",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-110",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-110",
+    "taxonomy": "country",
+    "term": "Brazil"
+  },
+  {
+    "filmId": "film-110",
+    "taxonomy": "storyLocation",
+    "term": "Suburb"
+  },
+  {
+    "filmId": "film-111",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-111",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-111",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-111",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-111",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-111",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-111",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-111",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-111",
+    "taxonomy": "country",
+    "term": "France"
+  },
+  {
+    "filmId": "film-111",
+    "taxonomy": "storyLocation",
+    "term": "Coast"
+  },
+  {
+    "filmId": "film-112",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-112",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-112",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-112",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-112",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-112",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-112",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-112",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-112",
+    "taxonomy": "country",
+    "term": "Nigeria"
+  },
+  {
+    "filmId": "film-112",
+    "taxonomy": "storyLocation",
+    "term": "City"
+  },
+  {
+    "filmId": "film-113",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-113",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-113",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-113",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-113",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-113",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-113",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-113",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-113",
+    "taxonomy": "country",
+    "term": "Spain"
+  },
+  {
+    "filmId": "film-113",
+    "taxonomy": "storyLocation",
+    "term": "Forest"
+  },
+  {
+    "filmId": "film-114",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-114",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-114",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-114",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-114",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-114",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-114",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-114",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-114",
+    "taxonomy": "country",
+    "term": "Norway"
+  },
+  {
+    "filmId": "film-114",
+    "taxonomy": "storyLocation",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-115",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-115",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-115",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-115",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-115",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-115",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-115",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-115",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-115",
+    "taxonomy": "country",
+    "term": "Canada"
+  },
+  {
+    "filmId": "film-115",
+    "taxonomy": "storyLocation",
+    "term": "Factory"
+  },
+  {
+    "filmId": "film-116",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-116",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-116",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-116",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-116",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-116",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-116",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-116",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-116",
+    "taxonomy": "country",
+    "term": "Ireland"
+  },
+  {
+    "filmId": "film-116",
+    "taxonomy": "storyLocation",
+    "term": "Island"
+  },
+  {
+    "filmId": "film-117",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-117",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-117",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-117",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-117",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-117",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-117",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-117",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-117",
+    "taxonomy": "country",
+    "term": "Japan"
+  },
+  {
+    "filmId": "film-117",
+    "taxonomy": "storyLocation",
+    "term": "Mountain"
+  },
+  {
+    "filmId": "film-118",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-118",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-118",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-118",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-118",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-118",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-118",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-118",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-118",
+    "taxonomy": "country",
+    "term": "Germany"
+  },
+  {
+    "filmId": "film-118",
+    "taxonomy": "storyLocation",
+    "term": "School"
+  },
+  {
+    "filmId": "film-119",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-119",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-119",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-119",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-119",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-119",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-119",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-119",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-119",
+    "taxonomy": "country",
+    "term": "Portugal"
+  },
+  {
+    "filmId": "film-119",
+    "taxonomy": "storyLocation",
+    "term": "River"
+  },
+  {
+    "filmId": "film-120",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-120",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-120",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-120",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-120",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-120",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-120",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-120",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-120",
+    "taxonomy": "country",
+    "term": "Netherlands"
+  },
+  {
+    "filmId": "film-120",
+    "taxonomy": "storyLocation",
+    "term": "Suburb"
+  },
+  {
+    "filmId": "film-121",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-121",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-121",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-121",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-121",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-121",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-121",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-121",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-121",
+    "taxonomy": "country",
+    "term": "United Kingdom"
+  },
+  {
+    "filmId": "film-121",
+    "taxonomy": "storyLocation",
+    "term": "Coast"
+  },
+  {
+    "filmId": "film-122",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-122",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-122",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-122",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-122",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-122",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-122",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-122",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-122",
+    "taxonomy": "country",
+    "term": "Brazil"
+  },
+  {
+    "filmId": "film-122",
+    "taxonomy": "storyLocation",
+    "term": "City"
+  },
+  {
+    "filmId": "film-123",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-123",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-123",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-123",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-123",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-123",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-123",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-123",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-123",
+    "taxonomy": "country",
+    "term": "France"
+  },
+  {
+    "filmId": "film-123",
+    "taxonomy": "storyLocation",
+    "term": "Forest"
+  },
+  {
+    "filmId": "film-124",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-124",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-124",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-124",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-124",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-124",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-124",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-124",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-124",
+    "taxonomy": "country",
+    "term": "Nigeria"
+  },
+  {
+    "filmId": "film-124",
+    "taxonomy": "storyLocation",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-125",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-125",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-125",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-125",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-125",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-125",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-125",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-125",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-125",
+    "taxonomy": "country",
+    "term": "Spain"
+  },
+  {
+    "filmId": "film-125",
+    "taxonomy": "storyLocation",
+    "term": "Factory"
+  },
+  {
+    "filmId": "film-126",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-126",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-126",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-126",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-126",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-126",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-126",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-126",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-126",
+    "taxonomy": "country",
+    "term": "Norway"
+  },
+  {
+    "filmId": "film-126",
+    "taxonomy": "storyLocation",
+    "term": "Island"
+  },
+  {
+    "filmId": "film-127",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-127",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-127",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-127",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-127",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-127",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-127",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-127",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-127",
+    "taxonomy": "country",
+    "term": "Canada"
+  },
+  {
+    "filmId": "film-127",
+    "taxonomy": "storyLocation",
+    "term": "Mountain"
+  },
+  {
+    "filmId": "film-128",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-128",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-128",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-128",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-128",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-128",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-128",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-128",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-128",
+    "taxonomy": "country",
+    "term": "Ireland"
+  },
+  {
+    "filmId": "film-128",
+    "taxonomy": "storyLocation",
+    "term": "School"
+  },
+  {
+    "filmId": "film-129",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-129",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-129",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-129",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-129",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-129",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-129",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-129",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-129",
+    "taxonomy": "country",
+    "term": "Japan"
+  },
+  {
+    "filmId": "film-129",
+    "taxonomy": "storyLocation",
+    "term": "River"
+  },
+  {
+    "filmId": "film-130",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-130",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-130",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-130",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-130",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-130",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-130",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-130",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-130",
+    "taxonomy": "country",
+    "term": "Germany"
+  },
+  {
+    "filmId": "film-130",
+    "taxonomy": "storyLocation",
+    "term": "Suburb"
+  },
+  {
+    "filmId": "film-131",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-131",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-131",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-131",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-131",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-131",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-131",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-131",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-131",
+    "taxonomy": "country",
+    "term": "Portugal"
+  },
+  {
+    "filmId": "film-131",
+    "taxonomy": "storyLocation",
+    "term": "Coast"
+  },
+  {
+    "filmId": "film-132",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-132",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-132",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-132",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-132",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-132",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-132",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-132",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-132",
+    "taxonomy": "country",
+    "term": "Netherlands"
+  },
+  {
+    "filmId": "film-132",
+    "taxonomy": "storyLocation",
+    "term": "City"
+  },
+  {
+    "filmId": "film-133",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-133",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-133",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-133",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-133",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-133",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-133",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-133",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-133",
+    "taxonomy": "country",
+    "term": "United Kingdom"
+  },
+  {
+    "filmId": "film-133",
+    "taxonomy": "storyLocation",
+    "term": "Forest"
+  },
+  {
+    "filmId": "film-134",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-134",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-134",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-134",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-134",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-134",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-134",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-134",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-134",
+    "taxonomy": "country",
+    "term": "Brazil"
+  },
+  {
+    "filmId": "film-134",
+    "taxonomy": "storyLocation",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-135",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-135",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-135",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-135",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-135",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-135",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-135",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-135",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-135",
+    "taxonomy": "country",
+    "term": "France"
+  },
+  {
+    "filmId": "film-135",
+    "taxonomy": "storyLocation",
+    "term": "Factory"
+  },
+  {
+    "filmId": "film-136",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-136",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-136",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-136",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-136",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-136",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-136",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-136",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-136",
+    "taxonomy": "country",
+    "term": "Nigeria"
+  },
+  {
+    "filmId": "film-136",
+    "taxonomy": "storyLocation",
+    "term": "Island"
+  },
+  {
+    "filmId": "film-137",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-137",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-137",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-137",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-137",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-137",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-137",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-137",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-137",
+    "taxonomy": "country",
+    "term": "Spain"
+  },
+  {
+    "filmId": "film-137",
+    "taxonomy": "storyLocation",
+    "term": "Mountain"
+  },
+  {
+    "filmId": "film-138",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-138",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-138",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-138",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-138",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-138",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-138",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-138",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-138",
+    "taxonomy": "country",
+    "term": "Norway"
+  },
+  {
+    "filmId": "film-138",
+    "taxonomy": "storyLocation",
+    "term": "School"
+  },
+  {
+    "filmId": "film-139",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-139",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-139",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-139",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-139",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-139",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-139",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-139",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-139",
+    "taxonomy": "country",
+    "term": "Canada"
+  },
+  {
+    "filmId": "film-139",
+    "taxonomy": "storyLocation",
+    "term": "River"
+  },
+  {
+    "filmId": "film-140",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-140",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-140",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-140",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-140",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-140",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-140",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-140",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-140",
+    "taxonomy": "country",
+    "term": "Ireland"
+  },
+  {
+    "filmId": "film-140",
+    "taxonomy": "storyLocation",
+    "term": "Suburb"
+  },
+  {
+    "filmId": "film-141",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-141",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-141",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-141",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-141",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-141",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-141",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-141",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-141",
+    "taxonomy": "country",
+    "term": "Japan"
+  },
+  {
+    "filmId": "film-141",
+    "taxonomy": "storyLocation",
+    "term": "Coast"
+  },
+  {
+    "filmId": "film-142",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-142",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-142",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-142",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-142",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-142",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-142",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-142",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-142",
+    "taxonomy": "country",
+    "term": "Germany"
+  },
+  {
+    "filmId": "film-142",
+    "taxonomy": "storyLocation",
+    "term": "City"
+  },
+  {
+    "filmId": "film-143",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-143",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-143",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-143",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-143",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-143",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-143",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-143",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-143",
+    "taxonomy": "country",
+    "term": "Portugal"
+  },
+  {
+    "filmId": "film-143",
+    "taxonomy": "storyLocation",
+    "term": "Forest"
+  },
+  {
+    "filmId": "film-144",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-144",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-144",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-144",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-144",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-144",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-144",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-144",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-144",
+    "taxonomy": "country",
+    "term": "Netherlands"
+  },
+  {
+    "filmId": "film-144",
+    "taxonomy": "storyLocation",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-145",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-145",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-145",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-145",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-145",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-145",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-145",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-145",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-145",
+    "taxonomy": "country",
+    "term": "United Kingdom"
+  },
+  {
+    "filmId": "film-145",
+    "taxonomy": "storyLocation",
+    "term": "Factory"
+  },
+  {
+    "filmId": "film-146",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-146",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-146",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-146",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-146",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-146",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-146",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-146",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-146",
+    "taxonomy": "country",
+    "term": "Brazil"
+  },
+  {
+    "filmId": "film-146",
+    "taxonomy": "storyLocation",
+    "term": "Island"
+  },
+  {
+    "filmId": "film-147",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-147",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-147",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-147",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-147",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-147",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-147",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-147",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-147",
+    "taxonomy": "country",
+    "term": "France"
+  },
+  {
+    "filmId": "film-147",
+    "taxonomy": "storyLocation",
+    "term": "Mountain"
+  },
+  {
+    "filmId": "film-148",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-148",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-148",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-148",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-148",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-148",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-148",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-148",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-148",
+    "taxonomy": "country",
+    "term": "Nigeria"
+  },
+  {
+    "filmId": "film-148",
+    "taxonomy": "storyLocation",
+    "term": "School"
+  },
+  {
+    "filmId": "film-149",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-149",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-149",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-149",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-149",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-149",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-149",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-149",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-149",
+    "taxonomy": "country",
+    "term": "Spain"
+  },
+  {
+    "filmId": "film-149",
+    "taxonomy": "storyLocation",
+    "term": "River"
+  },
+  {
+    "filmId": "film-150",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-150",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-150",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-150",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-150",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-150",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-150",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-150",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-150",
+    "taxonomy": "country",
+    "term": "Norway"
+  },
+  {
+    "filmId": "film-150",
+    "taxonomy": "storyLocation",
+    "term": "Suburb"
+  },
+  {
+    "filmId": "film-151",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-151",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-151",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-151",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-151",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-151",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-151",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-151",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-151",
+    "taxonomy": "country",
+    "term": "Canada"
+  },
+  {
+    "filmId": "film-151",
+    "taxonomy": "storyLocation",
+    "term": "Coast"
+  },
+  {
+    "filmId": "film-152",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-152",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-152",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-152",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-152",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-152",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-152",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-152",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-152",
+    "taxonomy": "country",
+    "term": "Ireland"
+  },
+  {
+    "filmId": "film-152",
+    "taxonomy": "storyLocation",
+    "term": "City"
+  },
+  {
+    "filmId": "film-153",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-153",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-153",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-153",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-153",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-153",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-153",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-153",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-153",
+    "taxonomy": "country",
+    "term": "Japan"
+  },
+  {
+    "filmId": "film-153",
+    "taxonomy": "storyLocation",
+    "term": "Forest"
+  },
+  {
+    "filmId": "film-154",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-154",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-154",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-154",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-154",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-154",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-154",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-154",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-154",
+    "taxonomy": "country",
+    "term": "Germany"
+  },
+  {
+    "filmId": "film-154",
+    "taxonomy": "storyLocation",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-155",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-155",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-155",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-155",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-155",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-155",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-155",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-155",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-155",
+    "taxonomy": "country",
+    "term": "Portugal"
+  },
+  {
+    "filmId": "film-155",
+    "taxonomy": "storyLocation",
+    "term": "Factory"
+  },
+  {
+    "filmId": "film-156",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-156",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-156",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-156",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-156",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-156",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-156",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-156",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-156",
+    "taxonomy": "country",
+    "term": "Netherlands"
+  },
+  {
+    "filmId": "film-156",
+    "taxonomy": "storyLocation",
+    "term": "Island"
+  },
+  {
+    "filmId": "film-157",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-157",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-157",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-157",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-157",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-157",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-157",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-157",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-157",
+    "taxonomy": "country",
+    "term": "United Kingdom"
+  },
+  {
+    "filmId": "film-157",
+    "taxonomy": "storyLocation",
+    "term": "Mountain"
+  },
+  {
+    "filmId": "film-158",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-158",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-158",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-158",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-158",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-158",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-158",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-158",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-158",
+    "taxonomy": "country",
+    "term": "Brazil"
+  },
+  {
+    "filmId": "film-158",
+    "taxonomy": "storyLocation",
+    "term": "School"
+  },
+  {
+    "filmId": "film-159",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-159",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-159",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-159",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-159",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-159",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-159",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-159",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-159",
+    "taxonomy": "country",
+    "term": "France"
+  },
+  {
+    "filmId": "film-159",
+    "taxonomy": "storyLocation",
+    "term": "River"
+  },
+  {
+    "filmId": "film-160",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-160",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-160",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-160",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-160",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-160",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-160",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-160",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-160",
+    "taxonomy": "country",
+    "term": "Nigeria"
+  },
+  {
+    "filmId": "film-160",
+    "taxonomy": "storyLocation",
+    "term": "Suburb"
+  },
+  {
+    "filmId": "film-161",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-161",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-161",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-161",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-161",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-161",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-161",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-161",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-161",
+    "taxonomy": "country",
+    "term": "Spain"
+  },
+  {
+    "filmId": "film-161",
+    "taxonomy": "storyLocation",
+    "term": "Coast"
+  },
+  {
+    "filmId": "film-162",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-162",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-162",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-162",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-162",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-162",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-162",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-162",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-162",
+    "taxonomy": "country",
+    "term": "Norway"
+  },
+  {
+    "filmId": "film-162",
+    "taxonomy": "storyLocation",
+    "term": "City"
+  },
+  {
+    "filmId": "film-163",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-163",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-163",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-163",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-163",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-163",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-163",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-163",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-163",
+    "taxonomy": "country",
+    "term": "Canada"
+  },
+  {
+    "filmId": "film-163",
+    "taxonomy": "storyLocation",
+    "term": "Forest"
+  },
+  {
+    "filmId": "film-164",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-164",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-164",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-164",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-164",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-164",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-164",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-164",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-164",
+    "taxonomy": "country",
+    "term": "Ireland"
+  },
+  {
+    "filmId": "film-164",
+    "taxonomy": "storyLocation",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-165",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-165",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-165",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-165",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-165",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-165",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-165",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-165",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-165",
+    "taxonomy": "country",
+    "term": "Japan"
+  },
+  {
+    "filmId": "film-165",
+    "taxonomy": "storyLocation",
+    "term": "Factory"
+  },
+  {
+    "filmId": "film-166",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-166",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-166",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-166",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-166",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-166",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-166",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-166",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-166",
+    "taxonomy": "country",
+    "term": "Germany"
+  },
+  {
+    "filmId": "film-166",
+    "taxonomy": "storyLocation",
+    "term": "Island"
+  },
+  {
+    "filmId": "film-167",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-167",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-167",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-167",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-167",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-167",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-167",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-167",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-167",
+    "taxonomy": "country",
+    "term": "Portugal"
+  },
+  {
+    "filmId": "film-167",
+    "taxonomy": "storyLocation",
+    "term": "Mountain"
+  },
+  {
+    "filmId": "film-168",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-168",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-168",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-168",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-168",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-168",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-168",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-168",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-168",
+    "taxonomy": "country",
+    "term": "Netherlands"
+  },
+  {
+    "filmId": "film-168",
+    "taxonomy": "storyLocation",
+    "term": "School"
+  },
+  {
+    "filmId": "film-169",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-169",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-169",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-169",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-169",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-169",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-169",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-169",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-169",
+    "taxonomy": "country",
+    "term": "United Kingdom"
+  },
+  {
+    "filmId": "film-169",
+    "taxonomy": "storyLocation",
+    "term": "River"
+  },
+  {
+    "filmId": "film-170",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-170",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-170",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-170",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-170",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-170",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-170",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-170",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-170",
+    "taxonomy": "country",
+    "term": "Brazil"
+  },
+  {
+    "filmId": "film-170",
+    "taxonomy": "storyLocation",
+    "term": "Suburb"
+  },
+  {
+    "filmId": "film-171",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-171",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-171",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-171",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-171",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-171",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-171",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-171",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-171",
+    "taxonomy": "country",
+    "term": "France"
+  },
+  {
+    "filmId": "film-171",
+    "taxonomy": "storyLocation",
+    "term": "Coast"
+  },
+  {
+    "filmId": "film-172",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-172",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-172",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-172",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-172",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-172",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-172",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-172",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-172",
+    "taxonomy": "country",
+    "term": "Nigeria"
+  },
+  {
+    "filmId": "film-172",
+    "taxonomy": "storyLocation",
+    "term": "City"
+  },
+  {
+    "filmId": "film-173",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-173",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-173",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-173",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-173",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-173",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-173",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-173",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-173",
+    "taxonomy": "country",
+    "term": "Spain"
+  },
+  {
+    "filmId": "film-173",
+    "taxonomy": "storyLocation",
+    "term": "Forest"
+  },
+  {
+    "filmId": "film-174",
+    "taxonomy": "genre",
+    "term": "Comedy"
+  },
+  {
+    "filmId": "film-174",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-174",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-174",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-174",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-174",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-174",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-174",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-174",
+    "taxonomy": "country",
+    "term": "Norway"
+  },
+  {
+    "filmId": "film-174",
+    "taxonomy": "storyLocation",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-175",
+    "taxonomy": "genre",
+    "term": "Portrait"
+  },
+  {
+    "filmId": "film-175",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-175",
+    "taxonomy": "theme",
+    "term": "Community"
+  },
+  {
+    "filmId": "film-175",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-175",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-175",
+    "taxonomy": "technique",
+    "term": "16mm"
+  },
+  {
+    "filmId": "film-175",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-175",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-175",
+    "taxonomy": "country",
+    "term": "Canada"
+  },
+  {
+    "filmId": "film-175",
+    "taxonomy": "storyLocation",
+    "term": "Factory"
+  },
+  {
+    "filmId": "film-176",
+    "taxonomy": "genre",
+    "term": "Dance Film"
+  },
+  {
+    "filmId": "film-176",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-176",
+    "taxonomy": "theme",
+    "term": "Grief"
+  },
+  {
+    "filmId": "film-176",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-176",
+    "taxonomy": "theme",
+    "term": "Work"
+  },
+  {
+    "filmId": "film-176",
+    "taxonomy": "technique",
+    "term": "Mixed Media"
+  },
+  {
+    "filmId": "film-176",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-176",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-176",
+    "taxonomy": "country",
+    "term": "Ireland"
+  },
+  {
+    "filmId": "film-176",
+    "taxonomy": "storyLocation",
+    "term": "Island"
+  },
+  {
+    "filmId": "film-177",
+    "taxonomy": "genre",
+    "term": "Environmental"
+  },
+  {
+    "filmId": "film-177",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-177",
+    "taxonomy": "theme",
+    "term": "Play"
+  },
+  {
+    "filmId": "film-177",
+    "taxonomy": "theme",
+    "term": "Memory"
+  },
+  {
+    "filmId": "film-177",
+    "taxonomy": "theme",
+    "term": "Technology"
+  },
+  {
+    "filmId": "film-177",
+    "taxonomy": "technique",
+    "term": "Long Take"
+  },
+  {
+    "filmId": "film-177",
+    "taxonomy": "technique",
+    "term": "Archive Footage"
+  },
+  {
+    "filmId": "film-177",
+    "taxonomy": "form",
+    "term": "Documentary"
+  },
+  {
+    "filmId": "film-177",
+    "taxonomy": "country",
+    "term": "Japan"
+  },
+  {
+    "filmId": "film-177",
+    "taxonomy": "storyLocation",
+    "term": "Mountain"
+  },
+  {
+    "filmId": "film-178",
+    "taxonomy": "genre",
+    "term": "Mystery"
+  },
+  {
+    "filmId": "film-178",
+    "taxonomy": "genre",
+    "term": "Essay Film"
+  },
+  {
+    "filmId": "film-178",
+    "taxonomy": "theme",
+    "term": "Power"
+  },
+  {
+    "filmId": "film-178",
+    "taxonomy": "theme",
+    "term": "Place"
+  },
+  {
+    "filmId": "film-178",
+    "taxonomy": "theme",
+    "term": "Migration"
+  },
+  {
+    "filmId": "film-178",
+    "taxonomy": "technique",
+    "term": "Found Sound"
+  },
+  {
+    "filmId": "film-178",
+    "taxonomy": "technique",
+    "term": "Natural Light"
+  },
+  {
+    "filmId": "film-178",
+    "taxonomy": "form",
+    "term": "Drama"
+  },
+  {
+    "filmId": "film-178",
+    "taxonomy": "country",
+    "term": "Germany"
+  },
+  {
+    "filmId": "film-178",
+    "taxonomy": "storyLocation",
+    "term": "School"
+  },
+  {
+    "filmId": "film-179",
+    "taxonomy": "genre",
+    "term": "Music Film"
+  },
+  {
+    "filmId": "film-179",
+    "taxonomy": "genre",
+    "term": "Coming of Age"
+  },
+  {
+    "filmId": "film-179",
+    "taxonomy": "theme",
+    "term": "Home"
+  },
+  {
+    "filmId": "film-179",
+    "taxonomy": "theme",
+    "term": "Family"
+  },
+  {
+    "filmId": "film-179",
+    "taxonomy": "theme",
+    "term": "Climate"
+  },
+  {
+    "filmId": "film-179",
+    "taxonomy": "technique",
+    "term": "Motion Capture"
+  },
+  {
+    "filmId": "film-179",
+    "taxonomy": "technique",
+    "term": "Stop Motion"
+  },
+  {
+    "filmId": "film-179",
+    "taxonomy": "form",
+    "term": "Animation"
+  },
+  {
+    "filmId": "film-179",
+    "taxonomy": "country",
+    "term": "Portugal"
+  },
+  {
+    "filmId": "film-179",
+    "taxonomy": "storyLocation",
+    "term": "River"
+  },
+  {
+    "filmId": "film-180",
+    "taxonomy": "genre",
+    "term": "Social Realism"
+  },
+  {
+    "filmId": "film-180",
+    "taxonomy": "genre",
+    "term": "Science Fiction"
+  },
+  {
+    "filmId": "film-180",
+    "taxonomy": "theme",
+    "term": "Time"
+  },
+  {
+    "filmId": "film-180",
+    "taxonomy": "theme",
+    "term": "Belonging"
+  },
+  {
+    "filmId": "film-180",
+    "taxonomy": "theme",
+    "term": "Identity"
+  },
+  {
+    "filmId": "film-180",
+    "taxonomy": "technique",
+    "term": "Miniatures"
+  },
+  {
+    "filmId": "film-180",
+    "taxonomy": "technique",
+    "term": "Hand-drawn Animation"
+  },
+  {
+    "filmId": "film-180",
+    "taxonomy": "form",
+    "term": "Experimental"
+  },
+  {
+    "filmId": "film-180",
+    "taxonomy": "country",
+    "term": "Netherlands"
+  },
+  {
+    "filmId": "film-180",
+    "taxonomy": "storyLocation",
+    "term": "Suburb"
+  }
+]

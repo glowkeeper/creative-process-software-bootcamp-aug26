@@ -38,8 +38,8 @@ ideas for later, after your current prototype works and you can explain it.
 | 4 | Begin a staged migration using React components and props |
 | 5 | Read, review and restore important behaviour in React |
 | 6 | Make an appropriate part of the application remember information |
-| 7 | Test, improve, deploy where practical and prepare to present |
-| 8 | Present your prototype to MarBelle and reflect on your development |
+| 7 | Build, debug, simplify and stabilise your prototype |
+| 8 | Deploy and rehearse in the morning, then present to MarBelle |
 
 The course gives you more independence over time. A small prototype you
 understand is more valuable than a larger application you cannot explain.
@@ -108,6 +108,19 @@ number of files and takes several minutes on shared wifi.
 Complete and Showcase are published after the demonstration as reference and
 extension material.
 
+## Week 6 Materials
+
+- [Week 6 slides](docs/weeks/week-06/slides.md)
+- [Week 6 worksheet](docs/weeks/week-06/worksheet.md)
+- [Week 6 resources](docs/weeks/week-06/resources.md)
+- [Week 6 Starter](src/week-06/starter/README.md)
+- [Expanded fictional archive](datasets/fictional-film-archive/README.md)
+
+Week 6 Starter deliberately forgets its selected programme after a refresh.
+Complete and Showcase are published after the guided build. The expanded
+archive is project data: choose one relevant entry point rather than trying to
+use every file.
+
 ## Your Individual Repository
 
 This cohort repository contains shared course material. Your prototype belongs
@@ -129,7 +142,7 @@ GitHub contains a recoverable history of your work.
 Do not copy Directors Notes photographs, film stills, videos, logos, article
 text or archive records into your repository or deployed prototype.
 
-The course will provide a wholly fictional film dataset in progressive stages,
+The course provides a wholly fictional connected archive in progressive stages,
 including abstract poster artwork in `datasets/fictional-film-archive/images/`.
 You may adapt, commit and publish that teaching data and artwork. You may also
 use your own writing or artwork, abstract placeholders, HTML and CSS visual

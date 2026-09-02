@@ -1,0 +1,86 @@
+[
+  {
+    "id": "award-001",
+    "name": "Fictional New Voice Award",
+    "slug": "fictional-new-voice-award",
+    "category": "Direction",
+    "description": "A fictional award recognising achievement in direction."
+  },
+  {
+    "id": "award-002",
+    "name": "Fictional Craft Prize",
+    "slug": "fictional-craft-prize",
+    "category": "Craft",
+    "description": "A fictional award recognising achievement in craft."
+  },
+  {
+    "id": "award-003",
+    "name": "Fictional Audience Award",
+    "slug": "fictional-audience-award",
+    "category": "Audience",
+    "description": "A fictional award recognising achievement in storytelling."
+  },
+  {
+    "id": "award-004",
+    "name": "Fictional Jury Prize",
+    "slug": "fictional-jury-prize",
+    "category": "Jury",
+    "description": "A fictional award recognising achievement in performance."
+  },
+  {
+    "id": "award-005",
+    "name": "Fictional Emerging Director Award",
+    "slug": "fictional-emerging-director-award",
+    "category": "Documentary",
+    "description": "A fictional award recognising achievement in documentary."
+  },
+  {
+    "id": "award-006",
+    "name": "Fictional Visual Storytelling Prize",
+    "slug": "fictional-visual-storytelling-prize",
+    "category": "Animation",
+    "description": "A fictional award recognising achievement in animation."
+  },
+  {
+    "id": "award-007",
+    "name": "Fictional Sound and Image Award",
+    "slug": "fictional-sound-and-image-award",
+    "category": "Direction",
+    "description": "A fictional award recognising achievement in direction."
+  },
+  {
+    "id": "award-008",
+    "name": "Fictional Documentary Achievement",
+    "slug": "fictional-documentary-achievement",
+    "category": "Craft",
+    "description": "A fictional award recognising achievement in craft."
+  },
+  {
+    "id": "award-009",
+    "name": "Fictional Animation Prize",
+    "slug": "fictional-animation-prize",
+    "category": "Audience",
+    "description": "A fictional award recognising achievement in storytelling."
+  },
+  {
+    "id": "award-010",
+    "name": "Fictional Performance Award",
+    "slug": "fictional-performance-award",
+    "category": "Jury",
+    "description": "A fictional award recognising achievement in performance."
+  },
+  {
+    "id": "award-011",
+    "name": "Fictional Editing Prize",
+    "slug": "fictional-editing-prize",
+    "category": "Documentary",
+    "description": "A fictional award recognising achievement in documentary."
+  },
+  {
+    "id": "award-012",
+    "name": "Fictional Green Story Award",
+    "slug": "fictional-green-story-award",
+    "category": "Animation",
+    "description": "A fictional award recognising achievement in animation."
+  }
+]

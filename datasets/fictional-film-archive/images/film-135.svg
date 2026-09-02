@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-labelledby="film-135-title">
+  <title id="film-135-title">Abstract poster artwork for the fictional short film Hidden Orchard</title>
+  <defs>
+    <linearGradient id="film-135-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0f1b1d"/>
+      <stop offset="100%" stop-color="#060d0e"/>
+    </linearGradient>
+    <linearGradient id="film-135-veil" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#060d0e" stop-opacity="0"/>
+      <stop offset="55%" stop-color="#060d0e" stop-opacity="0.82"/>
+      <stop offset="100%" stop-color="#060d0e" stop-opacity="0.97"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="600" height="900" fill="url(#film-135-bg)"/>
+
+  <g>
+    <rect x="52" y="90" width="496" height="14" fill="#3fb8ae" opacity="0.9"/>
+    <rect x="0" y="116" width="600" height="25" fill="#1d6f70" opacity="0.5"/>
+    <rect x="78" y="153" width="444" height="36" fill="#1d6f70" opacity="0.5"/>
+    <rect x="26" y="201" width="548" height="13" fill="#1d6f70" opacity="0.5"/>
+    <rect x="104" y="226" width="392" height="24" fill="#3fb8ae" opacity="0.9"/>
+    <rect x="52" y="262" width="496" height="35" fill="#1d6f70" opacity="0.5"/>
+    <rect x="0" y="309" width="600" height="12" fill="#1d6f70" opacity="0.5"/>
+    <rect x="78" y="333" width="444" height="23" fill="#1d6f70" opacity="0.5"/>
+    <rect x="26" y="368" width="548" height="34" fill="#3fb8ae" opacity="0.9"/>
+    <rect x="104" y="414" width="392" height="11" fill="#1d6f70" opacity="0.5"/>
+    <rect x="52" y="437" width="496" height="22" fill="#1d6f70" opacity="0.5"/>
+    <rect x="0" y="471" width="600" height="33" fill="#1d6f70" opacity="0.5"/>
+    <rect x="78" y="516" width="444" height="10" fill="#3fb8ae" opacity="0.9"/>
+    <rect x="26" y="538" width="548" height="21" fill="#1d6f70" opacity="0.5"/>
+  </g>
+
+  <rect x="0" y="440" width="600" height="460" fill="url(#film-135-veil)"/>
+  <rect x="56" y="672" width="70" height="4" fill="#3fb8ae"/>
+
+  <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#faf7f1" letter-spacing="-0.5"><tspan x="56" y="754">Hidden Orchard</tspan></text>
+
+  <text x="56" y="812" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#3fb8ae" letter-spacing="2.4">2025 &#183; ANIMATION</text>
+
+  <text x="56" y="848" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#a8a29a" letter-spacing="1.1">FRANCE</text>
+</svg>

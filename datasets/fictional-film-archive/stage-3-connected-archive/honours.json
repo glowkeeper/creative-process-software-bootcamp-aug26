@@ -1,0 +1,3962 @@
+[
+  {
+    "filmId": "film-001",
+    "bodyId": "festival-001",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2023,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-001",
+    "bodyId": "award-001",
+    "bodyType": "Award",
+    "result": "Nominated",
+    "year": 2023,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-002",
+    "bodyId": "festival-004",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2024,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-002",
+    "bodyId": "festival-015",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2025,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-003",
+    "bodyId": "festival-007",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2022,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-003",
+    "bodyId": "festival-018",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2023,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-003",
+    "bodyId": "festival-029",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2022,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-004",
+    "bodyId": "festival-010",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2025,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-004",
+    "bodyId": "festival-021",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2026,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-004",
+    "bodyId": "festival-032",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2025,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-004",
+    "bodyId": "festival-003",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2026,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-005",
+    "bodyId": "festival-013",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2024,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-005",
+    "bodyId": "award-005",
+    "bodyType": "Award",
+    "result": "Winner",
+    "year": 2024,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-006",
+    "bodyId": "festival-016",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2021,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-006",
+    "bodyId": "festival-027",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2022,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-007",
+    "bodyId": "festival-019",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2025,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-007",
+    "bodyId": "festival-030",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2026,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-007",
+    "bodyId": "festival-001",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2025,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-008",
+    "bodyId": "festival-022",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2023,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-008",
+    "bodyId": "festival-033",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2024,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-008",
+    "bodyId": "festival-004",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2023,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-008",
+    "bodyId": "festival-015",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2024,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-009",
+    "bodyId": "festival-025",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2020,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-009",
+    "bodyId": "award-009",
+    "bodyType": "Award",
+    "result": "Shortlisted",
+    "year": 2020,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-010",
+    "bodyId": "festival-028",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2022,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-010",
+    "bodyId": "festival-039",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2023,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-011",
+    "bodyId": "festival-031",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2024,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-011",
+    "bodyId": "festival-002",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2025,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-011",
+    "bodyId": "festival-013",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2024,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-012",
+    "bodyId": "festival-034",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2025,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-012",
+    "bodyId": "festival-005",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2026,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-012",
+    "bodyId": "festival-016",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2025,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-012",
+    "bodyId": "festival-027",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2026,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-013",
+    "bodyId": "festival-037",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2021,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-013",
+    "bodyId": "award-001",
+    "bodyType": "Award",
+    "result": "Nominated",
+    "year": 2021,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-014",
+    "bodyId": "festival-040",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2023,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-014",
+    "bodyId": "festival-011",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2024,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-015",
+    "bodyId": "festival-003",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2019,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-015",
+    "bodyId": "festival-014",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2020,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-015",
+    "bodyId": "festival-025",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2019,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-016",
+    "bodyId": "festival-006",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2022,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-016",
+    "bodyId": "festival-017",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2023,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-016",
+    "bodyId": "festival-028",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2022,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-016",
+    "bodyId": "festival-039",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2023,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-017",
+    "bodyId": "festival-009",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2024,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-017",
+    "bodyId": "award-005",
+    "bodyType": "Award",
+    "result": "Winner",
+    "year": 2024,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-018",
+    "bodyId": "festival-012",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2025,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-018",
+    "bodyId": "festival-023",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2026,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-019",
+    "bodyId": "festival-015",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2023,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-019",
+    "bodyId": "festival-026",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2024,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-019",
+    "bodyId": "festival-037",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2023,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-020",
+    "bodyId": "festival-018",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2020,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-020",
+    "bodyId": "festival-029",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2021,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-020",
+    "bodyId": "festival-040",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2020,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-020",
+    "bodyId": "festival-011",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2021,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-021",
+    "bodyId": "festival-021",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2021,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-021",
+    "bodyId": "award-009",
+    "bodyType": "Award",
+    "result": "Shortlisted",
+    "year": 2021,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-022",
+    "bodyId": "festival-024",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2025,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-022",
+    "bodyId": "festival-035",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2026,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-023",
+    "bodyId": "festival-027",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2024,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-023",
+    "bodyId": "festival-038",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2025,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-023",
+    "bodyId": "festival-009",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2024,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-024",
+    "bodyId": "festival-030",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2022,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-024",
+    "bodyId": "festival-001",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2023,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-024",
+    "bodyId": "festival-012",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2022,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-024",
+    "bodyId": "festival-023",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2023,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-025",
+    "bodyId": "festival-033",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2015,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-025",
+    "bodyId": "award-001",
+    "bodyType": "Award",
+    "result": "Nominated",
+    "year": 2015,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-026",
+    "bodyId": "festival-036",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2022,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-026",
+    "bodyId": "festival-007",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2023,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-027",
+    "bodyId": "festival-039",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2010,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-027",
+    "bodyId": "festival-010",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2011,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-027",
+    "bodyId": "festival-021",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2010,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-028",
+    "bodyId": "festival-002",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2016,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-028",
+    "bodyId": "festival-013",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2017,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-028",
+    "bodyId": "festival-024",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2016,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-028",
+    "bodyId": "festival-035",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2017,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-029",
+    "bodyId": "festival-005",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2023,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-029",
+    "bodyId": "award-005",
+    "bodyType": "Award",
+    "result": "Winner",
+    "year": 2023,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-030",
+    "bodyId": "festival-008",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2010,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-030",
+    "bodyId": "festival-019",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2011,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-031",
+    "bodyId": "festival-011",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2017,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-031",
+    "bodyId": "festival-022",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2018,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-031",
+    "bodyId": "festival-033",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2017,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-032",
+    "bodyId": "festival-014",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2024,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-032",
+    "bodyId": "festival-025",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2025,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-032",
+    "bodyId": "festival-036",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2024,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-032",
+    "bodyId": "festival-007",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2025,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-033",
+    "bodyId": "festival-017",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2011,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-033",
+    "bodyId": "award-009",
+    "bodyType": "Award",
+    "result": "Shortlisted",
+    "year": 2011,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-034",
+    "bodyId": "festival-020",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2018,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-034",
+    "bodyId": "festival-031",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2019,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-035",
+    "bodyId": "festival-023",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2025,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-035",
+    "bodyId": "festival-034",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2026,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-035",
+    "bodyId": "festival-005",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2025,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-036",
+    "bodyId": "festival-026",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2012,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-036",
+    "bodyId": "festival-037",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2013,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-036",
+    "bodyId": "festival-008",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2012,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-036",
+    "bodyId": "festival-019",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2013,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-037",
+    "bodyId": "festival-029",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2019,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-037",
+    "bodyId": "award-001",
+    "bodyType": "Award",
+    "result": "Nominated",
+    "year": 2019,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-038",
+    "bodyId": "festival-032",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2026,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-038",
+    "bodyId": "festival-003",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2027,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-039",
+    "bodyId": "festival-035",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2013,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-039",
+    "bodyId": "festival-006",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2014,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-039",
+    "bodyId": "festival-017",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2013,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-040",
+    "bodyId": "festival-038",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2020,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-040",
+    "bodyId": "festival-009",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2021,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-040",
+    "bodyId": "festival-020",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2020,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-040",
+    "bodyId": "festival-031",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2021,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-041",
+    "bodyId": "festival-001",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2010,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-041",
+    "bodyId": "award-005",
+    "bodyType": "Award",
+    "result": "Winner",
+    "year": 2010,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-042",
+    "bodyId": "festival-004",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2014,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-042",
+    "bodyId": "festival-015",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2015,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-043",
+    "bodyId": "festival-007",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2021,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-043",
+    "bodyId": "festival-018",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2022,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-043",
+    "bodyId": "festival-029",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2021,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-044",
+    "bodyId": "festival-010",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2010,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-044",
+    "bodyId": "festival-021",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2011,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-044",
+    "bodyId": "festival-032",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2010,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-044",
+    "bodyId": "festival-003",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2011,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-045",
+    "bodyId": "festival-013",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2015,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-045",
+    "bodyId": "award-009",
+    "bodyType": "Award",
+    "result": "Shortlisted",
+    "year": 2015,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-046",
+    "bodyId": "festival-016",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2022,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-046",
+    "bodyId": "festival-027",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2023,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-047",
+    "bodyId": "festival-019",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2010,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-047",
+    "bodyId": "festival-030",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2011,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-047",
+    "bodyId": "festival-001",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2010,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-048",
+    "bodyId": "festival-022",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2016,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-048",
+    "bodyId": "festival-033",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2017,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-048",
+    "bodyId": "festival-004",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2016,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-048",
+    "bodyId": "festival-015",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2017,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-049",
+    "bodyId": "festival-025",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2023,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-049",
+    "bodyId": "award-001",
+    "bodyType": "Award",
+    "result": "Nominated",
+    "year": 2023,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-050",
+    "bodyId": "festival-028",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2010,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-050",
+    "bodyId": "festival-039",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2011,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-051",
+    "bodyId": "festival-031",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2017,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-051",
+    "bodyId": "festival-002",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2018,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-051",
+    "bodyId": "festival-013",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2017,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-052",
+    "bodyId": "festival-034",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2024,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-052",
+    "bodyId": "festival-005",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2025,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-052",
+    "bodyId": "festival-016",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2024,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-052",
+    "bodyId": "festival-027",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2025,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-053",
+    "bodyId": "festival-037",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2011,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-053",
+    "bodyId": "award-005",
+    "bodyType": "Award",
+    "result": "Winner",
+    "year": 2011,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-054",
+    "bodyId": "festival-040",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2018,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-054",
+    "bodyId": "festival-011",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2019,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-055",
+    "bodyId": "festival-003",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2025,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-055",
+    "bodyId": "festival-014",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2026,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-055",
+    "bodyId": "festival-025",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2025,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-056",
+    "bodyId": "festival-006",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2012,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-056",
+    "bodyId": "festival-017",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2013,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-056",
+    "bodyId": "festival-028",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2012,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-056",
+    "bodyId": "festival-039",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2013,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-057",
+    "bodyId": "festival-009",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2019,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-057",
+    "bodyId": "award-009",
+    "bodyType": "Award",
+    "result": "Shortlisted",
+    "year": 2019,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-058",
+    "bodyId": "festival-012",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2026,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-058",
+    "bodyId": "festival-023",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2027,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-059",
+    "bodyId": "festival-015",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2013,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-059",
+    "bodyId": "festival-026",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2014,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-059",
+    "bodyId": "festival-037",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2013,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-060",
+    "bodyId": "festival-018",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2020,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-060",
+    "bodyId": "festival-029",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2021,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-060",
+    "bodyId": "festival-040",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2020,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-060",
+    "bodyId": "festival-011",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2021,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-061",
+    "bodyId": "festival-021",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2010,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-061",
+    "bodyId": "award-001",
+    "bodyType": "Award",
+    "result": "Nominated",
+    "year": 2010,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-062",
+    "bodyId": "festival-024",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2014,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-062",
+    "bodyId": "festival-035",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2015,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-063",
+    "bodyId": "festival-027",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2021,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-063",
+    "bodyId": "festival-038",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2022,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-063",
+    "bodyId": "festival-009",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2021,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-064",
+    "bodyId": "festival-030",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2010,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-064",
+    "bodyId": "festival-001",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2011,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-064",
+    "bodyId": "festival-012",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2010,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-064",
+    "bodyId": "festival-023",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2011,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-065",
+    "bodyId": "festival-033",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2015,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-065",
+    "bodyId": "award-005",
+    "bodyType": "Award",
+    "result": "Winner",
+    "year": 2015,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-066",
+    "bodyId": "festival-036",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2022,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-066",
+    "bodyId": "festival-007",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2023,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-067",
+    "bodyId": "festival-039",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2010,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-067",
+    "bodyId": "festival-010",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2011,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-067",
+    "bodyId": "festival-021",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2010,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-068",
+    "bodyId": "festival-002",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2016,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-068",
+    "bodyId": "festival-013",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2017,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-068",
+    "bodyId": "festival-024",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2016,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-068",
+    "bodyId": "festival-035",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2017,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-069",
+    "bodyId": "festival-005",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2023,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-069",
+    "bodyId": "award-009",
+    "bodyType": "Award",
+    "result": "Shortlisted",
+    "year": 2023,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-070",
+    "bodyId": "festival-008",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2010,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-070",
+    "bodyId": "festival-019",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2011,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-071",
+    "bodyId": "festival-011",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2017,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-071",
+    "bodyId": "festival-022",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2018,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-071",
+    "bodyId": "festival-033",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2017,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-072",
+    "bodyId": "festival-014",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2024,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-072",
+    "bodyId": "festival-025",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2025,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-072",
+    "bodyId": "festival-036",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2024,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-072",
+    "bodyId": "festival-007",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2025,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-073",
+    "bodyId": "festival-017",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2011,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-073",
+    "bodyId": "award-001",
+    "bodyType": "Award",
+    "result": "Nominated",
+    "year": 2011,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-074",
+    "bodyId": "festival-020",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2018,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-074",
+    "bodyId": "festival-031",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2019,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-075",
+    "bodyId": "festival-023",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2025,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-075",
+    "bodyId": "festival-034",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2026,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-075",
+    "bodyId": "festival-005",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2025,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-076",
+    "bodyId": "festival-026",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2012,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-076",
+    "bodyId": "festival-037",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2013,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-076",
+    "bodyId": "festival-008",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2012,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-076",
+    "bodyId": "festival-019",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2013,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-077",
+    "bodyId": "festival-029",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2019,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-077",
+    "bodyId": "award-005",
+    "bodyType": "Award",
+    "result": "Winner",
+    "year": 2019,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-078",
+    "bodyId": "festival-032",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2026,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-078",
+    "bodyId": "festival-003",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2027,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-079",
+    "bodyId": "festival-035",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2013,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-079",
+    "bodyId": "festival-006",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2014,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-079",
+    "bodyId": "festival-017",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2013,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-080",
+    "bodyId": "festival-038",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2020,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-080",
+    "bodyId": "festival-009",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2021,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-080",
+    "bodyId": "festival-020",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2020,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-080",
+    "bodyId": "festival-031",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2021,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-081",
+    "bodyId": "festival-001",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2010,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-081",
+    "bodyId": "award-009",
+    "bodyType": "Award",
+    "result": "Shortlisted",
+    "year": 2010,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-082",
+    "bodyId": "festival-004",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2014,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-082",
+    "bodyId": "festival-015",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2015,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-083",
+    "bodyId": "festival-007",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2021,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-083",
+    "bodyId": "festival-018",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2022,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-083",
+    "bodyId": "festival-029",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2021,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-084",
+    "bodyId": "festival-010",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2010,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-084",
+    "bodyId": "festival-021",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2011,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-084",
+    "bodyId": "festival-032",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2010,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-084",
+    "bodyId": "festival-003",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2011,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-085",
+    "bodyId": "festival-013",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2015,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-085",
+    "bodyId": "award-001",
+    "bodyType": "Award",
+    "result": "Nominated",
+    "year": 2015,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-086",
+    "bodyId": "festival-016",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2022,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-086",
+    "bodyId": "festival-027",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2023,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-087",
+    "bodyId": "festival-019",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2010,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-087",
+    "bodyId": "festival-030",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2011,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-087",
+    "bodyId": "festival-001",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2010,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-088",
+    "bodyId": "festival-022",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2016,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-088",
+    "bodyId": "festival-033",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2017,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-088",
+    "bodyId": "festival-004",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2016,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-088",
+    "bodyId": "festival-015",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2017,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-089",
+    "bodyId": "festival-025",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2023,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-089",
+    "bodyId": "award-005",
+    "bodyType": "Award",
+    "result": "Winner",
+    "year": 2023,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-090",
+    "bodyId": "festival-028",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2010,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-090",
+    "bodyId": "festival-039",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2011,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-091",
+    "bodyId": "festival-031",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2017,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-091",
+    "bodyId": "festival-002",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2018,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-091",
+    "bodyId": "festival-013",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2017,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-092",
+    "bodyId": "festival-034",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2024,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-092",
+    "bodyId": "festival-005",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2025,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-092",
+    "bodyId": "festival-016",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2024,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-092",
+    "bodyId": "festival-027",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2025,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-093",
+    "bodyId": "festival-037",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2011,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-093",
+    "bodyId": "award-009",
+    "bodyType": "Award",
+    "result": "Shortlisted",
+    "year": 2011,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-094",
+    "bodyId": "festival-040",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2018,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-094",
+    "bodyId": "festival-011",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2019,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-095",
+    "bodyId": "festival-003",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2025,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-095",
+    "bodyId": "festival-014",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2026,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-095",
+    "bodyId": "festival-025",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2025,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-096",
+    "bodyId": "festival-006",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2012,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-096",
+    "bodyId": "festival-017",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2013,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-096",
+    "bodyId": "festival-028",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2012,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-096",
+    "bodyId": "festival-039",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2013,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-097",
+    "bodyId": "festival-009",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2019,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-097",
+    "bodyId": "award-001",
+    "bodyType": "Award",
+    "result": "Nominated",
+    "year": 2019,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-098",
+    "bodyId": "festival-012",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2026,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-098",
+    "bodyId": "festival-023",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2027,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-099",
+    "bodyId": "festival-015",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2013,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-099",
+    "bodyId": "festival-026",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2014,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-099",
+    "bodyId": "festival-037",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2013,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-100",
+    "bodyId": "festival-018",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2020,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-100",
+    "bodyId": "festival-029",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2021,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-100",
+    "bodyId": "festival-040",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2020,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-100",
+    "bodyId": "festival-011",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2021,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-101",
+    "bodyId": "festival-021",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2010,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-101",
+    "bodyId": "award-005",
+    "bodyType": "Award",
+    "result": "Winner",
+    "year": 2010,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-102",
+    "bodyId": "festival-024",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2014,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-102",
+    "bodyId": "festival-035",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2015,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-103",
+    "bodyId": "festival-027",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2021,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-103",
+    "bodyId": "festival-038",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2022,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-103",
+    "bodyId": "festival-009",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2021,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-104",
+    "bodyId": "festival-030",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2010,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-104",
+    "bodyId": "festival-001",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2011,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-104",
+    "bodyId": "festival-012",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2010,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-104",
+    "bodyId": "festival-023",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2011,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-105",
+    "bodyId": "festival-033",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2015,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-105",
+    "bodyId": "award-009",
+    "bodyType": "Award",
+    "result": "Shortlisted",
+    "year": 2015,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-106",
+    "bodyId": "festival-036",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2022,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-106",
+    "bodyId": "festival-007",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2023,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-107",
+    "bodyId": "festival-039",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2010,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-107",
+    "bodyId": "festival-010",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2011,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-107",
+    "bodyId": "festival-021",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2010,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-108",
+    "bodyId": "festival-002",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2016,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-108",
+    "bodyId": "festival-013",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2017,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-108",
+    "bodyId": "festival-024",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2016,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-108",
+    "bodyId": "festival-035",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2017,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-109",
+    "bodyId": "festival-005",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2023,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-109",
+    "bodyId": "award-001",
+    "bodyType": "Award",
+    "result": "Nominated",
+    "year": 2023,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-110",
+    "bodyId": "festival-008",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2010,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-110",
+    "bodyId": "festival-019",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2011,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-111",
+    "bodyId": "festival-011",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2017,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-111",
+    "bodyId": "festival-022",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2018,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-111",
+    "bodyId": "festival-033",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2017,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-112",
+    "bodyId": "festival-014",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2024,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-112",
+    "bodyId": "festival-025",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2025,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-112",
+    "bodyId": "festival-036",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2024,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-112",
+    "bodyId": "festival-007",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2025,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-113",
+    "bodyId": "festival-017",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2011,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-113",
+    "bodyId": "award-005",
+    "bodyType": "Award",
+    "result": "Winner",
+    "year": 2011,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-114",
+    "bodyId": "festival-020",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2018,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-114",
+    "bodyId": "festival-031",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2019,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-115",
+    "bodyId": "festival-023",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2025,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-115",
+    "bodyId": "festival-034",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2026,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-115",
+    "bodyId": "festival-005",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2025,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-116",
+    "bodyId": "festival-026",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2012,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-116",
+    "bodyId": "festival-037",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2013,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-116",
+    "bodyId": "festival-008",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2012,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-116",
+    "bodyId": "festival-019",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2013,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-117",
+    "bodyId": "festival-029",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2019,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-117",
+    "bodyId": "award-009",
+    "bodyType": "Award",
+    "result": "Shortlisted",
+    "year": 2019,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-118",
+    "bodyId": "festival-032",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2026,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-118",
+    "bodyId": "festival-003",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2027,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-119",
+    "bodyId": "festival-035",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2013,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-119",
+    "bodyId": "festival-006",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2014,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-119",
+    "bodyId": "festival-017",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2013,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-120",
+    "bodyId": "festival-038",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2020,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-120",
+    "bodyId": "festival-009",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2021,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-120",
+    "bodyId": "festival-020",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2020,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-120",
+    "bodyId": "festival-031",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2021,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-121",
+    "bodyId": "festival-001",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2010,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-121",
+    "bodyId": "award-001",
+    "bodyType": "Award",
+    "result": "Nominated",
+    "year": 2010,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-122",
+    "bodyId": "festival-004",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2014,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-122",
+    "bodyId": "festival-015",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2015,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-123",
+    "bodyId": "festival-007",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2021,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-123",
+    "bodyId": "festival-018",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2022,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-123",
+    "bodyId": "festival-029",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2021,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-124",
+    "bodyId": "festival-010",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2010,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-124",
+    "bodyId": "festival-021",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2011,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-124",
+    "bodyId": "festival-032",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2010,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-124",
+    "bodyId": "festival-003",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2011,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-125",
+    "bodyId": "festival-013",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2015,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-125",
+    "bodyId": "award-005",
+    "bodyType": "Award",
+    "result": "Winner",
+    "year": 2015,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-126",
+    "bodyId": "festival-016",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2022,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-126",
+    "bodyId": "festival-027",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2023,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-127",
+    "bodyId": "festival-019",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2010,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-127",
+    "bodyId": "festival-030",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2011,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-127",
+    "bodyId": "festival-001",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2010,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-128",
+    "bodyId": "festival-022",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2016,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-128",
+    "bodyId": "festival-033",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2017,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-128",
+    "bodyId": "festival-004",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2016,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-128",
+    "bodyId": "festival-015",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2017,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-129",
+    "bodyId": "festival-025",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2023,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-129",
+    "bodyId": "award-009",
+    "bodyType": "Award",
+    "result": "Shortlisted",
+    "year": 2023,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-130",
+    "bodyId": "festival-028",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2010,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-130",
+    "bodyId": "festival-039",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2011,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-131",
+    "bodyId": "festival-031",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2017,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-131",
+    "bodyId": "festival-002",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2018,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-131",
+    "bodyId": "festival-013",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2017,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-132",
+    "bodyId": "festival-034",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2024,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-132",
+    "bodyId": "festival-005",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2025,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-132",
+    "bodyId": "festival-016",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2024,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-132",
+    "bodyId": "festival-027",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2025,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-133",
+    "bodyId": "festival-037",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2011,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-133",
+    "bodyId": "award-001",
+    "bodyType": "Award",
+    "result": "Nominated",
+    "year": 2011,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-134",
+    "bodyId": "festival-040",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2018,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-134",
+    "bodyId": "festival-011",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2019,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-135",
+    "bodyId": "festival-003",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2025,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-135",
+    "bodyId": "festival-014",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2026,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-135",
+    "bodyId": "festival-025",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2025,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-136",
+    "bodyId": "festival-006",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2012,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-136",
+    "bodyId": "festival-017",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2013,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-136",
+    "bodyId": "festival-028",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2012,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-136",
+    "bodyId": "festival-039",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2013,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-137",
+    "bodyId": "festival-009",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2019,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-137",
+    "bodyId": "award-005",
+    "bodyType": "Award",
+    "result": "Winner",
+    "year": 2019,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-138",
+    "bodyId": "festival-012",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2026,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-138",
+    "bodyId": "festival-023",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2027,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-139",
+    "bodyId": "festival-015",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2013,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-139",
+    "bodyId": "festival-026",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2014,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-139",
+    "bodyId": "festival-037",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2013,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-140",
+    "bodyId": "festival-018",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2020,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-140",
+    "bodyId": "festival-029",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2021,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-140",
+    "bodyId": "festival-040",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2020,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-140",
+    "bodyId": "festival-011",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2021,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-141",
+    "bodyId": "festival-021",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2010,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-141",
+    "bodyId": "award-009",
+    "bodyType": "Award",
+    "result": "Shortlisted",
+    "year": 2010,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-142",
+    "bodyId": "festival-024",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2014,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-142",
+    "bodyId": "festival-035",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2015,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-143",
+    "bodyId": "festival-027",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2021,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-143",
+    "bodyId": "festival-038",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2022,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-143",
+    "bodyId": "festival-009",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2021,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-144",
+    "bodyId": "festival-030",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2010,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-144",
+    "bodyId": "festival-001",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2011,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-144",
+    "bodyId": "festival-012",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2010,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-144",
+    "bodyId": "festival-023",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2011,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-145",
+    "bodyId": "festival-033",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2015,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-145",
+    "bodyId": "award-001",
+    "bodyType": "Award",
+    "result": "Nominated",
+    "year": 2015,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-146",
+    "bodyId": "festival-036",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2022,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-146",
+    "bodyId": "festival-007",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2023,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-147",
+    "bodyId": "festival-039",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2010,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-147",
+    "bodyId": "festival-010",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2011,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-147",
+    "bodyId": "festival-021",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2010,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-148",
+    "bodyId": "festival-002",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2016,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-148",
+    "bodyId": "festival-013",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2017,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-148",
+    "bodyId": "festival-024",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2016,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-148",
+    "bodyId": "festival-035",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2017,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-149",
+    "bodyId": "festival-005",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2023,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-149",
+    "bodyId": "award-005",
+    "bodyType": "Award",
+    "result": "Winner",
+    "year": 2023,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-150",
+    "bodyId": "festival-008",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2010,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-150",
+    "bodyId": "festival-019",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2011,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-151",
+    "bodyId": "festival-011",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2017,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-151",
+    "bodyId": "festival-022",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2018,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-151",
+    "bodyId": "festival-033",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2017,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-152",
+    "bodyId": "festival-014",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2024,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-152",
+    "bodyId": "festival-025",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2025,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-152",
+    "bodyId": "festival-036",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2024,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-152",
+    "bodyId": "festival-007",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2025,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-153",
+    "bodyId": "festival-017",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2011,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-153",
+    "bodyId": "award-009",
+    "bodyType": "Award",
+    "result": "Shortlisted",
+    "year": 2011,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-154",
+    "bodyId": "festival-020",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2018,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-154",
+    "bodyId": "festival-031",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2019,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-155",
+    "bodyId": "festival-023",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2025,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-155",
+    "bodyId": "festival-034",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2026,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-155",
+    "bodyId": "festival-005",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2025,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-156",
+    "bodyId": "festival-026",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2012,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-156",
+    "bodyId": "festival-037",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2013,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-156",
+    "bodyId": "festival-008",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2012,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-156",
+    "bodyId": "festival-019",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2013,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-157",
+    "bodyId": "festival-029",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2019,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-157",
+    "bodyId": "award-001",
+    "bodyType": "Award",
+    "result": "Nominated",
+    "year": 2019,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-158",
+    "bodyId": "festival-032",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2026,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-158",
+    "bodyId": "festival-003",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2027,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-159",
+    "bodyId": "festival-035",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2013,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-159",
+    "bodyId": "festival-006",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2014,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-159",
+    "bodyId": "festival-017",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2013,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-160",
+    "bodyId": "festival-038",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2020,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-160",
+    "bodyId": "festival-009",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2021,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-160",
+    "bodyId": "festival-020",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2020,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-160",
+    "bodyId": "festival-031",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2021,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-161",
+    "bodyId": "festival-001",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2010,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-161",
+    "bodyId": "award-005",
+    "bodyType": "Award",
+    "result": "Winner",
+    "year": 2010,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-162",
+    "bodyId": "festival-004",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2014,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-162",
+    "bodyId": "festival-015",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2015,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-163",
+    "bodyId": "festival-007",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2021,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-163",
+    "bodyId": "festival-018",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2022,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-163",
+    "bodyId": "festival-029",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2021,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-164",
+    "bodyId": "festival-010",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2010,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-164",
+    "bodyId": "festival-021",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2011,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-164",
+    "bodyId": "festival-032",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2010,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-164",
+    "bodyId": "festival-003",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2011,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-165",
+    "bodyId": "festival-013",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2015,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-165",
+    "bodyId": "award-009",
+    "bodyType": "Award",
+    "result": "Shortlisted",
+    "year": 2015,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-166",
+    "bodyId": "festival-016",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2022,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-166",
+    "bodyId": "festival-027",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2023,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-167",
+    "bodyId": "festival-019",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2010,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-167",
+    "bodyId": "festival-030",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2011,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-167",
+    "bodyId": "festival-001",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2010,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-168",
+    "bodyId": "festival-022",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2016,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-168",
+    "bodyId": "festival-033",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2017,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-168",
+    "bodyId": "festival-004",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2016,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-168",
+    "bodyId": "festival-015",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2017,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-169",
+    "bodyId": "festival-025",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2023,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-169",
+    "bodyId": "award-001",
+    "bodyType": "Award",
+    "result": "Nominated",
+    "year": 2023,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-170",
+    "bodyId": "festival-028",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2010,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-170",
+    "bodyId": "festival-039",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2011,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-171",
+    "bodyId": "festival-031",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2017,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-171",
+    "bodyId": "festival-002",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2018,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-171",
+    "bodyId": "festival-013",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2017,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-172",
+    "bodyId": "festival-034",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2024,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-172",
+    "bodyId": "festival-005",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2025,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-172",
+    "bodyId": "festival-016",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2024,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-172",
+    "bodyId": "festival-027",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2025,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-173",
+    "bodyId": "festival-037",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2011,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-173",
+    "bodyId": "award-005",
+    "bodyType": "Award",
+    "result": "Winner",
+    "year": 2011,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-174",
+    "bodyId": "festival-040",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2018,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-174",
+    "bodyId": "festival-011",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2019,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-175",
+    "bodyId": "festival-003",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2025,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-175",
+    "bodyId": "festival-014",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2026,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-175",
+    "bodyId": "festival-025",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2025,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-176",
+    "bodyId": "festival-006",
+    "bodyType": "Festival",
+    "result": "Longlisted",
+    "year": 2012,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-176",
+    "bodyId": "festival-017",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2013,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-176",
+    "bodyId": "festival-028",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2012,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-176",
+    "bodyId": "festival-039",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2013,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-177",
+    "bodyId": "festival-009",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2019,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-177",
+    "bodyId": "award-009",
+    "bodyType": "Award",
+    "result": "Shortlisted",
+    "year": 2019,
+    "section": "Short Film"
+  },
+  {
+    "filmId": "film-178",
+    "bodyId": "festival-012",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2026,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-178",
+    "bodyId": "festival-023",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2027,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-179",
+    "bodyId": "festival-015",
+    "bodyType": "Festival",
+    "result": "Official Selection",
+    "year": 2013,
+    "section": "Experimental Programme"
+  },
+  {
+    "filmId": "film-179",
+    "bodyId": "festival-026",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2014,
+    "section": "Official Programme"
+  },
+  {
+    "filmId": "film-179",
+    "bodyId": "festival-037",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2013,
+    "section": "Documentary Competition"
+  },
+  {
+    "filmId": "film-180",
+    "bodyId": "festival-018",
+    "bodyType": "Festival",
+    "result": "Nominated",
+    "year": 2020,
+    "section": "Audience Selection"
+  },
+  {
+    "filmId": "film-180",
+    "bodyId": "festival-029",
+    "bodyType": "Festival",
+    "result": "Winner",
+    "year": 2021,
+    "section": "New Voices"
+  },
+  {
+    "filmId": "film-180",
+    "bodyId": "festival-040",
+    "bodyType": "Festival",
+    "result": "Special Mention",
+    "year": 2020,
+    "section": "Animation Competition"
+  },
+  {
+    "filmId": "film-180",
+    "bodyId": "festival-011",
+    "bodyType": "Festival",
+    "result": "Shortlisted",
+    "year": 2021,
+    "section": "Audience Selection"
+  }
+]
