@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-labelledby="film-22-title">
+  <title id="film-22-title">Abstract poster artwork for the fictional short film A Very Minor Haunting</title>
+  <defs>
+    <linearGradient id="film-22-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1e1214"/>
+      <stop offset="100%" stop-color="#0d0708"/>
+    </linearGradient>
+    <linearGradient id="film-22-veil" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d0708" stop-opacity="0"/>
+      <stop offset="55%" stop-color="#0d0708" stop-opacity="0.82"/>
+      <stop offset="100%" stop-color="#0d0708" stop-opacity="0.97"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="600" height="900" fill="url(#film-22-bg)"/>
+
+  <g>
+    <path d="M 300 40 L 8 620 L 76 620 Z" fill="#c9503f" opacity="0.32"/>
+    <path d="M 300 40 L 46 620 L 114 620 Z" fill="#9e4239" opacity="0.16"/>
+    <path d="M 300 40 L 84 620 L 152 620 Z" fill="#9e4239" opacity="0.16"/>
+    <path d="M 300 40 L 122 620 L 190 620 Z" fill="#c9503f" opacity="0.32"/>
+    <path d="M 300 40 L 160 620 L 228 620 Z" fill="#9e4239" opacity="0.16"/>
+    <path d="M 300 40 L 198 620 L 266 620 Z" fill="#9e4239" opacity="0.16"/>
+    <path d="M 300 40 L 236 620 L 304 620 Z" fill="#c9503f" opacity="0.32"/>
+    <path d="M 300 40 L 274 620 L 342 620 Z" fill="#9e4239" opacity="0.16"/>
+    <path d="M 300 40 L 312 620 L 380 620 Z" fill="#9e4239" opacity="0.16"/>
+    <path d="M 300 40 L 350 620 L 418 620 Z" fill="#c9503f" opacity="0.32"/>
+    <path d="M 300 40 L 388 620 L 456 620 Z" fill="#9e4239" opacity="0.16"/>
+    <path d="M 300 40 L 426 620 L 494 620 Z" fill="#9e4239" opacity="0.16"/>
+    <path d="M 300 40 L 464 620 L 532 620 Z" fill="#c9503f" opacity="0.32"/>
+    <path d="M 300 40 L 502 620 L 570 620 Z" fill="#9e4239" opacity="0.16"/>
+    <path d="M 300 40 L 540 620 L 608 620 Z" fill="#9e4239" opacity="0.16"/>
+    <circle cx="300" cy="40" r="18" fill="#c9503f" opacity="0.95"/>
+  </g>
+
+  <rect x="0" y="440" width="600" height="460" fill="url(#film-22-veil)"/>
+  <rect x="56" y="606" width="70" height="4" fill="#c9503f"/>
+
+  <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#faf7f1" letter-spacing="-0.5"><tspan x="56" y="688">A Very Minor</tspan><tspan x="56" y="754">Haunting</tspan></text>
+
+  <text x="56" y="812" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#c9503f" letter-spacing="2.4">2025 &#183; DRAMA</text>
+
+  <text x="56" y="848" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#a8a29a" letter-spacing="1.1">UNITED KINGDOM</text>
+</svg>

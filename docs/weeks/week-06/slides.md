@@ -429,7 +429,7 @@ Return to the rule: persist the smallest source of truth.
 
 ---
 
-# Your projects now have a larger fictional archive
+# The reference application and your projects now have a larger fictional archive
 
 ```text
 180 films       120 people       40 festivals
@@ -440,6 +440,25 @@ Return to the rule: persist the smallest source of truth.
 <!--
 This is project infrastructure, not a new exercise. It is wholly fictional and
 safe to commit and deploy.
+-->
+
+---
+
+# The same JSON can arrive in two ways
+
+```text
+Import    available when the application starts
+
+Fetch     requested after the application starts
+          → loading → ready or error
+```
+
+Starter and Complete import. Showcase fetches.
+
+<!--
+Keep this to two minutes. Fetch returns a Promise: a result that will arrive
+later. Learners do not need a Promises lecture here. The Week 6 resources show
+the async/await sequence and explain why loading and error states exist.
 -->
 
 ---

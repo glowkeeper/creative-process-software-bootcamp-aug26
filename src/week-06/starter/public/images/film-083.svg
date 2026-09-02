@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-labelledby="film-083-title">
+  <title id="film-083-title">Abstract poster artwork for the fictional short film Little Archive</title>
+  <defs>
+    <linearGradient id="film-083-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0f1b1d"/>
+      <stop offset="100%" stop-color="#060d0e"/>
+    </linearGradient>
+    <linearGradient id="film-083-veil" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#060d0e" stop-opacity="0"/>
+      <stop offset="55%" stop-color="#060d0e" stop-opacity="0.82"/>
+      <stop offset="100%" stop-color="#060d0e" stop-opacity="0.97"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="600" height="900" fill="url(#film-083-bg)"/>
+
+  <g>
+    <rect x="104" y="90" width="392" height="22" fill="#3fb8ae" opacity="0.9"/>
+    <rect x="52" y="124" width="496" height="33" fill="#1d6f70" opacity="0.5"/>
+    <rect x="0" y="169" width="600" height="10" fill="#1d6f70" opacity="0.5"/>
+    <rect x="78" y="191" width="444" height="21" fill="#1d6f70" opacity="0.5"/>
+    <rect x="26" y="224" width="548" height="32" fill="#3fb8ae" opacity="0.9"/>
+    <rect x="104" y="268" width="392" height="9" fill="#1d6f70" opacity="0.5"/>
+    <rect x="52" y="289" width="496" height="20" fill="#1d6f70" opacity="0.5"/>
+    <rect x="0" y="321" width="600" height="31" fill="#1d6f70" opacity="0.5"/>
+    <rect x="78" y="364" width="444" height="8" fill="#3fb8ae" opacity="0.9"/>
+    <rect x="26" y="384" width="548" height="19" fill="#1d6f70" opacity="0.5"/>
+    <rect x="104" y="415" width="392" height="30" fill="#1d6f70" opacity="0.5"/>
+    <rect x="52" y="457" width="496" height="7" fill="#1d6f70" opacity="0.5"/>
+    <rect x="0" y="476" width="600" height="18" fill="#3fb8ae" opacity="0.9"/>
+    <rect x="78" y="506" width="444" height="29" fill="#1d6f70" opacity="0.5"/>
+    <rect x="26" y="547" width="548" height="6" fill="#1d6f70" opacity="0.5"/>
+  </g>
+
+  <rect x="0" y="440" width="600" height="460" fill="url(#film-083-veil)"/>
+  <rect x="56" y="672" width="70" height="4" fill="#3fb8ae"/>
+
+  <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#faf7f1" letter-spacing="-0.5"><tspan x="56" y="754">Little Archive</tspan></text>
+
+  <text x="56" y="812" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#3fb8ae" letter-spacing="2.4">2021 &#183; ANIMATION</text>
+
+  <text x="56" y="848" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#a8a29a" letter-spacing="1.1">PORTUGAL</text>
+</svg>

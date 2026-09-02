@@ -9,12 +9,12 @@ function ProgrammeSummary({ count, totalMinutes }) {
       <p className="eyebrow">Your programme</p>
       <h2>Selected films</h2>
       <p>
-        {count} films selected · {totalMinutes} min
+        {count} films selected · Combined runtime: {totalMinutes} min
       </p>
       <p className="programme-summary__target">
         {meetsTarget
-          ? "This programme fits the target."
-          : "Not yet within the 30-45 minute target."}
+          ? "The combined runtime fits the 30–45 minute target."
+          : "Aim for a combined runtime of 30–45 minutes."}
       </p>
     </section>
   );

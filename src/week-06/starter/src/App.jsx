@@ -5,7 +5,7 @@
 // that contains both the cards and the summary. Both of them need to know.
 
 import { useState } from "react";
-import films from "./data/films.js";
+import films from "./data/films.json";
 import SiteHeader from "./components/SiteHeader.jsx";
 import ProgrammeSummary from "./components/ProgrammeSummary.jsx";
 import FilmCard from "./components/FilmCard.jsx";
@@ -13,7 +13,7 @@ import SiteFooter from "./components/SiteFooter.jsx";
 
 function App() {
   // An array of ids, not one answer per card. The number of films is data,
-  // so nothing here should be written twelve times.
+  // so nothing here should be written 180 times.
   const [selectedIds, setSelectedIds] = useState([]);
 
   // The cards cannot change selectedIds themselves. They are given this
@@ -32,7 +32,7 @@ function App() {
 
   let totalMinutes = 0;
   for (const film of selectedFilms) {
-    totalMinutes = totalMinutes + film.runtimeMinutes;
+    totalMinutes = totalMinutes + Math.round((film.runtimeSeconds ?? 0) / 60);
   }
 
   return (
@@ -48,10 +48,10 @@ function App() {
         <section>
           <div className="section-heading">
             <div>
-              <p className="eyebrow">Stage 2 archive</p>
+              <p className="eyebrow">Connected fictional archive</p>
               <h2>Choose from {films.length} short films</h2>
             </div>
-            <p>Target running time: 30-45 minutes</p>
+            <p>Combined programme target: 30–45 minutes</p>
           </div>
 
           <div className="film-grid">
@@ -64,9 +64,13 @@ function App() {
                 form={film.form}
                 country={film.country}
                 year={film.year}
-                runtimeMinutes={film.runtimeMinutes}
-                themes={film.themes}
-                poster={film.poster}
+                runtimeMinutes={film.runtimeSeconds
+                  ? Math.round(film.runtimeSeconds / 60)
+                  : null}
+                themes={film.themes ?? []}
+                poster={film.poster
+                  ? `${import.meta.env.BASE_URL}${film.poster}`
+                  : null}
                 posterAlt={film.posterAlt}
                 isSelected={selectedIds.includes(film.id)}
                 onToggleSelect={handleToggleSelect}

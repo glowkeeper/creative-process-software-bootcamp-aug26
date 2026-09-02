@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-labelledby="film-007-title">
+  <title id="film-007-title">Abstract poster artwork for the fictional short film The Last Seed Catalogue</title>
+  <defs>
+    <linearGradient id="film-007-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1e1214"/>
+      <stop offset="100%" stop-color="#0d0708"/>
+    </linearGradient>
+    <linearGradient id="film-007-veil" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d0708" stop-opacity="0"/>
+      <stop offset="55%" stop-color="#0d0708" stop-opacity="0.82"/>
+      <stop offset="100%" stop-color="#0d0708" stop-opacity="0.97"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="600" height="900" fill="url(#film-007-bg)"/>
+
+  <g>
+    <rect x="0" y="90" width="600" height="16" fill="#c9503f" opacity="0.9"/>
+    <rect x="78" y="118" width="444" height="27" fill="#9e4239" opacity="0.5"/>
+    <rect x="26" y="157" width="548" height="38" fill="#9e4239" opacity="0.5"/>
+    <rect x="104" y="207" width="392" height="15" fill="#9e4239" opacity="0.5"/>
+    <rect x="52" y="234" width="496" height="26" fill="#c9503f" opacity="0.9"/>
+    <rect x="0" y="272" width="600" height="37" fill="#9e4239" opacity="0.5"/>
+    <rect x="78" y="321" width="444" height="14" fill="#9e4239" opacity="0.5"/>
+    <rect x="26" y="347" width="548" height="25" fill="#9e4239" opacity="0.5"/>
+    <rect x="104" y="384" width="392" height="36" fill="#c9503f" opacity="0.9"/>
+    <rect x="52" y="432" width="496" height="13" fill="#9e4239" opacity="0.5"/>
+    <rect x="0" y="457" width="600" height="24" fill="#9e4239" opacity="0.5"/>
+    <rect x="78" y="493" width="444" height="35" fill="#9e4239" opacity="0.5"/>
+    <rect x="26" y="540" width="548" height="12" fill="#c9503f" opacity="0.9"/>
+  </g>
+
+  <rect x="0" y="440" width="600" height="460" fill="url(#film-007-veil)"/>
+  <rect x="56" y="606" width="70" height="4" fill="#c9503f"/>
+
+  <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#faf7f1" letter-spacing="-0.5"><tspan x="56" y="688">The Last Seed</tspan><tspan x="56" y="754">Catalogue</tspan></text>
+
+  <text x="56" y="812" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#c9503f" letter-spacing="2.4">2025 &#183; DRAMA</text>
+
+  <text x="56" y="848" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#a8a29a" letter-spacing="1.1">UNITED KINGDOM</text>
+</svg>

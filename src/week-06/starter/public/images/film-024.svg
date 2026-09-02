@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-labelledby="film-024-title">
+  <title id="film-024-title">Abstract poster artwork for the fictional short film Breathing Room</title>
+  <defs>
+    <linearGradient id="film-024-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#171122"/>
+      <stop offset="100%" stop-color="#0a0710"/>
+    </linearGradient>
+    <linearGradient id="film-024-veil" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0710" stop-opacity="0"/>
+      <stop offset="55%" stop-color="#0a0710" stop-opacity="0.82"/>
+      <stop offset="100%" stop-color="#0a0710" stop-opacity="0.97"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="600" height="900" fill="url(#film-024-bg)"/>
+
+  <g>
+    <rect x="104" y="90" width="392" height="7" fill="#8f6fd6" opacity="0.9"/>
+    <rect x="52" y="109" width="496" height="18" fill="#4d3a86" opacity="0.5"/>
+    <rect x="0" y="139" width="600" height="29" fill="#4d3a86" opacity="0.5"/>
+    <rect x="78" y="180" width="444" height="6" fill="#4d3a86" opacity="0.5"/>
+    <rect x="26" y="198" width="548" height="17" fill="#8f6fd6" opacity="0.9"/>
+    <rect x="104" y="227" width="392" height="28" fill="#4d3a86" opacity="0.5"/>
+    <rect x="52" y="267" width="496" height="39" fill="#4d3a86" opacity="0.5"/>
+    <rect x="0" y="318" width="600" height="16" fill="#4d3a86" opacity="0.5"/>
+    <rect x="78" y="346" width="444" height="27" fill="#8f6fd6" opacity="0.9"/>
+    <rect x="26" y="385" width="548" height="38" fill="#4d3a86" opacity="0.5"/>
+    <rect x="104" y="435" width="392" height="15" fill="#4d3a86" opacity="0.5"/>
+    <rect x="52" y="462" width="496" height="26" fill="#4d3a86" opacity="0.5"/>
+    <rect x="0" y="500" width="600" height="37" fill="#8f6fd6" opacity="0.9"/>
+    <rect x="78" y="549" width="444" height="14" fill="#4d3a86" opacity="0.5"/>
+  </g>
+
+  <rect x="0" y="440" width="600" height="460" fill="url(#film-024-veil)"/>
+  <rect x="56" y="672" width="70" height="4" fill="#8f6fd6"/>
+
+  <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#faf7f1" letter-spacing="-0.5"><tspan x="56" y="754">Breathing Room</tspan></text>
+
+  <text x="56" y="812" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#8f6fd6" letter-spacing="2.4">2022 &#183; EXPERIMENTAL</text>
+
+  <text x="56" y="848" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#a8a29a" letter-spacing="1.1">UNITED KINGDOM</text>
+</svg>

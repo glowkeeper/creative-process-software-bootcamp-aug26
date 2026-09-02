@@ -45,6 +45,38 @@ References:
 - [React: Synchronizing with Effects](https://react.dev/learn/synchronizing-with-effects)
 - [React: Avoiding recreating the initial state](https://react.dev/reference/react/useState#avoiding-recreating-the-initial-state)
 
+## Beyond This Browser: Online Persistence
+
+The Week 6 pattern deliberately stores data in one browser on one device. A
+project may eventually need its data to be available online instead:
+
+```text
+React state     current application session
+localStorage    one browser on one device
+online database shared across browsers, devices or users
+```
+
+[Supabase](https://supabase.com/) is one possible next step. It provides a
+hosted PostgreSQL database and tools for accessing that database from an
+application. It can also provide authentication and file storage, but those
+are separate capabilities with their own design and security decisions.
+
+Before adding an online database, ask:
+
+- Which information would become rows in a table?
+- Does the application only read shared data, or can visitors add and edit it?
+- Does it genuinely need user accounts?
+- Which operations create, read, update or delete data?
+- Which credentials are safe in public browser code, and which must remain
+  secret?
+
+This is a direction for further study, not a Week 6 requirement. Do not replace
+a working `localStorage` solution simply to add another technology. If the
+project later needs shared data or accounts, begin with the official
+[Supabase database overview](https://supabase.com/docs/guides/database/overview),
+[authentication guide](https://supabase.com/docs/guides/auth) and
+[API-key guidance](https://supabase.com/docs/guides/getting-started/api-keys).
+
 ## What Should Be Remembered?
 
 Persist information a visitor reasonably expects to survive:
@@ -178,15 +210,77 @@ you need.
 
 ## Loading a JSON File
 
-For a local project data file inside `src`, import it:
+There are two useful ways for this course to load JSON. They produce the same
+kind of JavaScript data, but they make it available at different times.
+
+### Import: available when the application starts
+
+For a project data file inside `src`, import it:
 
 ```js
 import festivals from "./data/festival-programmes.json";
 ```
 
-For a file in `public`, fetch it after the application starts. Week 5 Showcase
-contains the complete loading and error pattern. Do not add network loading
-merely to make a working import more complicated.
+The imported array is available immediately. Week 6 Starter and Complete use
+this approach so the guided build can stay focused on persistence.
+
+### Fetch: requested after the application starts
+
+`fetch()` asks the browser to load a file from a URL. It immediately returns a
+**Promise**: an object representing a result that will arrive later. The page
+therefore needs to handle three situations:
+
+```text
+Loading → Ready
+        ↘ Error
+```
+
+An `async` function lets the sequence be read from top to bottom. `await`
+pauses that function until each Promise has produced its result:
+
+```jsx
+const [films, setFilms] = useState([]);
+const [archiveStatus, setArchiveStatus] = useState("loading");
+
+useEffect(() => {
+  async function loadFilms() {
+    try {
+      const response = await fetch("/data/films.json");
+
+      if (!response.ok) {
+        throw new Error("The film archive could not be loaded.");
+      }
+
+      const loadedFilms = await response.json();
+      setFilms(loadedFilms);
+      setArchiveStatus("ready");
+    } catch {
+      setArchiveStatus("error");
+    }
+  }
+
+  loadFilms();
+}, []);
+```
+
+Read it as:
+
+1. begin loading the archive
+2. wait for the response
+3. reject an unsuccessful response
+4. wait for the JSON to become JavaScript data
+5. store the films and report that they are ready
+6. report an error if any of those steps fails
+
+The empty dependency array means that this effect starts once when the
+component first appears. Week 6 Showcase contains the complete pattern and the
+visible loading and error states. You do not need to master Promises to inspect
+or adapt it, but you should be able to explain what happens now and what happens
+later.
+
+Do not replace a working import with `fetch()` merely to make a project more
+complex. Use it when loading after the application starts is useful to the
+project.
 
 ## Handling Missing Information
 

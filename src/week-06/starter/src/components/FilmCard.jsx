@@ -4,7 +4,7 @@
 // its button is clicked. That makes it simpler: it displays what it is given
 // and reports what happened, and nothing else.
 
-function FilmCard({ id, title, synopsis, form, country, year, runtimeMinutes,
+function FilmCard({ id, title, synopsis, form, country, year, runtimeSeconds,
                     themes, poster, posterAlt, isSelected, onToggleSelect }) {
   const cardClass = isSelected
     ? "film-card film-card--selected"
@@ -12,7 +12,7 @@ function FilmCard({ id, title, synopsis, form, country, year, runtimeMinutes,
 
   return (
     <article className={cardClass}>
-      {/* One film in the archive has no artwork, so the card has to cope. */}
+      {/* Some films have no artwork, so the card has to cope. */}
       {poster ? (
         <img className="film-card__poster" src={poster} alt={posterAlt} />
       ) : (
@@ -22,7 +22,9 @@ function FilmCard({ id, title, synopsis, form, country, year, runtimeMinutes,
       )}
 
       <p className="film-meta">
-        {form} · {country} · {year} · {runtimeMinutes} min
+        {form ?? "Form not recorded"} · {country ?? "Country not recorded"}
+        {year ? ` · ${year}` : ""}
+        {runtimeSeconds ? ` · ${Math.round(runtimeSeconds / 60)} min` : " · Runtime not recorded"}
       </p>
       <h3>{title}</h3>
       <p>{synopsis}</p>
