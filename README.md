@@ -108,6 +108,18 @@ number of files and takes several minutes on shared wifi.
 Complete and Showcase are published after the demonstration as reference and
 extension material.
 
+## Week 5 Materials
+
+- [Week 5 slides](docs/weeks/week-05/slides.md)
+- [Week 5 worksheet](docs/weeks/week-05/worksheet.md)
+- [Week 5 resources](docs/weeks/week-05/resources.md)
+- [Week 5 Starter](src/week-05/starter/README.md)
+
+Week 5 is a consolidation and code-review session. Use the Starter during the
+shared review, then refer to Complete and Showcase as recovery and extension
+material. API work is optional stretch material rather than the week's core
+outcome.
+
 ## Week 6 Materials
 
 - [Week 6 slides](docs/weeks/week-06/slides.md)
@@ -133,6 +145,18 @@ prototype. There is no Starter or Complete application because you are working
 on your own project rather than following a new guided build. The Showcase is
 optional reference material: inspect one relevant pattern at a time rather than
 treating its features as a checklist.
+
+## Week 8 Materials
+
+- [Week 8 slides](docs/weeks/week-08/slides.md)
+- [Week 8 worksheet](docs/weeks/week-08/worksheet.md)
+- [Week 8 resources](docs/weeks/week-08/resources.md)
+- [GitHub Pages deployment workflow](docs/weeks/week-08/files/deploy-pages.yml)
+
+Week 8 uses the morning for supported deployment, testing and presentation
+rehearsal before the afternoon showcase. Copy the supplied workflow into your
+own project repository at `.github/workflows/deploy-pages.yml`; do not place it
+inside `app/` or activate it in this shared cohort repository.
 
 ## Your Individual Repository
 
