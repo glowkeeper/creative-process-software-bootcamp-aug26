@@ -8,7 +8,7 @@ and make the version you already have dependable.
 
 ## The Expected Project Structure
 
-This course assumes your repository contains the Vite application in `app/`:
+Most course repositories contain the Vite application in `app/`:
 
 ```text
 your-project/
@@ -20,7 +20,8 @@ your-project/
 └── README.md
 ```
 
-Run npm commands from `app/`, not from the repository root.
+Run npm commands from the directory containing your application's
+`package.json`. For the structure above, that directory is `app/`.
 
 ## Build Before You Deploy
 
@@ -46,8 +47,15 @@ Open the address Vite displays and test the project's essential journey.
 
 ## Use the Supplied Workflow
 
-The course supplies
-[`deploy-pages.yml`](files/deploy-pages.yml) with the Week 8 materials.
+First read the
+[`files/README.md`](files/README.md) guide in the Week 8 materials. It explains
+the two supplied choices:
+
+- use [`deploy-pages.yml`](files/deploy-pages.yml) when the application is in
+  `app/`
+- use
+  [`deploy-pages-custom-directory.yml`](files/deploy-pages-custom-directory.yml)
+  when the application is in another directory
 
 In your own project repository, create this exact destination:
 
@@ -55,20 +63,23 @@ In your own project repository, create this exact destination:
 .github/workflows/deploy-pages.yml
 ```
 
-Copy the supplied file rather than retyping it. The workflow must be inside the
-repository-root `.github/workflows/` directory—not inside `app/`.
+Choose one file and copy it rather than retyping it. Save the chosen file under
+the required `deploy-pages.yml` name. The workflow must be inside the
+repository-root `.github/workflows/` directory—not inside the application
+directory.
 
 It will:
 
 1. check out the repository
-2. install the dependencies from `app/package-lock.json`
-3. build the application inside `app/`
+2. install the dependencies from the application directory's lockfile
+3. build inside the application directory
 4. give Vite the repository-specific GitHub Pages base path
-5. upload `app/dist/`
+5. upload the application directory's `dist/`
 6. deploy the uploaded site to GitHub Pages
 
-The workflow is shared because everyone used the same `app/` folder name. Ask
-for support if your application has been moved or renamed.
+If you use the custom-directory version, replace `website` in all three marked
+paths with your application directory name. Do not copy both workflows into
+`.github/workflows/`.
 
 ## Commit and Push the Workflow
 
@@ -158,8 +169,8 @@ Open the deployment in a fresh tab and check:
 | What you see | First checks |
 | --- | --- |
 | `npm run build` fails locally | Read the first useful error; check imports, filenames and syntax. |
-| Install fails in GitHub Actions | Confirm `app/package.json` and `app/package-lock.json` are committed. |
-| The workflow cannot find the application | Confirm the folder is named exactly `app`. |
+| Install fails in GitHub Actions | Confirm the application's `package.json` and `package-lock.json` are committed. |
+| The workflow cannot find the application | Confirm its working directory, lockfile path and `dist/` path all use the actual application directory. |
 | The deployed page is blank | Inspect the browser console and check the build base path. |
 | CSS or images are missing | Check paths, filename capitalisation and committed assets. |
 | A routed page fails on refresh | Check whether the project uses `BrowserRouter`. |

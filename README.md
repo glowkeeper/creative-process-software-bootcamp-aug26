@@ -151,12 +151,13 @@ treating its features as a checklist.
 - [Week 8 slides](docs/weeks/week-08/slides.md)
 - [Week 8 worksheet](docs/weeks/week-08/worksheet.md)
 - [Week 8 resources](docs/weeks/week-08/resources.md)
-- [GitHub Pages deployment workflow](docs/weeks/week-08/files/deploy-pages.yml)
+- [GitHub Pages workflow choices and instructions](docs/weeks/week-08/files/README.md)
 
 Week 8 uses the morning for supported deployment, testing and presentation
-rehearsal before the afternoon showcase. Copy the supplied workflow into your
-own project repository at `.github/workflows/deploy-pages.yml`; do not place it
-inside `app/` or activate it in this shared cohort repository.
+rehearsal before the afternoon showcase. Choose the workflow matching your
+application directory and copy only that version into your own project
+repository at `.github/workflows/deploy-pages.yml`. Do not activate either
+supplied template in this shared cohort repository.
 
 ## Your Individual Repository
 

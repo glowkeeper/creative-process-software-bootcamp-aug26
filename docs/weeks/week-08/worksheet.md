@@ -41,7 +41,7 @@ ____________________________________________________
 ### Local production check
 
 - [ ] I opened my repository.
-- [ ] I moved into `app/`.
+- [ ] I moved into the directory containing my application's `package.json`.
 - [ ] `npm ci` completed.
 - [ ] `npm run build` completed.
 - [ ] I tested the production version with `npm run preview`.
@@ -52,7 +52,8 @@ ____________________________________________________
 
 ### GitHub Pages workflow
 
-- [ ] I copied the supplied workflow to `.github/workflows/deploy-pages.yml`.
+- [ ] I chose the workflow that matches my application directory.
+- [ ] I copied it to `.github/workflows/deploy-pages.yml`.
 - [ ] I checked `git status`.
 - [ ] I committed and pushed the workflow.
 - [ ] I selected GitHub Actions in **Settings → Pages**.
@@ -204,4 +205,3 @@ ____________________________________________________
 Which part of becoming a developer do you want to practise next?
 
 ____________________________________________________
-

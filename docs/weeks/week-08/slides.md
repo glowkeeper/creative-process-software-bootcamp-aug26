@@ -103,11 +103,11 @@ your-project/
 └── README.md
 ```
 
-## Your Vite application already lives in `app/`.
+## Most Vite applications already live in `app/`.
 
 <!--
 Confirm that this matches the structure created in Week 4. Learners who moved
-or renamed the folder need individual support before copying the workflow.
+or renamed the folder will use the supplied custom-directory version.
 -->
 
 ---
@@ -159,8 +159,12 @@ This is the complete mental model. Do not teach the workflow line by line.
 
 # Use the Supplied Workflow
 
-Open `deploy-pages.yml` in the Week 8 materials and copy it to your repository
-root:
+Open `files/README.md` in the Week 8 materials and choose one workflow:
+
+- application in `app/`: `deploy-pages.yml`
+- application elsewhere: `deploy-pages-custom-directory.yml`
+
+Copy your chosen file to your repository root and name it:
 
 ```text
 .github/workflows/deploy-pages.yml
@@ -168,7 +172,8 @@ root:
 
 <!--
 Copy rather than retype. The destination must be at the repository root, not
-inside app/. GitHub only discovers workflows in this location.
+inside the application directory. GitHub only discovers workflows in this
+location. Do not install both supplied files.
 
 [Sources]
 - https://vite.dev/guide/static-deploy.html
@@ -176,18 +181,19 @@ inside app/. GitHub only discovers workflows in this location.
 
 ---
 
-# One Workflow, Shared Structure
+# One Workflow, Matching Paths
 
-The supplied workflow already knows:
+The three application paths must agree:
 
-- npm runs inside `app/`
-- the lockfile is `app/package-lock.json`
-- the built site is `app/dist/`
+- npm runs inside the application directory
+- the lockfile is inside that directory
+- the built site is that directory's `dist/`
 - the repository name becomes Vite's base path
 
 <!--
+Learners with `app/` use the primary workflow unchanged. In the custom template,
+they replace `website` in all three marked paths with their directory name.
 Learners should understand why the paths matter without having to learn YAML.
-The common app folder makes one unchanged workflow possible.
 
 [Sources]
 - https://docs.github.com/en/actions/how-tos/writing-workflows/choosing-what-your-workflow-does/setting-a-default-shell-and-working-directory
