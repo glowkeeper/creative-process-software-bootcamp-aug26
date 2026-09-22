@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-labelledby="film-142-title">
+  <title id="film-142-title">Abstract poster artwork for the fictional short film Red Moon</title>
+  <defs>
+    <linearGradient id="film-142-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1e1214"/>
+      <stop offset="100%" stop-color="#0d0708"/>
+    </linearGradient>
+    <linearGradient id="film-142-veil" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d0708" stop-opacity="0"/>
+      <stop offset="55%" stop-color="#0d0708" stop-opacity="0.82"/>
+      <stop offset="100%" stop-color="#0d0708" stop-opacity="0.97"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="600" height="900" fill="url(#film-142-bg)"/>
+
+  <g>
+    <rect x="0" y="90" width="600" height="8" fill="#c9503f" opacity="0.9"/>
+    <rect x="78" y="110" width="444" height="19" fill="#9e4239" opacity="0.5"/>
+    <rect x="26" y="141" width="548" height="30" fill="#9e4239" opacity="0.5"/>
+    <rect x="104" y="183" width="392" height="7" fill="#9e4239" opacity="0.5"/>
+    <rect x="52" y="202" width="496" height="18" fill="#c9503f" opacity="0.9"/>
+    <rect x="0" y="232" width="600" height="29" fill="#9e4239" opacity="0.5"/>
+    <rect x="78" y="273" width="444" height="6" fill="#9e4239" opacity="0.5"/>
+    <rect x="26" y="291" width="548" height="17" fill="#9e4239" opacity="0.5"/>
+    <rect x="104" y="320" width="392" height="28" fill="#c9503f" opacity="0.9"/>
+    <rect x="52" y="360" width="496" height="39" fill="#9e4239" opacity="0.5"/>
+    <rect x="0" y="411" width="600" height="16" fill="#9e4239" opacity="0.5"/>
+    <rect x="78" y="439" width="444" height="27" fill="#9e4239" opacity="0.5"/>
+    <rect x="26" y="478" width="548" height="38" fill="#c9503f" opacity="0.9"/>
+    <rect x="104" y="528" width="392" height="15" fill="#9e4239" opacity="0.5"/>
+    <rect x="52" y="555" width="496" height="26" fill="#9e4239" opacity="0.5"/>
+  </g>
+
+  <rect x="0" y="440" width="600" height="460" fill="url(#film-142-veil)"/>
+  <rect x="56" y="672" width="70" height="4" fill="#c9503f"/>
+
+  <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#faf7f1" letter-spacing="-0.5"><tspan x="56" y="754">Red Moon</tspan></text>
+
+  <text x="56" y="812" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#c9503f" letter-spacing="2.4">2014 &#183; DRAMA</text>
+
+  <text x="56" y="848" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#a8a29a" letter-spacing="1.1">GERMANY</text>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-labelledby="film-145-title">
+  <title id="film-145-title">Abstract poster artwork for the fictional short film After Machine</title>
+  <defs>
+    <linearGradient id="film-145-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1f1a12"/>
+      <stop offset="100%" stop-color="#0e0b07"/>
+    </linearGradient>
+    <linearGradient id="film-145-veil" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0e0b07" stop-opacity="0"/>
+      <stop offset="55%" stop-color="#0e0b07" stop-opacity="0.82"/>
+      <stop offset="100%" stop-color="#0e0b07" stop-opacity="0.97"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="600" height="900" fill="url(#film-145-bg)"/>
+
+  <g>
+    <rect x="78" y="90" width="444" height="11" fill="#d8a13a" opacity="0.9"/>
+    <rect x="26" y="113" width="548" height="22" fill="#8a6b2f" opacity="0.5"/>
+    <rect x="104" y="147" width="392" height="33" fill="#8a6b2f" opacity="0.5"/>
+    <rect x="52" y="192" width="496" height="10" fill="#8a6b2f" opacity="0.5"/>
+    <rect x="0" y="214" width="600" height="21" fill="#d8a13a" opacity="0.9"/>
+    <rect x="78" y="247" width="444" height="32" fill="#8a6b2f" opacity="0.5"/>
+    <rect x="26" y="291" width="548" height="9" fill="#8a6b2f" opacity="0.5"/>
+    <rect x="104" y="312" width="392" height="20" fill="#8a6b2f" opacity="0.5"/>
+    <rect x="52" y="344" width="496" height="31" fill="#d8a13a" opacity="0.9"/>
+    <rect x="0" y="387" width="600" height="8" fill="#8a6b2f" opacity="0.5"/>
+    <rect x="78" y="407" width="444" height="19" fill="#8a6b2f" opacity="0.5"/>
+    <rect x="26" y="438" width="548" height="30" fill="#8a6b2f" opacity="0.5"/>
+    <rect x="104" y="480" width="392" height="7" fill="#d8a13a" opacity="0.9"/>
+    <rect x="52" y="499" width="496" height="18" fill="#8a6b2f" opacity="0.5"/>
+    <rect x="0" y="529" width="600" height="29" fill="#8a6b2f" opacity="0.5"/>
+  </g>
+
+  <rect x="0" y="440" width="600" height="460" fill="url(#film-145-veil)"/>
+  <rect x="56" y="672" width="70" height="4" fill="#d8a13a"/>
+
+  <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#faf7f1" letter-spacing="-0.5"><tspan x="56" y="754">After Machine</tspan></text>
+
+  <text x="56" y="812" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#d8a13a" letter-spacing="2.4">2015 &#183; DOCUMENTARY</text>
+
+  <text x="56" y="848" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#a8a29a" letter-spacing="1.1">UNITED KINGDOM</text>
+</svg>

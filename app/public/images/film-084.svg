@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-labelledby="film-084-title">
+  <title id="film-084-title">Abstract poster artwork for the fictional short film Lost Glass</title>
+  <defs>
+    <linearGradient id="film-084-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#171122"/>
+      <stop offset="100%" stop-color="#0a0710"/>
+    </linearGradient>
+    <linearGradient id="film-084-veil" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0710" stop-opacity="0"/>
+      <stop offset="55%" stop-color="#0a0710" stop-opacity="0.82"/>
+      <stop offset="100%" stop-color="#0a0710" stop-opacity="0.97"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="600" height="900" fill="url(#film-084-bg)"/>
+
+  <g>
+    <rect x="0" y="90" width="600" height="23" fill="#8f6fd6" opacity="0.9"/>
+    <rect x="78" y="125" width="444" height="34" fill="#4d3a86" opacity="0.5"/>
+    <rect x="26" y="171" width="548" height="11" fill="#4d3a86" opacity="0.5"/>
+    <rect x="104" y="194" width="392" height="22" fill="#4d3a86" opacity="0.5"/>
+    <rect x="52" y="228" width="496" height="33" fill="#8f6fd6" opacity="0.9"/>
+    <rect x="0" y="273" width="600" height="10" fill="#4d3a86" opacity="0.5"/>
+    <rect x="78" y="295" width="444" height="21" fill="#4d3a86" opacity="0.5"/>
+    <rect x="26" y="328" width="548" height="32" fill="#4d3a86" opacity="0.5"/>
+    <rect x="104" y="372" width="392" height="9" fill="#8f6fd6" opacity="0.9"/>
+    <rect x="52" y="393" width="496" height="20" fill="#4d3a86" opacity="0.5"/>
+    <rect x="0" y="425" width="600" height="31" fill="#4d3a86" opacity="0.5"/>
+    <rect x="78" y="468" width="444" height="8" fill="#4d3a86" opacity="0.5"/>
+    <rect x="26" y="488" width="548" height="19" fill="#8f6fd6" opacity="0.9"/>
+    <rect x="104" y="519" width="392" height="30" fill="#4d3a86" opacity="0.5"/>
+  </g>
+
+  <rect x="0" y="440" width="600" height="460" fill="url(#film-084-veil)"/>
+  <rect x="56" y="672" width="70" height="4" fill="#8f6fd6"/>
+
+  <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#faf7f1" letter-spacing="-0.5"><tspan x="56" y="754">Lost Glass</tspan></text>
+
+  <text x="56" y="812" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#8f6fd6" letter-spacing="2.4">2008 &#183; EXPERIMENTAL</text>
+
+  <text x="56" y="848" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#a8a29a" letter-spacing="1.1">NETHERLANDS</text>
+</svg>
